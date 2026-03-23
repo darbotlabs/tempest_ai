@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tempest AI — Reinforcement Learning for a 1981 Arcade Classic</title>
+  <style>
+    :root {
+      --bg: #0a0a1a;
+      --surface: #111128;
+      --border: #2a2a5a;
+      --accent: #00e5ff;
+      --accent2: #ff4081;
+      --text: #e0e0f0;
+      --muted: #8888aa;
+      --code-bg: #0d0d2b;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      line-height: 1.7;
+      min-height: 100vh;
+    }
+
+    /* ── NAV ── */
+    nav {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(10, 10, 26, 0.92);
+      backdrop-filter: blur(10px);
+      border-bottom: 1px solid var(--border);
+      padding: 0 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 56px;
+    }
+    nav .logo {
+      font-weight: 700;
+      font-size: 1.1rem;
+      color: var(--accent);
+      letter-spacing: 0.05em;
+      text-decoration: none;
+    }
+    nav ul {
+      list-style: none;
+      display: flex;
+      gap: 1.5rem;
+    }
+    nav ul a {
+      color: var(--muted);
+      text-decoration: none;
+      font-size: 0.9rem;
+      transition: color 0.2s;
+    }
+    nav ul a:hover { color: var(--accent); }
+
+    /* ── HERO ── */
+    .hero {
+      text-align: center;
+      padding: 6rem 2rem 4rem;
+      background: radial-gradient(ellipse 80% 50% at 50% -10%, rgba(0,229,255,0.12) 0%, transparent 70%);
+    }
+    .hero h1 {
+      font-size: clamp(2rem, 5vw, 3.5rem);
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      line-height: 1.1;
+      margin-bottom: 1rem;
+    }
+    .hero h1 span { color: var(--accent); }
+    .hero p {
+      font-size: 1.15rem;
+      color: var(--muted);
+      max-width: 650px;
+      margin: 0 auto 2rem;
+    }
+    .btn-group { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
+    .btn {
+      display: inline-block;
+      padding: 0.65rem 1.6rem;
+      border-radius: 6px;
+      font-weight: 600;
+      font-size: 0.95rem;
+      text-decoration: none;
+      transition: all 0.2s;
+    }
+    .btn-primary {
+      background: var(--accent);
+      color: #000;
+    }
+    .btn-primary:hover { background: #33eeff; transform: translateY(-1px); }
+    .btn-secondary {
+      border: 1px solid var(--border);
+      color: var(--text);
+    }
+    .btn-secondary:hover { border-color: var(--accent); color: var(--accent); transform: translateY(-1px); }
+
+    /* ── SECTIONS ── */
+    section {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 4rem 2rem;
+    }
+    section + section { border-top: 1px solid var(--border); }
+
+    h2 {
+      font-size: 1.75rem;
+      font-weight: 700;
+      margin-bottom: 1.25rem;
+      color: var(--accent);
+    }
+    h3 {
+      font-size: 1.15rem;
+      font-weight: 600;
+      margin: 1.5rem 0 0.5rem;
+    }
+    p { margin-bottom: 1rem; color: var(--text); }
+    p:last-child { margin-bottom: 0; }
+
+    /* ── FEATURE GRID ── */
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 1.25rem;
+      margin-top: 1.5rem;
+    }
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 1.25rem 1.5rem;
+      transition: border-color 0.2s, transform 0.2s;
+    }
+    .card:hover { border-color: var(--accent); transform: translateY(-2px); }
+    .card-icon {
+      font-size: 1.75rem;
+      margin-bottom: 0.5rem;
+      display: block;
+    }
+    .card h3 { margin-top: 0; font-size: 1rem; color: var(--accent); }
+    .card p { font-size: 0.9rem; color: var(--muted); margin: 0; }
+
+    /* ── ARCH DIAGRAM ── */
+    .arch-box {
+      background: var(--code-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1.5rem;
+      margin-top: 1.25rem;
+      overflow-x: auto;
+    }
+    .arch-box pre {
+      font-family: 'Cascadia Code', 'Fira Code', monospace;
+      font-size: 0.8rem;
+      color: var(--accent);
+      white-space: pre;
+    }
+
+    /* ── CODE ── */
+    pre, code {
+      font-family: 'Cascadia Code', 'Fira Code', 'Consolas', monospace;
+    }
+    code {
+      background: var(--code-bg);
+      border: 1px solid var(--border);
+      padding: 0.15em 0.45em;
+      border-radius: 4px;
+      font-size: 0.875em;
+      color: var(--accent);
+    }
+    pre {
+      background: var(--code-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1.25rem;
+      overflow-x: auto;
+      margin: 1rem 0;
+      font-size: 0.875rem;
+      line-height: 1.6;
+      color: #c9d1d9;
+    }
+    pre .comment { color: var(--muted); }
+    pre .kw { color: var(--accent2); }
+    pre .str { color: #a8ff78; }
+
+    /* ── STATS ── */
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+      gap: 1rem;
+      margin-top: 1.25rem;
+    }
+    .stat {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 1rem;
+      text-align: center;
+    }
+    .stat-num {
+      font-size: 2rem;
+      font-weight: 800;
+      color: var(--accent);
+      display: block;
+    }
+    .stat-label { font-size: 0.8rem; color: var(--muted); }
+
+    /* ── FOOTER ── */
+    footer {
+      border-top: 1px solid var(--border);
+      text-align: center;
+      padding: 2rem;
+      color: var(--muted);
+      font-size: 0.875rem;
+    }
+    footer a { color: var(--accent); text-decoration: none; }
+    footer a:hover { text-decoration: underline; }
+
+    /* ── BADGE ── */
+    .badges { margin-bottom: 1.5rem; display: flex; gap: 0.5rem; justify-content: center; flex-wrap: wrap; }
+    .badge {
+      display: inline-block;
+      padding: 0.25em 0.7em;
+      border-radius: 999px;
+      font-size: 0.78rem;
+      font-weight: 600;
+      letter-spacing: 0.03em;
+      border: 1px solid var(--border);
+      color: var(--muted);
+    }
+    .badge.blue { border-color: var(--accent); color: var(--accent); }
+    .badge.pink { border-color: var(--accent2); color: var(--accent2); }
+    .badge.green { border-color: #a8ff78; color: #a8ff78; }
+  </style>
+</head>
+<body>
+
+<nav>
+  <a class="logo" href="#">⚡ Tempest AI</a>
+  <ul>
+    <li><a href="#features">Features</a></li>
+    <li><a href="#architecture">Architecture</a></li>
+    <li><a href="#quickstart">Quick Start</a></li>
+    <li><a href="https://github.com/darbotlabs/tempest_ai">GitHub</a></li>
+  </ul>
+</nav>
+
+<!-- HERO -->
+<div class="hero">
+  <div class="badges">
+    <span class="badge blue">Python 3</span>
+    <span class="badge blue">PyTorch</span>
+    <span class="badge pink">Rainbow DQN</span>
+    <span class="badge green">MAME · Lua</span>
+    <span class="badge">MIT License</span>
+  </div>
+  <h1>Teaching a Neural Network<br>to Play a <span>1981 Arcade Classic</span></h1>
+  <p>
+    Tempest AI is an open-source reinforcement learning system that masters Atari's
+    <em>Tempest</em> in real time — using distributional RL, self-attention, and a
+    hand-coded expert teacher that the agent eventually surpasses.
+  </p>
+  <div class="btn-group">
+    <a class="btn btn-primary" href="https://github.com/darbotlabs/tempest_ai">View on GitHub</a>
+    <a class="btn btn-secondary" href="#quickstart">Get Started</a>
+  </div>
+</div>
+
+<!-- STATS -->
+<section id="stats">
+  <div class="stats">
+    <div class="stat"><span class="stat-num">44</span><span class="stat-label">Joint Actions<br>(4 fire × 11 spinner)</span></div>
+    <div class="stat"><span class="stat-num">195</span><span class="stat-label">State Features<br>per Frame</span></div>
+    <div class="stat"><span class="stat-num">25M</span><span class="stat-label">Replay Buffer<br>Capacity (frames)</span></div>
+    <div class="stat"><span class="stat-num">36</span><span class="stat-label">Parallel MAME<br>Clients Supported</span></div>
+    <div class="stat"><span class="stat-num">51</span><span class="stat-label">C51 Distributional<br>Atoms</span></div>
+    <div class="stat"><span class="stat-num">8</span><span class="stat-label">Attention Heads<br>over Enemy Slots</span></div>
+  </div>
+</section>
+
+<!-- FEATURES -->
+<section id="features">
+  <h2>Key Features</h2>
+  <div class="grid">
+    <div class="card">
+      <span class="card-icon">🧠</span>
+      <h3>Rainbow DQN</h3>
+      <p>Distributional C51, dueling streams, prioritized experience replay, and N-step returns — all combined in a single agent.</p>
+    </div>
+    <div class="card">
+      <span class="card-icon">👁️</span>
+      <h3>Self-Attention</h3>
+      <p>Multi-head attention over 7 enemy slots lets the agent reason about all threats simultaneously before acting.</p>
+    </div>
+    <div class="card">
+      <span class="card-icon">🎓</span>
+      <h3>Expert Bootstrapping</h3>
+      <p>A hand-coded Lua expert system provides behavioral-cloning supervision early in training. The DQN gradually takes over.</p>
+    </div>
+    <div class="card">
+      <span class="card-icon">⚡</span>
+      <h3>Real-Time Training</h3>
+      <p>Thousands of game frames per second flow through a TCP bridge from MAME into the GPU training loop — no batch pre-collection needed.</p>
+    </div>
+    <div class="card">
+      <span class="card-icon">🔀</span>
+      <h3>Parallel Clients</h3>
+      <p>Up to 36 MAME instances can connect simultaneously, each playing a separate game and generating independent training data.</p>
+    </div>
+    <div class="card">
+      <span class="card-icon">📊</span>
+      <h3>Live Dashboard</h3>
+      <p>A built-in web dashboard at <code>localhost:8765</code> displays real-time training metrics, reward curves, and model statistics.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ARCHITECTURE -->
+<section id="architecture">
+  <h2>Architecture</h2>
+  <p>
+    The system is split into two sides: a <strong>Lua layer</strong> inside MAME
+    that reads game memory and sends state to Python, and a <strong>Python training
+    server</strong> that runs the neural network and pushes actions back.
+  </p>
+  <div class="arch-box">
+    <pre>
+  MAME (Lua)                         Python Training Server
+  ──────────────────                 ────────────────────────────────────
+  state.lua                          socket_server.py
+    Read ~80 memory addresses    ──▶   Receive 195-float state vector
+    Build 195-float state vec          Queue frame into AsyncReplayBuffer
+  logic.lua                                │
+    Expert rule-based action               │ batches (PER)
+  main.lua                                 ▼
+    Serialize + send via TCP         training.py ──▶ train_step()
+    Receive 3-byte action reply            │         C51 Bellman update
+    Apply to game controls                 │         Gradient descent (GPU)
+                                           ▼
+                                     aimodel.py
+                                       RainbowAgent
+                                       ├─ Enemy attention (8 heads)
+                                       ├─ Trunk MLP (384 hidden)
+                                       ├─ Dueling streams
+                                       └─ C51 output (51 atoms × 44 actions)
+    </pre>
+  </div>
+
+  <h3>State Vector (195 floats)</h3>
+  <p>
+    Each game frame is encoded into a fixed-length vector containing: player segment &amp;
+    position, 7 enemy slots (type, depth, segment, velocity, alive flag, fuseball flags),
+    shot positions, spike heights, level geometry, score delta, lives remaining, and more.
+  </p>
+
+  <h3>Reward Design</h3>
+  <p>Two complementary signals drive learning:</p>
+  <ul style="padding-left: 1.5rem; color: var(--text); margin-bottom: 1rem;">
+    <li><strong>Objective reward</strong> — score deltas from killing enemies (computed in Lua).</li>
+    <li><strong>Subjective reward</strong> — positioning quality: are you aimed at a threat? Are you about to die? (computed by the expert logic module).</li>
+  </ul>
+  <p>Pre-death frames (last 120 before dying) receive boosted replay priority so the agent
+  learns survivability from near-death experiences.</p>
+</section>
+
+<!-- QUICK START -->
+<section id="quickstart">
+  <h2>Quick Start</h2>
+
+  <h3>1. Install Python dependencies</h3>
+  <pre><span class="comment"># Requires Python 3.10+ and PyTorch</span>
+pip install -r requirements.txt</pre>
+
+  <h3>2. Start the training server</h3>
+  <pre><span class="comment"># From repo root</span>
+cd Scripts
+python3 main.py</pre>
+  <p>The server starts on <code>0.0.0.0:9999</code> and opens the live dashboard at
+  <a href="http://localhost:8765" style="color: var(--accent);">http://localhost:8765</a>.</p>
+
+  <h3>3. Launch MAME instances</h3>
+  <pre><span class="comment"># Linux / macOS — launch 4 parallel instances</span>
+./startmame.sh 4
+
+<span class="comment"># Windows</span>
+startmame.cmd</pre>
+  <p>MAME must be installed separately, along with the Tempest ROM (<code>tempest.zip</code>).
+  The Lua autoboot script is passed automatically by the launch scripts.</p>
+
+  <h3>4. Watch training</h3>
+  <p>Open <code>http://localhost:8765</code> in a browser to see live reward curves,
+  episode counts, exploration rates, and more. The agent starts by imitating the expert
+  system and gradually discovers its own strategies.</p>
+
+  <h3>Running Tests</h3>
+  <pre><span class="comment"># Full test suite (no MAME or GPU required)</span>
+pytest tests/
+
+<span class="comment"># Quick pipeline smoke test</span>
+python3 Scripts/test_pipeline.py</pre>
+</section>
+
+<!-- PROJECT STRUCTURE -->
+<section id="structure">
+  <h2>Project Structure</h2>
+  <div class="grid">
+    <div class="card">
+      <h3>Scripts/</h3>
+      <p>All Python &amp; Lua source. <code>main.py</code> is the Python entry point. <code>main.lua</code> is the MAME entry point.</p>
+    </div>
+    <div class="card">
+      <h3>tests/</h3>
+      <p>pytest test suite. Covers state extraction, enemy masking, pre-death sampling, avoidance logic, and superzap penalties.</p>
+    </div>
+    <div class="card">
+      <h3>models/</h3>
+      <p>Saved checkpoints (<code>tempest_model_latest.pt</code>). Not committed to git — generated at runtime.</p>
+    </div>
+    <div class="card">
+      <h3>Code/Atari/</h3>
+      <p>Original 6502 assembly source for the Tempest ROM. Reference material for understanding game internals.</p>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <p>
+    Built with ❤️ by <a href="https://github.com/darbotlabs">darbotlabs</a> ·
+    <a href="https://github.com/darbotlabs/tempest_ai">GitHub Repository</a> ·
+    <a href="https://github.com/darbotlabs/tempest_ai/blob/main/README.md">Full Documentation</a>
+  </p>
+</footer>
+
+</body>
+</html>
