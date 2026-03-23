@@ -9,3 +9,13 @@ venv/
 *.pyc
 audio/*.mp3
 log.txt
+MAME_DATABASE/
+MAME_EMULATOR/
+MAME_FRONTEND/
+MAME_ROMS/
+roms/
+**/roms/
+*.chd
+*.cue
+*.iso
+*.rom
