@@ -1,0 +1,4859 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>MAME</listname>
+		<lastlistupdate>06/03/2012</lastlistupdate>
+		<listversion>.146 Ongoing</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="64streetj" index="true" image="6">
+		<description>64th. Street - A Detective Story (Japan)</description>
+		<cloneof>64street</cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="64street" index="" image="">
+		<description>64th. Street - A Detective Story (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="aoh" index="true" image="a">
+		<description>Age Of Heroes - Silkroad 2 (v0.63 - 2001/02/07)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Unico</manufacturer>
+		<year>2001</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="astormbl" index="" image="">
+		<description>Alien Storm (bootleg, set 1)</description>
+		<cloneof>astorm</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="astormb2" index="" image="">
+		<description>Alien Storm (bootleg, set 2)</description>
+		<cloneof>astorm</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="astormj" index="" image="">
+		<description>Alien Storm (Japan, 2 Players, FD1094 317-0146)</description>
+		<cloneof>astorm</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="astormu" index="" image="">
+		<description>Alien Storm (US, 3 Players, FD1094 317-0147)</description>
+		<cloneof>astorm</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="astorm" index="" image="">
+		<description>Alien Storm (World, 2 Players, FD1094 317-0154)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="astorm3" index="" image="">
+		<description>Alien Storm (World, 3 Players, FD1094 317-0148)</description>
+		<cloneof>astorm</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="avspa" index="" image="">
+		<description>Alien vs. Predator (Asia 940520)</description>
+		<cloneof>avsp</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="avspd" index="" image="">
+		<description>Alien vs. Predator (Euro 940520 Phoenix Edition) (bootleg)</description>
+		<cloneof>avsp</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1994</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="avsp" index="" image="">
+		<description>Alien vs. Predator (Euro 940520)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="avsph" index="" image="">
+		<description>Alien vs. Predator (Hispanic 940520)</description>
+		<cloneof>avsp</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="avspj" index="" image="">
+		<description>Alien vs. Predator (Japan 940520)</description>
+		<cloneof>avsp</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="avspu" index="" image="">
+		<description>Alien vs. Predator (USA 940520)</description>
+		<cloneof>avsp</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mt_beast" index="" image="">
+		<description>Altered Beast (Mega-Tech)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="altbeast2" index="" image="">
+		<description>Altered Beast (set 2, MC-8123B 317-0066)</description>
+		<cloneof>altbeast</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="altbeast4" index="" image="">
+		<description>Altered Beast (set 4, MC-8123B 317-0066)</description>
+		<cloneof>altbeast</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="altbeast5" index="" image="">
+		<description>Altered Beast (set 5, FD1094 317-0069)</description>
+		<cloneof>altbeast</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="altbeast6" index="" image="">
+		<description>Altered Beast (set 6, 8751 317-0076)</description>
+		<cloneof>altbeast</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="altbeast" index="" image="">
+		<description>Altered Beast (set 8, 8751 317-0078)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arabfgtj" index="" image="">
+		<description>Arabian Fight (Japan)</description>
+		<cloneof>arabfgt</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arabfgtu" index="" image="">
+		<description>Arabian Fight (US)</description>
+		<cloneof>arabfgt</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arabfgt" index="" image="">
+		<description>Arabian Fight (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arabianmu" index="" image="">
+		<description>Arabian Magic (Ver 1.0A 1992/07/06)</description>
+		<cloneof>arabianm</cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arabianmj" index="" image="">
+		<description>Arabian Magic (Ver 1.0J 1992/07/06)</description>
+		<cloneof>arabianm</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arabianm" index="" image="">
+		<description>Arabian Magic (Ver 1.0O 1992/07/06)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="armwara" index="" image="">
+		<description>Armored Warriors (Asia 940920)</description>
+		<cloneof>armwar</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="armwar1d" index="" image="">
+		<description>Armored Warriors (Euro 941011 Phoenix Edition) (bootleg)</description>
+		<cloneof>armwar</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1994</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="armwarr1" index="" image="">
+		<description>Armored Warriors (Euro 941011)</description>
+		<cloneof>armwar</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="armwar" index="" image="">
+		<description>Armored Warriors (Euro 941024)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="armwaru1" index="" image="">
+		<description>Armored Warriors (USA 940920)</description>
+		<cloneof>armwar</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="armwaru" index="" image="">
+		<description>Armored Warriors (USA 941024)</description>
+		<cloneof>armwar</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="asterixaad" index="" image="">
+		<description>Asterix (ver AAD)</description>
+		<cloneof>asterix</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="asterixeaa" index="" image="">
+		<description>Asterix (ver EAA)</description>
+		<cloneof>asterix</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="asterixeac" index="" image="">
+		<description>Asterix (ver EAC)</description>
+		<cloneof>asterix</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="asterix" index="" image="">
+		<description>Asterix (ver EAD)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="asterixj" index="" image="">
+		<description>Asterix (ver JAD)</description>
+		<cloneof>asterix</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="avengers" index="" image="">
+		<description>Avengers (US set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1987</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="avengers2" index="" image="">
+		<description>Avengers (US set 2)</description>
+		<cloneof>avengers</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1987</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="brapboys" index="true" image="b">
+		<description>B.Rap Boys (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="brapboysj" index="" image="">
+		<description>B.Rap Boys Special (Japan)</description>
+		<cloneof>brapboys</cloneof>
+		<crc></crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="brapboysu" index="" image="">
+		<description>B.Rap Boys Special (US)</description>
+		<cloneof>brapboys</cloneof>
+		<crc></crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="batmanfr" index="" image="">
+		<description>Batman Forever (JUE 960507 V1.000)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1996</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="batcira" index="" image="">
+		<description>Battle Circuit (Asia 970319)</description>
+		<cloneof>batcir</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1997</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="batcird" index="" image="">
+		<description>Battle Circuit (Euro 970319 Phoenix Edition) (bootleg)</description>
+		<cloneof>batcir</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1997</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="batcir" index="" image="">
+		<description>Battle Circuit (Euro 970319)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1997</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="batcirj" index="" image="">
+		<description>Battle Circuit (Japan 970319)</description>
+		<cloneof>batcir</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1997</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="btoads" index="" image="">
+		<description>Battle Toads</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Rare</manufacturer>
+		<year>1994</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="battlcry" index="" image="">
+		<description>Battlecry</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Home Data</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="punisherbz" index="" image="">
+		<description>Biaofeng Zhanjing (Chinese bootleg of The Punisher)</description>
+		<cloneof>punisher</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bigfight" index="" image="">
+		<description>Big Fight - Big Trouble In The Atlantic Ocean</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tatsumi</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bmaster" index="" image="">
+		<description>Blade Master (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bcrusher" index="" image="">
+		<description>Bone Crusher</description>
+		<cloneof>kncljoe</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1985</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="brutforc" index="" image="">
+		<description>Brute Force</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Leland Corp.</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="buccanrs" index="" image="">
+		<description>Buccaneers (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Duintronic</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="buccanrsa" index="" image="">
+		<description>Buccaneers (set 2)</description>
+		<cloneof>buccanrs</cloneof>
+		<crc></crc>
+		<manufacturer>Duintronic</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="burningfh" index="" image="">
+		<description>Burning Fight (NGH-018)(US)</description>
+		<cloneof>burningf</cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="burningf" index="" image="">
+		<description>Burning Fight (NGM-018)(NGH-018)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="burningfp" index="" image="">
+		<description>Burning Fight (prototype)</description>
+		<cloneof>burningf</cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dinou" index="true" image="c">
+		<description>Cadillacs and Dinosaurs (USA 930201)</description>
+		<cloneof>dino</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dino" index="" image="">
+		<description>Cadillacs and Dinosaurs (World 930201)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dinoj" index="" image="">
+		<description>Cadillacs: Kyouryuu Shin Seiki (Japan 930201)</description>
+		<cloneof>dino</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="captavena" index="" image="">
+		<description>Captain America and The Avengers (Asia Rev 1.0)</description>
+		<cloneof>captaven</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="captaven" index="" image="">
+		<description>Captain America and The Avengers (Asia Rev 1.4)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="captavenj" index="" image="">
+		<description>Captain America and The Avengers (Japan Rev 0.2)</description>
+		<cloneof>captaven</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="captavene" index="" image="">
+		<description>Captain America and The Avengers (UK Rev 1.4)</description>
+		<cloneof>captaven</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="captavenua" index="" image="">
+		<description>Captain America and The Avengers (US Rev 1.4)</description>
+		<cloneof>captaven</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="captavenuu" index="" image="">
+		<description>Captain America and The Avengers (US Rev 1.6)</description>
+		<cloneof>captaven</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="captavenu" index="" image="">
+		<description>Captain America and The Avengers (US Rev 1.9)</description>
+		<cloneof>captaven</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="captcommjr1" index="" image="">
+		<description>Captain Commando (Japan 910928)</description>
+		<cloneof>captcomm</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="captcommj" index="" image="">
+		<description>Captain Commando (Japan 911202)</description>
+		<cloneof>captcomm</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="captcommu" index="" image="">
+		<description>Captain Commando (USA 910928)</description>
+		<cloneof>captcomm</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="captcommr1" index="" image="">
+		<description>Captain Commando (World 911014)</description>
+		<cloneof>captcomm</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="captcomm" index="" image="">
+		<description>Captain Commando (World 911202)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="chanbara" index="" image="">
+		<description>Chanbara</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1985</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="chinhero" index="" image="">
+		<description>Chinese Hero</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taiyo</manufacturer>
+		<year>1984</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="chinhero2" index="" image="">
+		<description>Chinese Hero (older)</description>
+		<cloneof>chinhero</cloneof>
+		<crc></crc>
+		<manufacturer>Taiyo</manufacturer>
+		<year>1984</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="chinherot" index="" image="">
+		<description>Chinese Heroe (Taito)</description>
+		<cloneof>chinhero</cloneof>
+		<crc></crc>
+		<manufacturer>Taiyo (Taito license)</manufacturer>
+		<year>1984</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crimfghtj" index="" image="">
+		<description>Crime Fighters (Japan 2 Players)</description>
+		<cloneof>crimfght</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crimfght" index="" image="">
+		<description>Crime Fighters (US 4 players)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crimfght2" index="" image="">
+		<description>Crime Fighters (World 2 Players)</description>
+		<cloneof>crimfght</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vendettaj" index="" image="">
+		<description>Crime Fighters 2 (Japan 2 Players ver. P)</description>
+		<cloneof>vendetta</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crossbld" index="" image="">
+		<description>Cross Blades! (Japan)</description>
+		<cloneof>bmaster</cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cbusterj" index="" image="">
+		<description>Crude Buster (Japan)</description>
+		<cloneof>cbuster</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cbusterw" index="" image="">
+		<description>Crude Buster (World FU version)</description>
+		<cloneof>cbuster</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cbuster" index="" image="">
+		<description>Crude Buster (World FX version)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddcrewj" index="true" image="d">
+		<description>D. D. Crew (Japan, 2 Players, FD1094 317-0182)</description>
+		<cloneof>ddcrew</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddcrewu" index="" image="">
+		<description>D. D. Crew (US, 4 Players, FD1094 317-0186)</description>
+		<cloneof>ddcrew</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddcrew2" index="" image="">
+		<description>D. D. Crew (World, 2 Players, FD1094 317-0184)</description>
+		<cloneof>ddcrew</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddcrew" index="" image="">
+		<description>D. D. Crew (World, 3 Players, FD1094 317-0190)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddcrew1" index="" image="">
+		<description>D. D. Crew (World, 4 Players, FD1094 317-0187)</description>
+		<cloneof>ddcrew</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="darkseal2" index="" image="">
+		<description>Dark Seal 2 (Japan v2.1)</description>
+		<cloneof>wizdfire</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="powj" index="" image="">
+		<description>Datsugoku - Prisoners of War (Japan)</description>
+		<cloneof>pow</cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="denjinmk" index="" image="">
+		<description>Denjin Makai</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Banpresto</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="diehard" index="" image="">
+		<description>Die Hard Arcade (UET 960515 V1.000)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1996</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="djboyj" index="" image="">
+		<description>DJ Boy (Japan)</description>
+		<cloneof>djboy</cloneof>
+		<crc></crc>
+		<manufacturer>Kaneko (Sega license)</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="djboy" index="" image="">
+		<description>DJ Boy (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Kaneko (American Sammy license)</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="djboya" index="" image="">
+		<description>DJ Boy (set 2)</description>
+		<cloneof>djboy</cloneof>
+		<crc></crc>
+		<manufacturer>Kaneko (American Sammy license)</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddragonb" index="" image="">
+		<description>Double Dragon (bootleg with HD6309)</description>
+		<cloneof>ddragon</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1987</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddragonba" index="" image="">
+		<description>Double Dragon (bootleg with M6803)</description>
+		<cloneof>ddragon</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1987</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddragonb2" index="" image="">
+		<description>Double Dragon (bootleg)</description>
+		<cloneof>ddragon</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1987</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddragon" index="" image="">
+		<description>Double Dragon (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Technos Japan</manufacturer>
+		<year>1987</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pc_ddrgn" index="" image="">
+		<description>Double Dragon (PlayChoice-10)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Technos Japan</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddragonu" index="" image="">
+		<description>Double Dragon (US set 1)</description>
+		<cloneof>ddragon</cloneof>
+		<crc></crc>
+		<manufacturer>Technos Japan (Taito America license)</manufacturer>
+		<year>1987</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddragonua" index="" image="">
+		<description>Double Dragon (US set 2)</description>
+		<cloneof>ddragon</cloneof>
+		<crc></crc>
+		<manufacturer>Technos Japan (Taito America license)</manufacturer>
+		<year>1987</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddragonub" index="" image="">
+		<description>Double Dragon (US set 3)</description>
+		<cloneof>ddragon</cloneof>
+		<crc></crc>
+		<manufacturer>Technos Japan (Taito America license)</manufacturer>
+		<year>1987</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddragonw" index="" image="">
+		<description>Double Dragon (World set 1)</description>
+		<cloneof>ddragon</cloneof>
+		<crc></crc>
+		<manufacturer>Technos Japan (Taito license)</manufacturer>
+		<year>1987</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddragonw1" index="" image="">
+		<description>Double Dragon (World set 2)</description>
+		<cloneof>ddragon</cloneof>
+		<crc></crc>
+		<manufacturer>Technos Japan (Taito license)</manufacturer>
+		<year>1987</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddragon3b" index="" image="">
+		<description>Double Dragon 3 - The Rosetta Stone (bootleg)</description>
+		<cloneof>ddragon3</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddragon3j" index="" image="">
+		<description>Double Dragon 3 - The Rosetta Stone (Japan)</description>
+		<cloneof>ddragon3</cloneof>
+		<crc></crc>
+		<manufacturer>Technos Japan</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddragon3p" index="" image="">
+		<description>Double Dragon 3 - The Rosetta Stone (prototype)</description>
+		<cloneof>ddragon3</cloneof>
+		<crc></crc>
+		<manufacturer>Technos Japan</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddragon3" index="" image="">
+		<description>Double Dragon 3 - The Rosetta Stone (US)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Technos Japan</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddragon2u" index="" image="">
+		<description>Double Dragon II - The Revenge (US)</description>
+		<cloneof>ddragon2</cloneof>
+		<crc></crc>
+		<manufacturer>Technos Japan</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddragon2" index="" image="">
+		<description>Double Dragon II - The Revenge (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Technos Japan</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="downtownj" index="" image="">
+		<description>DownTown / Mokugeki (joystick hack)</description>
+		<cloneof>downtown</cloneof>
+		<crc></crc>
+		<manufacturer>Seta</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="downtownp" index="" image="">
+		<description>DownTown / Mokugeki (prototype)</description>
+		<cloneof>downtown</cloneof>
+		<crc></crc>
+		<manufacturer>Seta</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="downtown" index="" image="">
+		<description>DownTown / Mokugeki (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Seta</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="downtown2" index="" image="">
+		<description>DownTown / Mokugeki (set 2)</description>
+		<cloneof>downtown</cloneof>
+		<crc></crc>
+		<manufacturer>Seta</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="drgnbowl" index="" image="">
+		<description>Dragon Bowl</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nics</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddsoma" index="" image="">
+		<description>Dungeons &amp; Dragons: Shadow over Mystara (Asia 960619)</description>
+		<cloneof>ddsom</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1996</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddsomb" index="" image="">
+		<description>Dungeons &amp; Dragons: Shadow over Mystara (Brazil 960223)</description>
+		<cloneof>ddsom</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1996</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddsomr3" index="" image="">
+		<description>Dungeons &amp; Dragons: Shadow over Mystara (Euro 960208)</description>
+		<cloneof>ddsom</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1996</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddsomr2" index="" image="">
+		<description>Dungeons &amp; Dragons: Shadow over Mystara (Euro 960209)</description>
+		<cloneof>ddsom</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1996</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddsomr1" index="" image="">
+		<description>Dungeons &amp; Dragons: Shadow over Mystara (Euro 960223)</description>
+		<cloneof>ddsom</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1996</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddsom" index="" image="">
+		<description>Dungeons &amp; Dragons: Shadow over Mystara (Euro 960619)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1996</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddsomh" index="" image="">
+		<description>Dungeons &amp; Dragons: Shadow over Mystara (Hispanic 960223)</description>
+		<cloneof>ddsom</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1996</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddsomjr1" index="" image="">
+		<description>Dungeons &amp; Dragons: Shadow over Mystara (Japan 960206)</description>
+		<cloneof>ddsom</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1996</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddsomj" index="" image="">
+		<description>Dungeons &amp; Dragons: Shadow over Mystara (Japan 960619)</description>
+		<cloneof>ddsom</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1996</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddsomur1" index="" image="">
+		<description>Dungeons &amp; Dragons: Shadow over Mystara (USA 960209)</description>
+		<cloneof>ddsom</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1996</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddsomud" index="" image="">
+		<description>Dungeons &amp; Dragons: Shadow over Mystara (USA 960619 Phoenix Edition) (bootleg)</description>
+		<cloneof>ddsom</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1996</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddsomu" index="" image="">
+		<description>Dungeons &amp; Dragons: Shadow over Mystara (USA 960619)</description>
+		<cloneof>ddsom</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1996</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddtoda" index="" image="">
+		<description>Dungeons &amp; Dragons: Tower of Doom (Asia 940113)</description>
+		<cloneof>ddtod</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddtodr1" index="" image="">
+		<description>Dungeons &amp; Dragons: Tower of Doom (Euro 940113)</description>
+		<cloneof>ddtod</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddtodd" index="" image="">
+		<description>Dungeons &amp; Dragons: Tower of Doom (Euro 940412 Phoenix Edition) (bootleg)</description>
+		<cloneof>ddtod</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddtod" index="" image="">
+		<description>Dungeons &amp; Dragons: Tower of Doom (Euro 940412)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddtodhr2" index="" image="">
+		<description>Dungeons &amp; Dragons: Tower of Doom (Hispanic 940113)</description>
+		<cloneof>ddtod</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddtodhr1" index="" image="">
+		<description>Dungeons &amp; Dragons: Tower of Doom (Hispanic 940125)</description>
+		<cloneof>ddtod</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddtodh" index="" image="">
+		<description>Dungeons &amp; Dragons: Tower of Doom (Hispanic 940412)</description>
+		<cloneof>ddtod</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddtodjr2" index="" image="">
+		<description>Dungeons &amp; Dragons: Tower of Doom (Japan 940113)</description>
+		<cloneof>ddtod</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddtodjr1" index="" image="">
+		<description>Dungeons &amp; Dragons: Tower of Doom (Japan 940125)</description>
+		<cloneof>ddtod</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddtodj" index="" image="">
+		<description>Dungeons &amp; Dragons: Tower of Doom (Japan 940412)</description>
+		<cloneof>ddtod</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddtodur1" index="" image="">
+		<description>Dungeons &amp; Dragons: Tower of Doom (USA 940113)</description>
+		<cloneof>ddtod</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddtodu" index="" image="">
+		<description>Dungeons &amp; Dragons: Tower of Doom (USA 940125)</description>
+		<cloneof>ddtod</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dnmtdeka" index="" image="">
+		<description>Dynamite Deka (J 960515 V1.000)</description>
+		<cloneof>diehard</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1996</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddux1" index="" image="">
+		<description>Dynamite Dux (set 1, 8751 317-0095)</description>
+		<cloneof>ddux</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddux" index="" image="">
+		<description>Dynamite Dux (set 2, FD1094 317-0096)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dynwara" index="" image="">
+		<description>Dynasty Wars (USA, B-Board 88622B-3)</description>
+		<cloneof>dynwar</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dynwar" index="" image="">
+		<description>Dynasty Wars (USA, B-Board 89624B-?)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="eightman" index="true" image="e">
+		<description>Eight Man (NGM-025)(NGH-025)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK / Pallas</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="exprraid" index="" image="">
+		<description>Express Raider (US set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East USA</manufacturer>
+		<year>1986</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="exprraida" index="" image="">
+		<description>Express Raider (US set 2)</description>
+		<cloneof>exprraid</cloneof>
+		<crc></crc>
+		<manufacturer>Data East USA</manufacturer>
+		<year>1986</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="fightrol" index="true" image="f">
+		<description>Fighting Roller</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Kaneko (Taito license)</manufacturer>
+		<year>1983</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="fcrash" index="" image="">
+		<description>Final Crash (bootleg of Final Fight)</description>
+		<cloneof>ffight</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (Playmark)</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ffightj1" index="" image="">
+		<description>Final Fight (Japan 900112)</description>
+		<cloneof>ffight</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ffightj2" index="" image="">
+		<description>Final Fight (Japan 900305)</description>
+		<cloneof>ffight</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ffightj" index="" image="">
+		<description>Final Fight (Japan)</description>
+		<cloneof>ffight</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ffightua" index="" image="">
+		<description>Final Fight (USA 900112)</description>
+		<cloneof>ffight</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ffightub" index="" image="">
+		<description>Final Fight (USA 900613)</description>
+		<cloneof>ffight</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ffightu" index="" image="">
+		<description>Final Fight (USA, set 1)</description>
+		<cloneof>ffight</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ffightu1" index="" image="">
+		<description>Final Fight (USA, set 2)</description>
+		<cloneof>ffight</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ffight" index="" image="">
+		<description>Final Fight (World, set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ffighta" index="" image="">
+		<description>Final Fight (World, set 2)</description>
+		<cloneof>ffight</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ffight2b" index="" image="">
+		<description>Final Fight 2 (SNES bootleg)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1996</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="flashgal" index="" image="">
+		<description>Flashgal (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1985</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="flashgala" index="" image="">
+		<description>Flashgal (set 2)</description>
+		<cloneof>flashgal</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1985</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gaia" index="true" image="g">
+		<description>Gaia Crusaders</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Noise Factory</manufacturer>
+		<year>1999</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gaiapols" index="" image="">
+		<description>Gaiapolis (ver EAF)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gaiapolsj" index="" image="">
+		<description>Gaiapolis (ver JAF)</description>
+		<cloneof>gaiapols</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gaiapolsu" index="" image="">
+		<description>Gaiapolis (ver UAF)</description>
+		<cloneof>gaiapols</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gangwars" index="" image="">
+		<description>Gang Wars</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Alpha Denshi Co.</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gangwarsu" index="" image="">
+		<description>Gang Wars (US)</description>
+		<cloneof>gangwars</cloneof>
+		<crc></crc>
+		<manufacturer>Alpha Denshi Co.</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtstarb1" index="" image="">
+		<description>Get Star (bootleg set 1)</description>
+		<cloneof>getstar</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1986</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtstarb2" index="" image="">
+		<description>Get Star (bootleg set 2)</description>
+		<cloneof>getstar</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1986</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="getstarj" index="" image="">
+		<description>Get Star (Japan)</description>
+		<cloneof>getstar</cloneof>
+		<crc></crc>
+		<manufacturer>Toaplan / Taito</manufacturer>
+		<year>1986</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="denseib" index="" image="">
+		<description>Ghost Chaser Densei (SNES bootleg)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1996</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gladiatr" index="" image="">
+		<description>Gladiator (US)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1986</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mt_gaxe" index="" image="">
+		<description>Golden Axe (Mega-Tech)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="goldnaxe1" index="" image="">
+		<description>Golden Axe (set 1, World, FD1094 317-0110)</description>
+		<cloneof>goldnaxe</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="goldnaxe2" index="" image="">
+		<description>Golden Axe (set 2, US, 8751 317-0112)</description>
+		<cloneof>goldnaxe</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="goldnaxe3" index="" image="">
+		<description>Golden Axe (set 3, World, FD1094 317-0120)</description>
+		<cloneof>goldnaxe</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="goldnaxej" index="" image="">
+		<description>Golden Axe (set 4, Japan, FD1094 317-0121)</description>
+		<cloneof>goldnaxe</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="goldnaxeu" index="" image="">
+		<description>Golden Axe (set 5, US, FD1094 317-0122)</description>
+		<cloneof>goldnaxe</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="goldnaxe" index="" image="">
+		<description>Golden Axe (set 6, US, 8751 317-123A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mp_gaxe2" index="" image="">
+		<description>Golden Axe II (Mega Play)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mt_gaxe2" index="" image="">
+		<description>Golden Axe II (Mega-Tech)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ga2j" index="" image="">
+		<description>Golden Axe: The Revenge of Death Adder (Japan)</description>
+		<cloneof>ga2</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ga2u" index="" image="">
+		<description>Golden Axe: The Revenge of Death Adder (US)</description>
+		<cloneof>ga2</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ga2" index="" image="">
+		<description>Golden Axe: The Revenge of Death Adder (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="greatgur" index="" image="">
+		<description>Great Gurianos (Japan?)</description>
+		<cloneof>gladiatr</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1986</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="growlu" index="" image="">
+		<description>Growl (US)</description>
+		<cloneof>growl</cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="growl" index="" image="">
+		<description>Growl (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="getstar" index="" image="">
+		<description>Guardian (US)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Toaplan / Taito America Corporation (Kitkorp license)</manufacturer>
+		<year>1986</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="grdians" index="" image="">
+		<description>Guardians / Denjin Makai II</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Banpresto</manufacturer>
+		<year>1995</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="guardian" index="" image="">
+		<description>Guardians of the &apos;Hood</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hachoo" index="true" image="h">
+		<description>Hachoo!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="buraiken" index="" image="">
+		<description>Hissatsu Buraiken (Japan)</description>
+		<cloneof>avengers</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1987</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hookj" index="" image="">
+		<description>Hook (Japan)</description>
+		<cloneof>hook</cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hooku" index="" image="">
+		<description>Hook (US)</description>
+		<cloneof>hook</cloneof>
+		<crc></crc>
+		<manufacturer>Irem America</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hook" index="" image="">
+		<description>Hook (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wofhfh" index="" image="">
+		<description>Huo Feng Huang (Chinese bootleg of Sangokushi II)</description>
+		<cloneof>wof</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1999</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="iron" index="true" image="i">
+		<description>Iron (SNES bootleg)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1996</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jdreddp" index="true" image="j">
+		<description>Judge Dredd (rev LA1, prototype)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jzth" index="" image="">
+		<description>Jue Zhan Tian Huang</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>unknown</manufacturer>
+		<year>2000</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="altbeastj3" index="" image="">
+		<description>Juuouki (set 3, Japan, FD1094 317-0068)</description>
+		<cloneof>altbeast</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="altbeastj" index="" image="">
+		<description>Juuouki (set 7, Japan, 8751 317-0077)</description>
+		<cloneof>altbeast</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kabukizj" index="true" image="k">
+		<description>Kabuki-Z (Japan)</description>
+		<cloneof>kabukiz</cloneof>
+		<crc></crc>
+		<manufacturer>Kaneko / Taito Corporation</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kabukiz" index="" image="">
+		<description>Kabuki-Z (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Kaneko / Taito Corporation Japan</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="karatblzj" index="" image="">
+		<description>Karate Blazers (Japan)</description>
+		<cloneof>karatblz</cloneof>
+		<crc></crc>
+		<manufacturer>Video System Co.</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="karatblzu" index="" image="">
+		<description>Karate Blazers (US)</description>
+		<cloneof>karatblz</cloneof>
+		<crc></crc>
+		<manufacturer>Video System Co.</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="karatblz" index="" image="">
+		<description>Karate Blazers (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Video System Co.</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kengo" index="" image="">
+		<description>Ken-Go</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kotm2" index="" image="">
+		<description>King of the Monsters 2 - The Next Thing (NGM-039)(NGH-039)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kotm2p" index="" image="">
+		<description>King of the Monsters 2 - The Next Thing (prototype)</description>
+		<cloneof>kotm2</cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="knightsja" index="" image="">
+		<description>Knights of the Round (Japan 911127, B-Board 89625B-1)</description>
+		<cloneof>knights</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="knightsj" index="" image="">
+		<description>Knights of the Round (Japan 911127, B-Board 91634B-2)</description>
+		<cloneof>knights</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="knightsu" index="" image="">
+		<description>Knights of the Round (USA 911127)</description>
+		<cloneof>knights</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="knights" index="" image="">
+		<description>Knights of the Round (World 911127)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kov100" index="" image="">
+		<description>Knights of Valour / Sangoku Senki (ver. 100, Japanese Board)</description>
+		<cloneof>kov</cloneof>
+		<crc></crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1999</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kov115" index="" image="">
+		<description>Knights of Valour / Sangoku Senki (ver. 115)</description>
+		<cloneof>kov</cloneof>
+		<crc></crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1999</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kov" index="" image="">
+		<description>Knights of Valour / Sangoku Senki (ver. 117)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1999</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kov2100" index="" image="">
+		<description>Knights of Valour 2 / Sangoku Senki 2 (ver. 100, 100, 100HK)</description>
+		<cloneof>kov2</cloneof>
+		<crc></crc>
+		<manufacturer>IGS</manufacturer>
+		<year>2000</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kov2101" index="" image="">
+		<description>Knights of Valour 2 / Sangoku Senki 2 (ver. 101, 101, 100HK)</description>
+		<cloneof>kov2</cloneof>
+		<crc></crc>
+		<manufacturer>IGS</manufacturer>
+		<year>2000</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kov2102" index="" image="">
+		<description>Knights of Valour 2 / Sangoku Senki 2 (ver. 102, 101, 100HK)</description>
+		<cloneof>kov2</cloneof>
+		<crc></crc>
+		<manufacturer>IGS</manufacturer>
+		<year>2000</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kov2103" index="" image="">
+		<description>Knights of Valour 2 / Sangoku Senki 2 (ver. 103, 101, 100HK)</description>
+		<cloneof>kov2</cloneof>
+		<crc></crc>
+		<manufacturer>IGS</manufacturer>
+		<year>2000</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kov2106" index="" image="">
+		<description>Knights of Valour 2 / Sangoku Senki 2 (ver. 106, 102, 100KH)</description>
+		<cloneof>kov2</cloneof>
+		<crc></crc>
+		<manufacturer>IGS</manufacturer>
+		<year>2000</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kov2" index="" image="">
+		<description>Knights of Valour 2 / Sangoku Senki 2 (ver. 107, 102, 100HK)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>IGS</manufacturer>
+		<year>2000</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kovplus" index="" image="">
+		<description>Knights of Valour Plus / Sangoku Senki Plus (ver. 119, set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1999</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kovplusa" index="" image="">
+		<description>Knights of Valour Plus / Sangoku Senki Plus (ver. 119, set 2)</description>
+		<cloneof>kovplus</cloneof>
+		<crc></crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1999</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kovsh103" index="" image="">
+		<description>Knights of Valour Super Heroes / Sangoku Senki Super Heroes (ver. 103, CN)</description>
+		<cloneof>kovsh</cloneof>
+		<crc></crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1999</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kovsh" index="" image="">
+		<description>Knights of Valour Super Heroes / Sangoku Senki Super Heroes (ver. 104, CN)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1999</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kovqhsgs" index="" image="">
+		<description>Knights of Valour: Quan Huang San Guo Special / Sangoku Senki: Quan Huang San Guo Special (ver. 303CN)</description>
+		<cloneof>kovsh</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1999</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kovsgqyz" index="" image="">
+		<description>Knights of Valour: SanGuo QunYingZhuan / Sangoku Senki: SanGuo QunYingZhuan (bootleg, set 1)</description>
+		<cloneof>kovplus</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1999</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kovsgqyza" index="" image="">
+		<description>Knights of Valour: SanGuo QunYingZhuan / Sangoku Senki: SanGuo QunYingZhuan (bootleg, set 2)</description>
+		<cloneof>kovplus</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1999</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kovsgqyzb" index="" image="">
+		<description>Knights of Valour: SanGuo QunYingZhuan / Sangoku Senki: SanGuo QunYingZhuan (bootleg, set 3)</description>
+		<cloneof>kovplus</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1999</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kncljoe" index="" image="">
+		<description>Knuckle Joe (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Seibu Kaihatsu (Taito license)</manufacturer>
+		<year>1985</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kncljoea" index="" image="">
+		<description>Knuckle Joe (set 2)</description>
+		<cloneof>kncljoe</cloneof>
+		<crc></crc>
+		<manufacturer>Seibu Kaihatsu (Taito license)</manufacturer>
+		<year>1985</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kozure" index="" image="">
+		<description>Kozure Ookami (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1987</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pc_kngfu" index="" image="">
+		<description>Kung Fu (PlayChoice-10)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Irem (Nintendo license)</manufacturer>
+		<year>1985</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kungfum" index="" image="">
+		<description>Kung-Fu Master</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1984</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kungfub" index="" image="">
+		<description>Kung-Fu Master (bootleg set 1)</description>
+		<cloneof>kungfum</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1984</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kungfub2" index="" image="">
+		<description>Kung-Fu Master (bootleg set 2)</description>
+		<cloneof>kungfum</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1984</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kungfumd" index="" image="">
+		<description>Kung-Fu Master (Data East)</description>
+		<cloneof>kungfum</cloneof>
+		<crc></crc>
+		<manufacturer>Irem (Data East license)</manufacturer>
+		<year>1984</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kurikintj" index="" image="">
+		<description>Kuri Kinton (Japan)</description>
+		<cloneof>kurikint</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kurikintu" index="" image="">
+		<description>Kuri Kinton (US)</description>
+		<cloneof>kurikint</cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kurikint" index="" image="">
+		<description>Kuri Kinton (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kurikinta" index="" image="">
+		<description>Kuri Kinton (World, prototype?)</description>
+		<cloneof>kurikint</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kyros" index="" image="">
+		<description>Kyros</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Alpha Denshi Co. (World Games Inc. license)</manufacturer>
+		<year>1987</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kyrosj" index="" image="">
+		<description>Kyros No Yakata (Japan)</description>
+		<cloneof>kyros</cloneof>
+		<crc></crc>
+		<manufacturer>Alpha Denshi Co.</manufacturer>
+		<year>1986</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ladymstr" index="true" image="l">
+		<description>Lady Master of Kung Fu</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Kaneko / Taito</manufacturer>
+		<year>1985</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mt_lastb" index="" image="">
+		<description>Last Battle (Mega-Tech)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="legend" index="" image="">
+		<description>Legend</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega / Coreland</manufacturer>
+		<year>1986</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="loht" index="" image="">
+		<description>Legend of Hero Tonma</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lohtb2" index="" image="">
+		<description>Legend of Hero Tonma (bootleg, set 2)</description>
+		<cloneof>loht</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lohtj" index="" image="">
+		<description>Legend of Hero Tonma (Japan)</description>
+		<cloneof>loht</cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="legendoh" index="" image="">
+		<description>Legend of Heroes</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Limenko</manufacturer>
+		<year>2000</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lomakai" index="" image="">
+		<description>Legend of Makai (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="legendb" index="" image="">
+		<description>Legion (bootleg of Legend)</description>
+		<cloneof>legend</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1986</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="madmotor" index="true" image="m">
+		<description>Mad Motor</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Mitchell</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mswordj" index="" image="">
+		<description>Magic Sword: Heroic Fantasy (Japan 900623)</description>
+		<cloneof>msword</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mswordu" index="" image="">
+		<description>Magic Sword: Heroic Fantasy (USA 900725)</description>
+		<cloneof>msword</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mswordr1" index="" image="">
+		<description>Magic Sword: Heroic Fantasy (World 900623)</description>
+		<cloneof>msword</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="msword" index="" image="">
+		<description>Magic Sword: Heroic Fantasy (World 900725)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="makaiden" index="" image="">
+		<description>Makai Densetsu (Japan)</description>
+		<cloneof>lomakai</cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mp_mazin" index="" image="">
+		<description>Mazin Wars / Mazin Saga (Mega Play)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="metamrph" index="" image="">
+		<description>Metamorphic Force (ver EAA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="metamrphj" index="" image="">
+		<description>Metamorphic Force (ver JAA)</description>
+		<cloneof>metamrph</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="metamrphu" index="" image="">
+		<description>Metamorphic Force (ver UAA)</description>
+		<cloneof>metamrph</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mightguy" index="" image="">
+		<description>Mighty Guy</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1986</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mouseatk" index="" image="">
+		<description>Mouse Attack</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ICE</manufacturer>
+		<year>1996</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mugsmash" index="" image="">
+		<description>Mug Smashers</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Electronic Devices Italy / 3D Games England</manufacturer>
+		<year>1990?</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mutnat" index="" image="">
+		<description>Mutation Nation (NGM-014)(NGH-014)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="myherok" index="" image="">
+		<description>My Hero (Korea)</description>
+		<cloneof>myhero</cloneof>
+		<crc></crc>
+		<manufacturer>Coreland / Sega</manufacturer>
+		<year>1985</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="myhero" index="" image="">
+		<description>My Hero (US, not encrypted)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Coreland / Sega</manufacturer>
+		<year>1985</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mystwarra" index="" image="">
+		<description>Mystic Warriors (ver AAA)</description>
+		<cloneof>mystwarr</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mystwarr" index="" image="">
+		<description>Mystic Warriors (ver EAA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mystwarrj" index="" image="">
+		<description>Mystic Warriors (ver JAA)</description>
+		<cloneof>mystwarr</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mystwarru" index="" image="">
+		<description>Mystic Warriors (ver UAA)</description>
+		<cloneof>mystwarr</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kuniokunb" index="true" image="n">
+		<description>Nekketsu Kouha Kunio-kun (Japan bootleg)</description>
+		<cloneof>renegade</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1986</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kuniokun" index="" image="">
+		<description>Nekketsu Kouha Kunio-kun (Japan)</description>
+		<cloneof>renegade</cloneof>
+		<crc></crc>
+		<manufacturer>Technos Japan</manufacturer>
+		<year>1986</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nslasherj" index="" image="">
+		<description>Night Slashers (Japan Rev 1.2)</description>
+		<cloneof>nslasher</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1994</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nslasher" index="" image="">
+		<description>Night Slashers (Korea Rev 1.3)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1994</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nslashers" index="" image="">
+		<description>Night Slashers (Over Sea Rev 1.2)</description>
+		<cloneof>nslasher</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1994</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nbbatman" index="" image="">
+		<description>Ninja Baseball Bat Man (US)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Irem America</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ninclown" index="" image="">
+		<description>Ninja Clowns (08/27/91)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Strata/Incredible Technologies</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ncombath" index="" image="">
+		<description>Ninja Combat (NGH-009)</description>
+		<cloneof>ncombat</cloneof>
+		<crc></crc>
+		<manufacturer>Alpha Denshi Co.</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ncombat" index="" image="">
+		<description>Ninja Combat (NGM-009)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Alpha Denshi Co.</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gaiden" index="" image="">
+		<description>Ninja Gaiden (US)</description>
+		<cloneof>shadoww</cloneof>
+		<crc></crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ar_ninj" index="" image="">
+		<description>Ninja Mission (Arcadia, set 1, V 2.5)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Arcadia Systems</manufacturer>
+		<year>1987</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ar_ninj2" index="" image="">
+		<description>Ninja Mission (Arcadia, set 2)</description>
+		<cloneof>ar_ninj</cloneof>
+		<crc></crc>
+		<manufacturer>Arcadia Systems</manufacturer>
+		<year>1987</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ryukendn" index="" image="">
+		<description>Ninja Ryukenden (Japan, set 1)</description>
+		<cloneof>shadoww</cloneof>
+		<crc></crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ryukendna" index="" image="">
+		<description>Ninja Ryukenden (Japan, set 2)</description>
+		<cloneof>shadoww</cloneof>
+		<crc></crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nspirit" index="" image="">
+		<description>Ninja Spirit</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nunchaku" index="" image="">
+		<description>Nunchackun</description>
+		<cloneof>ladymstr</cloneof>
+		<crc></crc>
+		<manufacturer>Kaneko / Taito</manufacturer>
+		<year>1985</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ogonsiro" index="true" image="o">
+		<description>Ohgon no Siro (Japan)</description>
+		<cloneof>gladiatr</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1986</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="orlegend105k" index="" image="">
+		<description>Oriental Legend / Xi You Shi E Zhuan (ver. 105, Korean Board)</description>
+		<cloneof>orlegend</cloneof>
+		<crc></crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1997</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="orlegend111c" index="" image="">
+		<description>Oriental Legend / Xi You Shi E Zhuan (ver. 111, Chinese Board)</description>
+		<cloneof>orlegend</cloneof>
+		<crc></crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1997</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="orlegende" index="" image="">
+		<description>Oriental Legend / Xi You Shi E Zhuan (ver. 112)</description>
+		<cloneof>orlegend</cloneof>
+		<crc></crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1997</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="orlegendc" index="" image="">
+		<description>Oriental Legend / Xi You Shi E Zhuan (ver. 112, Chinese Board)</description>
+		<cloneof>orlegend</cloneof>
+		<crc></crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1997</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="orlegend" index="" image="">
+		<description>Oriental Legend / Xi You Shi E Zhuan (ver. 126)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1997</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="orlegendca" index="" image="">
+		<description>Oriental Legend / Xi You Shi E Zhuan (ver. ???, Chinese Board)</description>
+		<cloneof>orlegend</cloneof>
+		<crc></crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1997</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pow" index="true" image="p">
+		<description>P.O.W. - Prisoners of War (US version 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ppan" index="" image="">
+		<description>Peter Pan (bootleg of Hook)</description>
+		<cloneof>hook</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pgearr1" index="" image="">
+		<description>Powered Gear: Strategic Variant Armor Equipment (Japan 940916)</description>
+		<cloneof>armwar</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pgear" index="" image="">
+		<description>Powered Gear: Strategic Variant Armor Equipment (Japan 941024)</description>
+		<cloneof>armwar</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sailormno" index="" image="">
+		<description>Pretty Soldier Sailor Moon (Ver. 95/03/22, Europe)</description>
+		<cloneof>sailormn</cloneof>
+		<crc></crc>
+		<manufacturer>Banpresto</manufacturer>
+		<year>1995</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sailormnoh" index="" image="">
+		<description>Pretty Soldier Sailor Moon (Ver. 95/03/22, Hong Kong)</description>
+		<cloneof>sailormn</cloneof>
+		<crc></crc>
+		<manufacturer>Banpresto</manufacturer>
+		<year>1995</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sailormnoj" index="" image="">
+		<description>Pretty Soldier Sailor Moon (Ver. 95/03/22, Japan)</description>
+		<cloneof>sailormn</cloneof>
+		<crc></crc>
+		<manufacturer>Banpresto</manufacturer>
+		<year>1995</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sailormnok" index="" image="">
+		<description>Pretty Soldier Sailor Moon (Ver. 95/03/22, Korea)</description>
+		<cloneof>sailormn</cloneof>
+		<crc></crc>
+		<manufacturer>Banpresto</manufacturer>
+		<year>1995</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sailormnot" index="" image="">
+		<description>Pretty Soldier Sailor Moon (Ver. 95/03/22, Taiwan)</description>
+		<cloneof>sailormn</cloneof>
+		<crc></crc>
+		<manufacturer>Banpresto</manufacturer>
+		<year>1995</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sailormnou" index="" image="">
+		<description>Pretty Soldier Sailor Moon (Ver. 95/03/22, USA)</description>
+		<cloneof>sailormn</cloneof>
+		<crc></crc>
+		<manufacturer>Banpresto</manufacturer>
+		<year>1995</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sailormn" index="" image="">
+		<description>Pretty Soldier Sailor Moon (Ver. 95/03/22B, Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Banpresto</manufacturer>
+		<year>1995</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sailormnh" index="" image="">
+		<description>Pretty Soldier Sailor Moon (Ver. 95/03/22B, Hong Kong)</description>
+		<cloneof>sailormn</cloneof>
+		<crc></crc>
+		<manufacturer>Banpresto</manufacturer>
+		<year>1995</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sailormnj" index="" image="">
+		<description>Pretty Soldier Sailor Moon (Ver. 95/03/22B, Japan)</description>
+		<cloneof>sailormn</cloneof>
+		<crc></crc>
+		<manufacturer>Banpresto</manufacturer>
+		<year>1995</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sailormnk" index="" image="">
+		<description>Pretty Soldier Sailor Moon (Ver. 95/03/22B, Korea)</description>
+		<cloneof>sailormn</cloneof>
+		<crc></crc>
+		<manufacturer>Banpresto</manufacturer>
+		<year>1995</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sailormnt" index="" image="">
+		<description>Pretty Soldier Sailor Moon (Ver. 95/03/22B, Taiwan)</description>
+		<cloneof>sailormn</cloneof>
+		<crc></crc>
+		<manufacturer>Banpresto</manufacturer>
+		<year>1995</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sailormnu" index="" image="">
+		<description>Pretty Soldier Sailor Moon (Ver. 95/03/22B, USA)</description>
+		<cloneof>sailormn</cloneof>
+		<crc></crc>
+		<manufacturer>Banpresto</manufacturer>
+		<year>1995</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pulirulaj" index="" image="">
+		<description>PuLiRuLa (Japan)</description>
+		<cloneof>pulirula</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pulirula" index="" image="">
+		<description>PuLiRuLa (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="redearthr1" index="true" image="r">
+		<description>Red Earth (Euro 961023)</description>
+		<cloneof>redearth</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1996</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="redearth" index="" image="">
+		<description>Red Earth (Euro 961121)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1996</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="renegade" index="" image="">
+		<description>Renegade (US)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Technos Japan (Taito America license)</manufacturer>
+		<year>1986</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ridingfu" index="" image="">
+		<description>Riding Fight (Ver 1.0A)</description>
+		<cloneof>ridingf</cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ridingfj" index="" image="">
+		<description>Riding Fight (Ver 1.0J)</description>
+		<cloneof>ridingf</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ridingf" index="" image="">
+		<description>Riding Fight (Ver 1.0O)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="riotcity" index="" image="">
+		<description>Riot City (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega / Westone</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="roboarmy" index="" image="">
+		<description>Robo Army</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="robocop2" index="" image="">
+		<description>Robocop 2 (Euro/Asia v0.10)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="robocop2j" index="" image="">
+		<description>Robocop 2 (Japan v0.11)</description>
+		<cloneof>robocop2</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="robocop2u" index="" image="">
+		<description>Robocop 2 (US v0.05)</description>
+		<cloneof>robocop2</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rollace" index="" image="">
+		<description>Roller Aces (set 1)</description>
+		<cloneof>fightrol</cloneof>
+		<crc></crc>
+		<manufacturer>Kaneko (Williams license)</manufacturer>
+		<year>1983</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rollace2" index="" image="">
+		<description>Roller Aces (set 2)</description>
+		<cloneof>fightrol</cloneof>
+		<crc></crc>
+		<manufacturer>Kaneko (Williams license)</manufacturer>
+		<year>1983</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rjammer" index="" image="">
+		<description>Roller Jammer</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu / Alice</manufacturer>
+		<year>1984</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="runark" index="" image="">
+		<description>Runark (Japan)</description>
+		<cloneof>growl</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="spyu" index="true" image="s">
+		<description>S.P.Y. - Special Project Y (US ver. M)</description>
+		<cloneof>spy</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="spy" index="" image="">
+		<description>S.P.Y. - Special Project Y (World ver. N)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nspiritj" index="" image="">
+		<description>Saigo no Nindou (Japan)</description>
+		<cloneof>nspirit</cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="samurai" index="" image="">
+		<description>Samurai</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1980</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tsamuraih" index="" image="">
+		<description>Samurai Nihon-Ichi (bootleg, harder)</description>
+		<cloneof>tsamurai</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1985</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tsamurai" index="" image="">
+		<description>Samurai Nihon-Ichi (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Kaneko / Taito</manufacturer>
+		<year>1985</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tsamurai2" index="" image="">
+		<description>Samurai Nihon-Ichi (set 2)</description>
+		<cloneof>tsamurai</cloneof>
+		<crc></crc>
+		<manufacturer>Kaneko / Taito</manufacturer>
+		<year>1985</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wofa" index="" image="">
+		<description>Sangokushi II (Asia 921005)</description>
+		<cloneof>wof</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sscandal" index="" image="">
+		<description>Seishun Scandal (315-5132, Japan)</description>
+		<cloneof>myhero</cloneof>
+		<crc></crc>
+		<manufacturer>Coreland / Sega</manufacturer>
+		<year>1985</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sengokuh" index="" image="">
+		<description>Sengoku / Sengoku Denshou (NGH-017)(US)</description>
+		<cloneof>sengoku</cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sengoku" index="" image="">
+		<description>Sengoku / Sengoku Denshou (NGM-017)(NGH-017)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sengoku2" index="" image="">
+		<description>Sengoku 2 / Sengoku Denshou 2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sengoku3" index="" image="">
+		<description>Sengoku 3 / Sengoku Densho 2001</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Noise Factory / SNK</manufacturer>
+		<year>2001</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="shadfrcejv2" index="" image="">
+		<description>Shadow Force (Japan Version 2)</description>
+		<cloneof>shadfrce</cloneof>
+		<crc></crc>
+		<manufacturer>Technos Japan</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="shadfrcej" index="" image="">
+		<description>Shadow Force (Japan Version 3)</description>
+		<cloneof>shadfrce</cloneof>
+		<crc></crc>
+		<manufacturer>Technos Japan</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="shadfrce" index="" image="">
+		<description>Shadow Force (US Version 2)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Technos Japan</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="shadoww" index="" image="">
+		<description>Shadow Warriors (World, set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="shadowwa" index="" image="">
+		<description>Shadow Warriors (World, set 2)</description>
+		<cloneof>shadoww</cloneof>
+		<crc></crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tshingen" index="" image="">
+		<description>Shingen Samurai-Fighter (Japan, English)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="silentdj" index="" image="">
+		<description>Silent Dragon (Japan)</description>
+		<cloneof>silentd</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="silentdu" index="" image="">
+		<description>Silent Dragon (US)</description>
+		<cloneof>silentd</cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="silentd" index="" image="">
+		<description>Silent Dragon (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="skullxbo1" index="" image="">
+		<description>Skull &amp; Crossbones (rev 1)</description>
+		<cloneof>skullxbo</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="skullxbo2" index="" image="">
+		<description>Skull &amp; Crossbones (rev 2)</description>
+		<cloneof>skullxbo</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="skullxbo3" index="" image="">
+		<description>Skull &amp; Crossbones (rev 3)</description>
+		<cloneof>skullxbo</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="skullxbo4" index="" image="">
+		<description>Skull &amp; Crossbones (rev 4)</description>
+		<cloneof>skullxbo</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="skullxbo" index="" image="">
+		<description>Skull &amp; Crossbones (rev 5)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sblast2b" index="" image="">
+		<description>Sonic Blast Man 2 Special Turbo (SNES bootleg)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1997</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="spartanx" index="" image="">
+		<description>Spartan X (Japan)</description>
+		<cloneof>kungfum</cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1984</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mt_spman" index="" image="">
+		<description>Spider-Man vs The Kingpin (Mega-Tech)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Marvel / Sega</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="splatterj" index="" image="">
+		<description>Splatter House (Japan)</description>
+		<cloneof>splatter</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="splatter" index="" image="">
+		<description>Splatter House (World new version)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="splattero" index="" image="">
+		<description>Splatter House (World old version)</description>
+		<cloneof>splatter</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ffightjh" index="" image="">
+		<description>Street Smart / Final Fight (Japan, hack)</description>
+		<cloneof>ffight</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mt_srage" index="" image="">
+		<description>Streets of Rage (Mega-Tech)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mp_sor2" index="" image="">
+		<description>Streets of Rage II (Mega Play)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="superman" index="" image="">
+		<description>Superman</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="supermanj" index="" image="">
+		<description>Superman (Japan)</description>
+		<cloneof>superman</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tshingena" index="true" image="t">
+		<description>Takeda Shingen (Japan, Japanese)</description>
+		<cloneof>tshingen</cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tknight" index="" image="">
+		<description>Tecmo Knight</description>
+		<cloneof>wildfang</cloneof>
+		<crc></crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tmht2p" index="" image="">
+		<description>Teenage Mutant Hero Turtles (UK 2 Players, set 1)</description>
+		<cloneof>tmnt</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tmht2pa" index="" image="">
+		<description>Teenage Mutant Hero Turtles (UK 2 Players, set 2)</description>
+		<cloneof>tmnt</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tmht" index="" image="">
+		<description>Teenage Mutant Hero Turtles (UK 4 Players, set 1)</description>
+		<cloneof>tmnt</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tmhta" index="" image="">
+		<description>Teenage Mutant Hero Turtles (UK 4 Players, set 2)</description>
+		<cloneof>tmnt</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tmht22pe" index="" image="">
+		<description>Teenage Mutant Hero Turtles - Turtles in Time (2 Players ver EBA)</description>
+		<cloneof>tmnt2</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tmnt2pj" index="" image="">
+		<description>Teenage Mutant Ninja Turtles (Japan 2 Players)</description>
+		<cloneof>tmnt</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tmntj" index="" image="">
+		<description>Teenage Mutant Ninja Turtles (Japan 4 Players)</description>
+		<cloneof>tmnt</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tmnt2po" index="" image="">
+		<description>Teenage Mutant Ninja Turtles (Oceania 2 Players)</description>
+		<cloneof>tmnt</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tmntu" index="" image="">
+		<description>Teenage Mutant Ninja Turtles (US 4 Players, set 1)</description>
+		<cloneof>tmnt</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tmntua" index="" image="">
+		<description>Teenage Mutant Ninja Turtles (US 4 Players, set 2)</description>
+		<cloneof>tmnt</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tmnt" index="" image="">
+		<description>Teenage Mutant Ninja Turtles (World 4 Players)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tmnt22pu" index="" image="">
+		<description>Teenage Mutant Ninja Turtles - Turtles in Time (2 Players ver UDA)</description>
+		<cloneof>tmnt2</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tmnt2a" index="" image="">
+		<description>Teenage Mutant Ninja Turtles - Turtles in Time (4 Players ver ADA)</description>
+		<cloneof>tmnt2</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tmnt2" index="" image="">
+		<description>Teenage Mutant Ninja Turtles - Turtles in Time (4 Players ver UAA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pc_tmnt2" index="" image="">
+		<description>Teenage Mutant Ninja Turtles II: The Arcade Game (PlayChoice-10)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami (Nintendo of America license)</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dynwarjr" index="" image="">
+		<description>Tenchi wo Kurau (Japan Resale Ver.)</description>
+		<cloneof>dynwar</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dynwarj" index="" image="">
+		<description>Tenchi wo Kurau (Japan)</description>
+		<cloneof>dynwar</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wofj" index="" image="">
+		<description>Tenchi wo Kurau II: Sekiheki no Tatakai (Japan 921031)</description>
+		<cloneof>wof</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="edrandyj" index="" image="">
+		<description>The Cliffhanger - Edward Randy (Japan ver 3)</description>
+		<cloneof>edrandy</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="edrandy1" index="" image="">
+		<description>The Cliffhanger - Edward Randy (World ver 1)</description>
+		<cloneof>edrandy</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="edrandy2" index="" image="">
+		<description>The Cliffhanger - Edward Randy (World ver 2)</description>
+		<cloneof>edrandy</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="edrandy" index="" image="">
+		<description>The Cliffhanger - Edward Randy (World ver 3)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ctribeb" index="" image="">
+		<description>The Combatribes (bootleg set 1)</description>
+		<cloneof>ctribe</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ctribeb2" index="" image="">
+		<description>The Combatribes (bootleg set 2)</description>
+		<cloneof>ctribe</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ctribej" index="" image="">
+		<description>The Combatribes (Japan)</description>
+		<cloneof>ctribe</cloneof>
+		<crc></crc>
+		<manufacturer>Technos Japan</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ctribe1" index="" image="">
+		<description>The Combatribes (US set 1?)</description>
+		<cloneof>ctribe</cloneof>
+		<crc></crc>
+		<manufacturer>Technos Japan</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ctribe" index="" image="">
+		<description>The Combatribes (US)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Technos Japan</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crysking" index="" image="">
+		<description>The Crystal of Kings</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>BrezzaSoft</manufacturer>
+		<year>2001</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kodja" index="" image="">
+		<description>The King of Dragons (Japan 910805, B-Board 89625B-1)</description>
+		<cloneof>kod</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kodj" index="" image="">
+		<description>The King of Dragons (Japan 910805, B-Board 90629B-3)</description>
+		<cloneof>kod</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kodu" index="" image="">
+		<description>The King of Dragons (USA 910910)</description>
+		<cloneof>kod</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kodr1" index="" image="">
+		<description>The King of Dragons (World 910711)</description>
+		<cloneof>kod</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kod" index="" image="">
+		<description>The King of Dragons (World 910805)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lkage" index="" image="">
+		<description>The Legend of Kage</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1984</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lkageb" index="" image="">
+		<description>The Legend of Kage (bootleg set 1)</description>
+		<cloneof>lkage</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1984</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lkageb2" index="" image="">
+		<description>The Legend of Kage (bootleg set 2)</description>
+		<cloneof>lkage</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1984</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lkageb3" index="" image="">
+		<description>The Legend of Kage (bootleg set 3)</description>
+		<cloneof>lkage</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1984</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lkageo" index="" image="">
+		<description>The Legend of Kage (older)</description>
+		<cloneof>lkage</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1984</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lkageoo" index="" image="">
+		<description>The Legend of Kage (oldest)</description>
+		<cloneof>lkage</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1984</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="silkroad" index="" image="">
+		<description>The Legend of Silkroad</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Unico</manufacturer>
+		<year>1999</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mastkin" index="" image="">
+		<description>The Masters of Kin</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Du Tech</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ninjakj" index="" image="">
+		<description>The Ninja Kids (Japan)</description>
+		<cloneof>ninjak</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ninjaku" index="" image="">
+		<description>The Ninja Kids (US)</description>
+		<cloneof>ninjak</cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ninjak" index="" image="">
+		<description>The Ninja Kids (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ninjawj" index="" image="">
+		<description>The Ninja Warriors (Japan)</description>
+		<cloneof>ninjaw</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1987</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ninjawu" index="" image="">
+		<description>The Ninja Warriors (US)</description>
+		<cloneof>ninjaw</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation America (licensed to Romstar)</manufacturer>
+		<year>1987</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ninjaw" index="" image="">
+		<description>The Ninja Warriors (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1987</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="punisherj" index="" image="">
+		<description>The Punisher (Japan 930422)</description>
+		<cloneof>punisher</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="punisheru" index="" image="">
+		<description>The Punisher (USA 930422)</description>
+		<cloneof>punisher</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="punisher" index="" image="">
+		<description>The Punisher (World 930422)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="simpsons2pa" index="" image="">
+		<description>The Simpsons (2 Players Asia)</description>
+		<cloneof>simpsons</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="simpsons2pj" index="" image="">
+		<description>The Simpsons (2 Players Japan)</description>
+		<cloneof>simpsons</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="simpsons2p" index="" image="">
+		<description>The Simpsons (2 Players World, set 1)</description>
+		<cloneof>simpsons</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="simpsons2p2" index="" image="">
+		<description>The Simpsons (2 Players World, set 2)</description>
+		<cloneof>simpsons</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="simpsons" index="" image="">
+		<description>The Simpsons (4 Players World, set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="simpsons4pa" index="" image="">
+		<description>The Simpsons (4 Players World, set 2)</description>
+		<cloneof>simpsons</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tturfu" index="" image="">
+		<description>Tough Turf (set 1, US, 8751 317-0099)</description>
+		<cloneof>tturf</cloneof>
+		<crc></crc>
+		<manufacturer>Sega / Sunsoft</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tturf" index="" image="">
+		<description>Tough Turf (set 2, Japan, 8751 317-0104)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega / Sunsoft</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pc_trjan" index="" image="">
+		<description>Trojan (PlayChoice-10)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom USA (Nintendo of America license)</manufacturer>
+		<year>1986</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="twocrude" index="" image="">
+		<description>Two Crude (US)</description>
+		<cloneof>cbuster</cloneof>
+		<crc></crc>
+		<manufacturer>Data East USA</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="utoukond" index="true" image="u">
+		<description>Ultra Toukon Densetsu (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Banpresto / Tsuburaya Productions</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="uccopsar" index="" image="">
+		<description>Undercover Cops (Alpha Renewal Version)</description>
+		<cloneof>uccops</cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="uccopsj" index="" image="">
+		<description>Undercover Cops (Japan)</description>
+		<cloneof>uccops</cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="uccopsu" index="" image="">
+		<description>Undercover Cops (US)</description>
+		<cloneof>uccops</cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="uccops" index="" image="">
+		<description>Undercover Cops (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vamphalf" index="true" image="v">
+		<description>Vamf x1/2 (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Danbi / F2 System</manufacturer>
+		<year>1999</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vamphalfk" index="" image="">
+		<description>Vamp x1/2 (Korea)</description>
+		<cloneof>vamphalf</cloneof>
+		<crc></crc>
+		<manufacturer>Danbi / F2 System</manufacturer>
+		<year>1999</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vandykeb" index="" image="">
+		<description>Vandyke (bootleg with PIC16c57)</description>
+		<cloneof>vandyke</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vandykejal" index="" image="">
+		<description>Vandyke (Jaleco, set 1)</description>
+		<cloneof>vandyke</cloneof>
+		<crc></crc>
+		<manufacturer>UPL (Jaleco license)</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vandykejal2" index="" image="">
+		<description>Vandyke (Jaleco, set 2)</description>
+		<cloneof>vandyke</cloneof>
+		<crc></crc>
+		<manufacturer>UPL (Jaleco license)</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vandyke" index="" image="">
+		<description>Vandyke (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>UPL</manufacturer>
+		<year>1990</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vendetta2pd" index="" image="">
+		<description>Vendetta (Asia 2 Players ver. D)</description>
+		<cloneof>vendetta</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vendetta2pu" index="" image="">
+		<description>Vendetta (Asia 2 Players ver. U)</description>
+		<cloneof>vendetta</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vendetta2p" index="" image="">
+		<description>Vendetta (World 2 Players ver. W)</description>
+		<cloneof>vendetta</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vendettar" index="" image="">
+		<description>Vendetta (World 4 Players ver. R)</description>
+		<cloneof>vendetta</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vendetta" index="" image="">
+		<description>Vendetta (World 4 Players ver. T)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vigilantj" index="" image="">
+		<description>Vigilante (Japan)</description>
+		<cloneof>vigilant</cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vigilantu" index="" image="">
+		<description>Vigilante (US)</description>
+		<cloneof>vigilant</cloneof>
+		<crc></crc>
+		<manufacturer>Irem (Data East USA license)</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vigilantu2" index="" image="">
+		<description>Vigilante (US) - Rev. G</description>
+		<cloneof>vigilant</cloneof>
+		<crc></crc>
+		<manufacturer>Irem (Data East USA license)</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vigilant" index="" image="">
+		<description>Vigilante (World, set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vigilant1" index="" image="">
+		<description>Vigilante (World, set 2)</description>
+		<cloneof>vigilant</cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1988</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="viostormab" index="" image="">
+		<description>Violent Storm (ver AAB)</description>
+		<cloneof>viostorm</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="viostorma" index="" image="">
+		<description>Violent Storm (ver AAC)</description>
+		<cloneof>viostorm</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="viostorm" index="" image="">
+		<description>Violent Storm (ver EAB)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="viostormj" index="" image="">
+		<description>Violent Storm (ver JAC)</description>
+		<cloneof>viostorm</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="viostormub" index="" image="">
+		<description>Violent Storm (ver UAB)</description>
+		<cloneof>viostorm</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="viostormu" index="" image="">
+		<description>Violent Storm (ver UAC)</description>
+		<cloneof>viostorm</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="warriorb" index="true" image="w">
+		<description>Warrior Blade - Rastan Saga Episode III (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1991</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wofu" index="" image="">
+		<description>Warriors of Fate (USA 921031)</description>
+		<cloneof>wof</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wofr1" index="" image="">
+		<description>Warriors of Fate (World 921002)</description>
+		<cloneof>wof</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wof" index="" image="">
+		<description>Warriors of Fate (World 921031)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="warzardr1" index="" image="">
+		<description>Warzard (Japan 961023)</description>
+		<cloneof>redearth</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1996</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="warzard" index="" image="">
+		<description>Warzard (Japan 961121)</description>
+		<cloneof>redearth</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1996</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wexpressb" index="" image="">
+		<description>Western Express (bootleg set 1)</description>
+		<cloneof>exprraid</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1986</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wexpressb2" index="" image="">
+		<description>Western Express (bootleg set 2)</description>
+		<cloneof>exprraid</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1986</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wexpress" index="" image="">
+		<description>Western Express (World?)</description>
+		<cloneof>exprraid</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1986</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wildfangs" index="" image="">
+		<description>Wild Fang</description>
+		<cloneof>wildfang</cloneof>
+		<crc></crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wildfang" index="" image="">
+		<description>Wild Fang / Tecmo Knight</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1989</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wizdfire" index="" image="">
+		<description>Wizard Fire (Over Sea v2.1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wizdfireu" index="" image="">
+		<description>Wizard Fire (US v1.1)</description>
+		<cloneof>wizdfire</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wndrmomo" index="" image="">
+		<description>Wonder Momo</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1987</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="xmen2pa" index="true" image="x">
+		<description>X-Men (2 Players ver AAA)</description>
+		<cloneof>xmen</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="xmen2pe" index="" image="">
+		<description>X-Men (2 Players ver EAA)</description>
+		<cloneof>xmen</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="xmen2pj" index="" image="">
+		<description>X-Men (2 Players ver JAA)</description>
+		<cloneof>xmen</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="xmena" index="" image="">
+		<description>X-Men (4 Players ver ADA)</description>
+		<cloneof>xmen</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="xmene" index="" image="">
+		<description>X-Men (4 Players ver EBA)</description>
+		<cloneof>xmen</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="xmenj" index="" image="">
+		<description>X-Men (4 Players ver JBA)</description>
+		<cloneof>xmen</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="xmen" index="" image="">
+		<description>X-Men (4 Players ver UBB)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="xmen6p" index="" image="">
+		<description>X-Men (6 Players ver ECB)</description>
+		<cloneof>xmen</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="xmen6pu" index="" image="">
+		<description>X-Men (6 Players ver UCB)</description>
+		<cloneof>xmen</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="leaguemn" index="true" image="y">
+		<description>Yakyuu Kakutou League-Man (Japan)</description>
+		<cloneof>nbbatman</cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1993</year>
+		<genre>Beat-&apos;Em-Up</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

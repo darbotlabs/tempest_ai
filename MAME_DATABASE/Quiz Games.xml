@@ -1,0 +1,1209 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>MAME</listname>
+		<lastlistupdate>06/03/2012</lastlistupdate>
+		<listversion>.146 Ongoing</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="qos" index="true" image="a">
+		<description>A Question of Sport (set 1, 39-960-107)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>BFM</manufacturer>
+		<year>1992</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="qosa" index="" image="">
+		<description>A Question of Sport (set 2, 39-960-099)</description>
+		<cloneof>qos</cloneof>
+		<crc></crc>
+		<manufacturer>BFM</manufacturer>
+		<year>1992</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="qosb" index="" image="">
+		<description>A Question of Sport (set 3, 39-960-089)</description>
+		<cloneof>qos</cloneof>
+		<crc></crc>
+		<manufacturer>BFM</manufacturer>
+		<year>1992</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bigbucks" index="true" image="b">
+		<description>Big Bucks</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynasoft Inc.</manufacturer>
+		<year>1986</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cashquiz" index="true" image="c">
+		<description>Cash Quiz (Type B, Version 5)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Zilec-Zenitone</manufacturer>
+		<year>1986</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cluedo2" index="" image="">
+		<description>Cluedo (prod. 2)</description>
+		<cloneof>cluedo</cloneof>
+		<crc></crc>
+		<manufacturer>JPM</manufacturer>
+		<year>1995</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cluedo2c" index="" image="">
+		<description>Cluedo (prod. 2C)</description>
+		<cloneof>cluedo</cloneof>
+		<crc></crc>
+		<manufacturer>JPM</manufacturer>
+		<year>1995</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cluedo" index="" image="">
+		<description>Cluedo (prod. 2D)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>JPM</manufacturer>
+		<year>1995</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cluedod" index="" image="">
+		<description>Cluedo (prod. 2D) (Protocol)</description>
+		<cloneof>cluedo</cloneof>
+		<crc></crc>
+		<manufacturer>JPM</manufacturer>
+		<year>1995</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="coronatn" index="" image="">
+		<description>Coronation Street Quiz Game</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>JPM</manufacturer>
+		<year>1999</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="coronatnd" index="" image="">
+		<description>Coronation Street Quiz Game (Protocol)</description>
+		<cloneof>coronatn</cloneof>
+		<crc></crc>
+		<manufacturer>JPM</manufacturer>
+		<year>1999</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dtrvwz5" index="true" image="d">
+		<description>Deluxe Trivia ? Whiz (Edition 5)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1987</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="escounts" index="true" image="e">
+		<description>Every Second Counts (39-360-053)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>BFM</manufacturer>
+		<year>1990</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="fax" index="true" image="f">
+		<description>FAX</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Exidy</manufacturer>
+		<year>1983</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="fax2" index="" image="">
+		<description>FAX 2</description>
+		<cloneof>fax</cloneof>
+		<crc></crc>
+		<manufacturer>Exidy</manufacturer>
+		<year>1983</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="guab21" index="true" image="g">
+		<description>Give us a Break (21st edition)</description>
+		<cloneof>guab</cloneof>
+		<crc></crc>
+		<manufacturer>JPM</manufacturer>
+		<year>1986</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="guab3a" index="" image="">
+		<description>Give us a Break (3rd edition alt?)</description>
+		<cloneof>guab</cloneof>
+		<crc></crc>
+		<manufacturer>JPM</manufacturer>
+		<year>1986</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="guab" index="" image="">
+		<description>Give us a Break (3rd edition)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>JPM</manufacturer>
+		<year>1986</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="guab43" index="" image="">
+		<description>Give us a Break (43rd edition)</description>
+		<cloneof>guab</cloneof>
+		<crc></crc>
+		<manufacturer>JPM</manufacturer>
+		<year>1986</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="guab4" index="" image="">
+		<description>Give us a Break (4th edition)</description>
+		<cloneof>guab</cloneof>
+		<crc></crc>
+		<manufacturer>JPM</manufacturer>
+		<year>1986</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="guab6a" index="" image="">
+		<description>Give us a Break (6th edition alt?)</description>
+		<cloneof>guab</cloneof>
+		<crc></crc>
+		<manufacturer>JPM</manufacturer>
+		<year>1986</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="guab6" index="" image="">
+		<description>Give us a Break (6th edition)</description>
+		<cloneof>guab</cloneof>
+		<crc></crc>
+		<manufacturer>JPM</manufacturer>
+		<year>1986</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="guab7" index="" image="">
+		<description>Give us a Break (7th edition)</description>
+		<cloneof>guab</cloneof>
+		<crc></crc>
+		<manufacturer>JPM</manufacturer>
+		<year>1986</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hangman" index="true" image="h">
+		<description>Hangman</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Status Games</manufacturer>
+		<year>1984</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hngmnjpm" index="" image="">
+		<description>Hangman (JPM)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>JPM</manufacturer>
+		<year>1998</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hngmnjpmd" index="" image="">
+		<description>Hangman (JPM) (Protocol)</description>
+		<cloneof>hngmnjpm</cloneof>
+		<crc></crc>
+		<manufacturer>JPM</manufacturer>
+		<year>1998</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="monopoly" index="true" image="m">
+		<description>Monopoly (Jpm) (SYSTEM5 VIDEO, set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>JPM</manufacturer>
+		<year>1994</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="monoplcl" index="" image="">
+		<description>Monopoly Classic (Jpm) (SYSTEM5 VIDEO)</description>
+		<cloneof>monopoly</cloneof>
+		<crc></crc>
+		<manufacturer>JPM</manufacturer>
+		<year>1995</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="monopldx" index="" image="">
+		<description>Monopoly Deluxe (Jpm) (SYSTEM5 VIDEO)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>JPM</manufacturer>
+		<year>1995</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rocktrv2" index="" image="">
+		<description>MTV Rock-N-Roll Trivia (Part 2)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Triumph Software Inc.</manufacturer>
+		<year>1986</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nametune" index="true" image="n">
+		<description>Name That Tune</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally/Sente</manufacturer>
+		<year>1986</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nametune2" index="" image="">
+		<description>Name That Tune (3/23/86)</description>
+		<cloneof>nametune</cloneof>
+		<crc></crc>
+		<manufacturer>Bally/Sente</manufacturer>
+		<year>1986</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="phrcrazeb" index="true" image="p">
+		<description>Phraze Craze (Expanded Questions, set 1)</description>
+		<cloneof>phrcraze</cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1986</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="phrcrazec" index="" image="">
+		<description>Phraze Craze (Expanded Questions, set 2)</description>
+		<cloneof>phrcraze</cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1986</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="phrcraze" index="" image="">
+		<description>Phraze Craze (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1986</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="phrcrazea" index="" image="">
+		<description>Phraze Craze (set 2)</description>
+		<cloneof>phrcraze</cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1986</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="phrcrazev" index="" image="">
+		<description>Phraze Craze (Sex Kit, Vertical)</description>
+		<cloneof>phrcraze</cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1986</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="popspops" index="" image="">
+		<description>Pop&apos;s Pop&apos;s</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Afega</manufacturer>
+		<year>1999</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="profpac" index="" image="">
+		<description>Professor Pac-Man</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1983</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="promutrv" index="" image="">
+		<description>Progressive Music Trivia (Question set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Enerdyne Technologies Inc.</manufacturer>
+		<year>1985</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="promutrva" index="" image="">
+		<description>Progressive Music Trivia (Question set 2)</description>
+		<cloneof>promutrv</cloneof>
+		<crc></crc>
+		<manufacturer>Enerdyne Technologies Inc.</manufacturer>
+		<year>1985</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="promutrvb" index="" image="">
+		<description>Progressive Music Trivia (Question set 3)</description>
+		<cloneof>promutrv</cloneof>
+		<crc></crc>
+		<manufacturer>Enerdyne Technologies Inc.</manufacturer>
+		<year>1985</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="promutrvc" index="" image="">
+		<description>Progressive Music Trivia (Question set 4)</description>
+		<cloneof>promutrv</cloneof>
+		<crc></crc>
+		<manufacturer>Enerdyne Technologies Inc.</manufacturer>
+		<year>1985</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="qad" index="true" image="q">
+		<description>Quiz &amp; Dragons: Capcom Quiz Game (USA 920701)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1992</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="quizvadr" index="" image="">
+		<description>Quizvaders (39-360-078)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>BFM</manufacturer>
+		<year>1991</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="reelfun1" index="true" image="r">
+		<description>Reel Fun (Version 7.01)</description>
+		<cloneof>reelfun</cloneof>
+		<crc></crc>
+		<manufacturer>Grayhound Electronics</manufacturer>
+		<year>1986</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="reelfun" index="" image="">
+		<description>Reel Fun (Version 7.03)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Grayhound Electronics</manufacturer>
+		<year>1986</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="scrabble" index="true" image="s">
+		<description>Scrabble (rev. F)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>JPM</manufacturer>
+		<year>1997</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="scrabbled" index="" image="">
+		<description>Scrabble (rev. F) (Protocol)</description>
+		<cloneof>scrabble</cloneof>
+		<crc></crc>
+		<manufacturer>JPM</manufacturer>
+		<year>1997</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sextriv" index="" image="">
+		<description>Sex Triv</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Status Games</manufacturer>
+		<year>1985</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sextriv1" index="" image="">
+		<description>Sexual Trivia (Version 1.02SB, set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Kinky Kit and Game Co.</manufacturer>
+		<year>1985</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sextriv2" index="" image="">
+		<description>Sexual Trivia (Version 1.02SB, set 2)</description>
+		<cloneof>sextriv1</cloneof>
+		<crc></crc>
+		<manufacturer>Kinky Kit and Game Co.</manufacturer>
+		<year>1985</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sprtauth" index="" image="">
+		<description>Sports Authority</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Classic Games</manufacturer>
+		<year>1992</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sunaq" index="" image="">
+		<description>SunA Quiz 6000 Academy (940620-6)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SunA</manufacturer>
+		<year>1994</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="supertr2" index="" image="">
+		<description>Super Triv II</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Status Games</manufacturer>
+		<year>1986</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="supertr3" index="" image="">
+		<description>Super Triv III</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Status Games</manufacturer>
+		<year>1988</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="strvmstr" index="" image="">
+		<description>Super Trivia Master</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Enerdyne Technologies Inc.</manufacturer>
+		<year>1986</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tenup" index="true" image="t">
+		<description>Ten Up (compendium 17)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>JPM</manufacturer>
+		<year>1988</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tenup3" index="" image="">
+		<description>Ten Up (compendium 3)</description>
+		<cloneof>tenup</cloneof>
+		<crc></crc>
+		<manufacturer>JPM</manufacturer>
+		<year>1988</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tictac" index="" image="">
+		<description>Tic Tac Trivia (Horizontal)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1985</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tictacv" index="" image="">
+		<description>Tic Tac Trivia (Vertical)</description>
+		<cloneof>tictac</cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1985</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trebltop" index="" image="">
+		<description>Treble Top (39-360-070)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>BFM</manufacturer>
+		<year>1991</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="statriv4" index="" image="">
+		<description>Triv Four</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Status Games</manufacturer>
+		<year>1985</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trivquiz" index="" image="">
+		<description>Triv Quiz</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Status Games</manufacturer>
+		<year>1984</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="statriv2" index="" image="">
+		<description>Triv Two</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Status Games</manufacturer>
+		<year>1984</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="statriv2v" index="" image="">
+		<description>Triv Two (Vertical)</description>
+		<cloneof>statriv2</cloneof>
+		<crc></crc>
+		<manufacturer>Status Games</manufacturer>
+		<year>1985</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtsersa" index="" image="">
+		<description>Trivia (Alt revision questions set 1)</description>
+		<cloneof>gtsers1</cloneof>
+		<crc></crc>
+		<manufacturer>Greyhound Electronics</manufacturer>
+		<year>1984</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtsersb" index="" image="">
+		<description>Trivia (Alt revision questions set 2)</description>
+		<cloneof>gtsers1</cloneof>
+		<crc></crc>
+		<manufacturer>Greyhound Electronics</manufacturer>
+		<year>1984</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtsers1" index="" image="">
+		<description>Trivia (Questions Series 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Greyhound Electronics</manufacturer>
+		<year>1984</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtsers10a" index="" image="">
+		<description>Trivia (Questions Series 10 Alt Question Rom)</description>
+		<cloneof>gtsers8</cloneof>
+		<crc></crc>
+		<manufacturer>Greyhound Electronics</manufacturer>
+		<year>1984</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtsers10" index="" image="">
+		<description>Trivia (Questions Series 10)</description>
+		<cloneof>gtsers8</cloneof>
+		<crc></crc>
+		<manufacturer>Greyhound Electronics</manufacturer>
+		<year>1984</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtsers11a" index="" image="">
+		<description>Trivia (Questions Series 11 Alt Question Rom)</description>
+		<cloneof>gtsers8</cloneof>
+		<crc></crc>
+		<manufacturer>Greyhound Electronics</manufacturer>
+		<year>1984</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtsers11" index="" image="">
+		<description>Trivia (Questions Series 11)</description>
+		<cloneof>gtsers8</cloneof>
+		<crc></crc>
+		<manufacturer>Greyhound Electronics</manufacturer>
+		<year>1984</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtsers12" index="" image="">
+		<description>Trivia (Questions Series 12)</description>
+		<cloneof>gtsers8</cloneof>
+		<crc></crc>
+		<manufacturer>Greyhound Electronics</manufacturer>
+		<year>1984</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtsers14" index="" image="">
+		<description>Trivia (Questions Series 14)</description>
+		<cloneof>gtsers8</cloneof>
+		<crc></crc>
+		<manufacturer>Greyhound Electronics</manufacturer>
+		<year>1986</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtsers15" index="" image="">
+		<description>Trivia (Questions Series 15)</description>
+		<cloneof>gtsers8</cloneof>
+		<crc></crc>
+		<manufacturer>Greyhound Electronics</manufacturer>
+		<year>1986</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtsers2" index="" image="">
+		<description>Trivia (Questions Series 2)</description>
+		<cloneof>gtsers1</cloneof>
+		<crc></crc>
+		<manufacturer>Greyhound Electronics</manufacturer>
+		<year>1984</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtsers3" index="" image="">
+		<description>Trivia (Questions Series 3)</description>
+		<cloneof>gtsers1</cloneof>
+		<crc></crc>
+		<manufacturer>Greyhound Electronics</manufacturer>
+		<year>1984</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtsers4" index="" image="">
+		<description>Trivia (Questions Series 4)</description>
+		<cloneof>gtsers1</cloneof>
+		<crc></crc>
+		<manufacturer>Greyhound Electronics</manufacturer>
+		<year>1984</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtsers5" index="" image="">
+		<description>Trivia (Questions Series 5)</description>
+		<cloneof>gtsers1</cloneof>
+		<crc></crc>
+		<manufacturer>Greyhound Electronics</manufacturer>
+		<year>1984</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtsers7" index="" image="">
+		<description>Trivia (Questions Series 7)</description>
+		<cloneof>gtsers1</cloneof>
+		<crc></crc>
+		<manufacturer>Greyhound Electronics</manufacturer>
+		<year>1984</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtsers8" index="" image="">
+		<description>Trivia (Questions Series 8)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Greyhound Electronics</manufacturer>
+		<year>1984</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtsers9" index="" image="">
+		<description>Trivia (Questions Series 9)</description>
+		<cloneof>gtsers8</cloneof>
+		<crc></crc>
+		<manufacturer>Greyhound Electronics</manufacturer>
+		<year>1984</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gt507uk" index="" image="">
+		<description>Trivia (UK Version 5.07)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Grayhound Electronics</manufacturer>
+		<year>1986</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gt103a1" index="" image="">
+		<description>Trivia (Unsorted question roms)</description>
+		<cloneof>gtsers8</cloneof>
+		<crc></crc>
+		<manufacturer>Greyhound Electronics</manufacturer>
+		<year>1984</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gt103aa" index="" image="">
+		<description>Trivia (Version 1.03a Alt questions 1)</description>
+		<cloneof>gtsers8</cloneof>
+		<crc></crc>
+		<manufacturer>Greyhound Electronics</manufacturer>
+		<year>1984</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gt103ab" index="" image="">
+		<description>Trivia (Version 1.03a Alt questions 2)</description>
+		<cloneof>gtsers8</cloneof>
+		<crc></crc>
+		<manufacturer>Greyhound Electronics</manufacturer>
+		<year>1984</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gt103asx" index="" image="">
+		<description>Trivia (Version 1.03a Sex questions)</description>
+		<cloneof>gtsers8</cloneof>
+		<crc></crc>
+		<manufacturer>Greyhound Electronics</manufacturer>
+		<year>1984</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trvwz2" index="" image="">
+		<description>Trivia ? Whiz (Edition 2) (question set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1985</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trvwz2a" index="" image="">
+		<description>Trivia ? Whiz (Edition 2) (question set 2)</description>
+		<cloneof>trvwz2</cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1985</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trvwz3h" index="" image="">
+		<description>Trivia ? Whiz (Edition 3 - Horizontal) (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1985</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trvwz3ha" index="" image="">
+		<description>Trivia ? Whiz (Edition 3 - Horizontal) (set 2)</description>
+		<cloneof>trvwz3h</cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1985</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trvwz3v" index="" image="">
+		<description>Trivia ? Whiz (Edition 3 - Vertical)</description>
+		<cloneof>trvwz3h</cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1985</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trvwz4" index="" image="">
+		<description>Trivia ? Whiz (Edition 4) (question set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1985</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trvwz4a" index="" image="">
+		<description>Trivia ? Whiz (Edition 4) (question set 2)</description>
+		<cloneof>trvwz4</cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1985</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trvwzh" index="" image="">
+		<description>Trivia ? Whiz (Horizontal) (question set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1985</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trvwzha" index="" image="">
+		<description>Trivia ? Whiz (Horizontal) (question set 2)</description>
+		<cloneof>trvwzh</cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1985</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trvwzhb" index="" image="">
+		<description>Trivia ? Whiz (Horizontal) (question set 3)</description>
+		<cloneof>trvwzh</cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1985</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trvwzv" index="" image="">
+		<description>Trivia ? Whiz (Vertical) (question set 1)</description>
+		<cloneof>trvwzh</cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1985</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trvwzva" index="" image="">
+		<description>Trivia ? Whiz (Vertical) (question set 2)</description>
+		<cloneof>trvwzh</cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1985</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trvgns" index="" image="">
+		<description>Trivia Genius</description>
+		<cloneof>trvmstr</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1985</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trvhang" index="" image="">
+		<description>Trivia Hangup (question set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SMS Manufacturing Corp.</manufacturer>
+		<year>1984</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trvmstr" index="" image="">
+		<description>Trivia Master (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Enerdyne Technologies Inc.</manufacturer>
+		<year>1985</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trvmstra" index="" image="">
+		<description>Trivia Master (set 2)</description>
+		<cloneof>trvmstr</cloneof>
+		<crc></crc>
+		<manufacturer>Enerdyne Technologies Inc.</manufacturer>
+		<year>1985</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trvmstrb" index="" image="">
+		<description>Trivia Master (set 3)</description>
+		<cloneof>trvmstr</cloneof>
+		<crc></crc>
+		<manufacturer>Enerdyne Technologies Inc.</manufacturer>
+		<year>1985</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trvmstrc" index="" image="">
+		<description>Trivia Master (set 4)</description>
+		<cloneof>trvmstr</cloneof>
+		<crc></crc>
+		<manufacturer>Enerdyne Technologies Inc.</manufacturer>
+		<year>1985</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trvquest" index="" image="">
+		<description>Trivia Quest</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sunn / Techstar</manufacturer>
+		<year>1984</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trivialpo" index="" image="">
+		<description>Trivial Pursuit</description>
+		<cloneof>trivialp</cloneof>
+		<crc></crc>
+		<manufacturer>JPM</manufacturer>
+		<year>1996</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="triviasp" index="" image="">
+		<description>Trivial Pursuit (All Star Sports Edition)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally/Sente</manufacturer>
+		<year>1984</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="triviabb" index="" image="">
+		<description>Trivial Pursuit (Baby Boomer Edition) (3/20/85)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally/Sente</manufacturer>
+		<year>1984</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trivia12" index="" image="">
+		<description>Trivial Pursuit (Genus I) (12/14/84)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally/Sente</manufacturer>
+		<year>1984</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="triviag1" index="" image="">
+		<description>Trivial Pursuit (Genus I) (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally/Sente</manufacturer>
+		<year>1984</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="triviag2" index="" image="">
+		<description>Trivial Pursuit (Genus II)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally/Sente</manufacturer>
+		<year>1984</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trivialp" index="" image="">
+		<description>Trivial Pursuit (New Edition) (prod. 1D)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>JPM</manufacturer>
+		<year>1996</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trivialpd" index="" image="">
+		<description>Trivial Pursuit (New Edition) (prod. 1D) (Protocol)</description>
+		<cloneof>trivialp</cloneof>
+		<crc></crc>
+		<manufacturer>JPM</manufacturer>
+		<year>1996</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="triviayp" index="" image="">
+		<description>Trivial Pursuit (Young Players Edition)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally/Sente</manufacturer>
+		<year>1984</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wfortune" index="true" image="w">
+		<description>Wheel Of Fortune (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>GameTek</manufacturer>
+		<year>1989</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wfortunea" index="" image="">
+		<description>Wheel Of Fortune (set 2)</description>
+		<cloneof>wfortune</cloneof>
+		<crc></crc>
+		<manufacturer>GameTek</manufacturer>
+		<year>1989</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wizzquiz" index="" image="">
+		<description>Wizz Quiz (Konami version)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Zilec-Zenitone (Konami license)</manufacturer>
+		<year>1985</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wizzquiza" index="" image="">
+		<description>Wizz Quiz (version 4)</description>
+		<cloneof>wizzquiz</cloneof>
+		<crc></crc>
+		<manufacturer>Zilec-Zenitone</manufacturer>
+		<year>1985</year>
+		<genre>Quiz</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

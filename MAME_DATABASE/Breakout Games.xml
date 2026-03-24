@@ -1,0 +1,1109 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>MAME</listname>
+		<lastlistupdate>06/03/2012</lastlistupdate>
+		<listversion>.146 Ongoing</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="arkgcbl" index="true" image="a">
+		<description>Arkanoid (bootleg on Block hardware, set 1)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1986</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arkgcbla" index="" image="">
+		<description>Arkanoid (bootleg on Block hardware, set 2)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1986</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arkanoidjb" index="" image="">
+		<description>Arkanoid (bootleg with MCU)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1986</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ark1ball" index="" image="">
+		<description>Arkanoid (bootleg with MCU, harder)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1986</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arkangc" index="" image="">
+		<description>Arkanoid (Game Corporation bootleg, set 1)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (Game Corporation)</manufacturer>
+		<year>1986</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arkangc2" index="" image="">
+		<description>Arkanoid (Game Corporation bootleg, set 2)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (Game Corporation)</manufacturer>
+		<year>1986</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arkanoidj" index="" image="">
+		<description>Arkanoid (Japan)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1986</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arkanoidjo" index="" image="">
+		<description>Arkanoid (Japan, older)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1986</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arkatayt" index="" image="">
+		<description>Arkanoid (Tayto bootleg)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (Tayto)</manufacturer>
+		<year>1986</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arktayt2" index="" image="">
+		<description>Arkanoid (Tayto bootleg, harder)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (Tayto)</manufacturer>
+		<year>1986</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arkanoidu" index="" image="">
+		<description>Arkanoid (US)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation (Romstar license)</manufacturer>
+		<year>1986</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arkanoiduo" index="" image="">
+		<description>Arkanoid (US, older)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation (Romstar license)</manufacturer>
+		<year>1986</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arkanoid" index="" image="">
+		<description>Arkanoid (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1986</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arknoid2b" index="" image="">
+		<description>Arkanoid - Revenge of DOH (Japan bootleg)</description>
+		<cloneof>arknoid2</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1987</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arknoid2j" index="" image="">
+		<description>Arkanoid - Revenge of DOH (Japan)</description>
+		<cloneof>arknoid2</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1987</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arknoid2u" index="" image="">
+		<description>Arkanoid - Revenge of DOH (US)</description>
+		<cloneof>arknoid2</cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation (Romstar license)</manufacturer>
+		<year>1987</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arknoid2" index="" image="">
+		<description>Arkanoid - Revenge of DOH (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1987</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arkretrn" index="" image="">
+		<description>Arkanoid Returns (Ver 2.02J 1997/02/10)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1997</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="balcube" index="true" image="b">
+		<description>Bal Cube</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Metro</manufacturer>
+		<year>1996</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arkblock" index="" image="">
+		<description>Block (Game Corporation bootleg, set 1)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (Game Corporation)</manufacturer>
+		<year>1986</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arkbloc2" index="" image="">
+		<description>Block (Game Corporation bootleg, set 2)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (Game Corporation)</manufacturer>
+		<year>1986</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arkbloc3" index="" image="">
+		<description>Block (Game Corporation bootleg, set 3)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (Game Corporation)</manufacturer>
+		<year>1986</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="block2" index="" image="">
+		<description>Block 2 (S.P.A. Co. bootleg)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (S.P.A. Co.)</manufacturer>
+		<year>1986</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="blockbl" index="" image="">
+		<description>Block Block (bootleg)</description>
+		<cloneof>block</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1991</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="blockj" index="" image="">
+		<description>Block Block (Japan 910910)</description>
+		<cloneof>block</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1991</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="block" index="" image="">
+		<description>Block Block (World 910910)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1991</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="blockjoy" index="" image="">
+		<description>Block Block (World 911106 Joystick)</description>
+		<cloneof>block</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1991</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="blockcar" index="" image="">
+		<description>Block Carnival / Thunder &amp; Lightning 2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Visco</manufacturer>
+		<year>1992</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="blockgalb" index="" image="">
+		<description>Block Gal (bootleg)</description>
+		<cloneof>blockgal</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1987</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="blockgal" index="" image="">
+		<description>Block Gal (MC-8123B, 317-0029)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega / Vic Tokai</manufacturer>
+		<year>1987</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="blocken" index="" image="">
+		<description>Blocken (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>KID / Visco</manufacturer>
+		<year>1994</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bombbee" index="" image="">
+		<description>Bomb Bee</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1979</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cannonb" index="true" image="c">
+		<description>Cannon Ball (bootleg on Crazy Kong hardware) (set 1, buggy)</description>
+		<cloneof>cannonbp</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (Soft)</manufacturer>
+		<year>1985</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cannonb2" index="" image="">
+		<description>Cannon Ball (bootleg on Crazy Kong hardware) (set 2, buggy)</description>
+		<cloneof>cannonbp</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (TV Game Gruenberg)</manufacturer>
+		<year>1985</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cannonb3" index="" image="">
+		<description>Cannon Ball (bootleg on Crazy Kong hardware) (set 3, no bonus game)</description>
+		<cloneof>cannonbp</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (Soft)</manufacturer>
+		<year>1985</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cannonbp" index="" image="">
+		<description>Cannon Ball (Pacman Hardware)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Novomatic</manufacturer>
+		<year>198?</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="catchp" index="" image="">
+		<description>Catch (prototype)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1977</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="circus" index="" image="">
+		<description>Circus / Acrobat TV</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Exidy / Taito</manufacturer>
+		<year>1977</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="clowns1" index="" image="">
+		<description>Clowns (rev. 1)</description>
+		<cloneof>clowns</cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1978</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="clowns" index="" image="">
+		<description>Clowns (rev. 2)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1978</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cgraplop" index="" image="">
+		<description>Cluster Buster / Graplop (DECO Cassette, set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1983</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cclownz" index="" image="">
+		<description>Crazzy Clownz (Version 1.0)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>LAI Games</manufacturer>
+		<year>1999</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cubybop" index="" image="">
+		<description>Cuby Bop (location test)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Hot-B</manufacturer>
+		<year>199?</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cutieq" index="" image="">
+		<description>Cutie Q</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1979</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dominob" index="true" image="d">
+		<description>Domino Block</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Wonwoo Systems</manufacturer>
+		<year>1996</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dominobv2" index="" image="">
+		<description>Domino Block ver.2</description>
+		<cloneof>dominob</cloneof>
+		<crc></crc>
+		<manufacturer>Wonwoo Systems</manufacturer>
+		<year>1996</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="fgoal" index="true" image="f">
+		<description>Field Goal</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1979</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="fgoala" index="" image="">
+		<description>Field Goal (different)</description>
+		<cloneof>fgoal</cloneof>
+		<crc></crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1979</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cflyball" index="" image="">
+		<description>Flying Ball (DECO Cassette)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1985</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="freekick" index="" image="">
+		<description>Free Kick</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nihon System (Merit license)</manufacturer>
+		<year>1987</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="freekickb" index="" image="">
+		<description>Free Kick (bootleg set 1)</description>
+		<cloneof>freekick</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1987</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="freekickb2" index="" image="">
+		<description>Free Kick (bootleg set 2)</description>
+		<cloneof>freekick</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1987</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="geebeeb" index="true" image="g">
+		<description>Gee Bee (Europe)</description>
+		<cloneof>geebee</cloneof>
+		<crc></crc>
+		<manufacturer>Namco (F.lli Bertolino license)</manufacturer>
+		<year>1978</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="geebee" index="" image="">
+		<description>Gee Bee (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1978</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="geebeeg" index="" image="">
+		<description>Gee Bee (US)</description>
+		<cloneof>geebee</cloneof>
+		<crc></crc>
+		<manufacturer>Namco (Gremlin license)</manufacturer>
+		<year>1978</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ghoxj" index="" image="">
+		<description>Ghox (joystick)</description>
+		<cloneof>ghox</cloneof>
+		<crc></crc>
+		<manufacturer>Toaplan</manufacturer>
+		<year>1991</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ghox" index="" image="">
+		<description>Ghox (spinner)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Toaplan</manufacturer>
+		<year>1991</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gigasb" index="" image="">
+		<description>Gigas (bootleg)</description>
+		<cloneof>gigas</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1986</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gigasm2b" index="" image="">
+		<description>Gigas Mark II (bootleg)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1986</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="goindolk" index="" image="">
+		<description>Goindol (Korea)</description>
+		<cloneof>goindol</cloneof>
+		<crc></crc>
+		<manufacturer>SunA</manufacturer>
+		<year>1987</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="goindolu" index="" image="">
+		<description>Goindol (US)</description>
+		<cloneof>goindol</cloneof>
+		<crc></crc>
+		<manufacturer>SunA</manufacturer>
+		<year>1987</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="goindol" index="" image="">
+		<description>Goindol (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SunA</manufacturer>
+		<year>1987</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gnbarich" index="" image="">
+		<description>Gunbarich</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Psikyo</manufacturer>
+		<year>2001</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="spinkick" index="true" image="h">
+		<description>Hec&apos;s Spinkick</description>
+		<cloneof>sfkick</cloneof>
+		<crc></crc>
+		<manufacturer>Haesung/Seojin</manufacturer>
+		<year>1988</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="homo" index="" image="">
+		<description>Homo</description>
+		<cloneof>goindol</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1987</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jmpbreak" index="true" image="j">
+		<description>Jumping Break</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>F2 System</manufacturer>
+		<year>1999</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jpopnics" index="" image="">
+		<description>Jumping Pop (Nics, Korean bootleg of Plump Pop)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (Nics)</manufacturer>
+		<year>1992</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lagirl" index="true" image="l">
+		<description>LA Girl</description>
+		<cloneof>plgirls</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1992</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="madball" index="true" image="m">
+		<description>Mad Ball V2.0</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Yun Sung</manufacturer>
+		<year>1998</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="madballn" index="" image="">
+		<description>Mad Ball V2.0 (With Nudity)</description>
+		<cloneof>madball</cloneof>
+		<crc></crc>
+		<manufacturer>Yun Sung</manufacturer>
+		<year>1997</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jongbou" index="" image="">
+		<description>Mahjong Block Jongbou (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1987</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mfish_11" index="" image="">
+		<description>Multi Fish (031124)</description>
+		<cloneof>mfish_13</cloneof>
+		<crc></crc>
+		<manufacturer>Igrosoft</manufacturer>
+		<year>2002</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="offtwallc" index="true" image="o">
+		<description>Off the Wall (2-player cocktail)</description>
+		<cloneof>offtwall</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1991</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="offtwall" index="" image="">
+		<description>Off the Wall (2/3-player upright)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1991</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="oigas" index="" image="">
+		<description>Oigas (bootleg)</description>
+		<cloneof>gigas</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1986</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="paddle2" index="true" image="p">
+		<description>Paddle 2 (bootleg on Block hardware)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1988</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="peekaboo" index="" image="">
+		<description>Peek-a-Boo!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1993</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="plgirls" index="" image="">
+		<description>Play Girls</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Hot-B</manufacturer>
+		<year>1992</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="plumppop" index="" image="">
+		<description>Plump Pop (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1987</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="popbounc" index="" image="">
+		<description>Pop &apos;n Bounce / Gapporin</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Video System Co.</manufacturer>
+		<year>1997</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="powerbal" index="" image="">
+		<description>Power Balls</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Playmark</manufacturer>
+		<year>1994</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="powerbals" index="" image="">
+		<description>Power Balls (Super Slam conversion)</description>
+		<cloneof>powerbal</cloneof>
+		<crc></crc>
+		<manufacturer>Playmark</manufacturer>
+		<year>1994</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="puchicarj" index="" image="">
+		<description>Puchi Carat (Ver 2.02J 1997/10/29)</description>
+		<cloneof>puchicar</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1997</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="puchicar" index="" image="">
+		<description>Puchi Carat (Ver 2.02O 1997/10/29)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1997</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="quester" index="true" image="q">
+		<description>Quester (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1987</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="questers" index="" image="">
+		<description>Quester Special Edition (Japan)</description>
+		<cloneof>quester</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1987</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="reaktor" index="true" image="r">
+		<description>Reaktor (Track &amp; Field conversion)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Zilec</manufacturer>
+		<year>1987</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ridleofp" index="" image="">
+		<description>Riddle of Pythagoras (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega / Nasco</manufacturer>
+		<year>1986</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sarukani" index="true" image="s">
+		<description>Saru-Kani-Hamu-Zou (Japan)</description>
+		<cloneof>vblokbrk</cloneof>
+		<crc></crc>
+		<manufacturer>Kaneko / Mediaworks</manufacturer>
+		<year>1997</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="spacwalk" index="" image="">
+		<description>Space Walk</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1978</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="springbd" index="" image="">
+		<description>Springboard (bootleg of Circus)</description>
+		<cloneof>circus</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (Sub-Electro)</manufacturer>
+		<year>1977</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sflush" index="" image="">
+		<description>Straight Flush</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1979</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="superbar" index="" image="">
+		<description>Super Bar</description>
+		<cloneof>wiggie</cloneof>
+		<crc></crc>
+		<manufacturer>Promat</manufacturer>
+		<year>1994</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sbrkout3" index="" image="">
+		<description>Super Breakout (rev 03)</description>
+		<cloneof>sbrkout</cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1978</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sbrkout" index="" image="">
+		<description>Super Breakout (rev 04)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1978</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sfkick" index="" image="">
+		<description>Super Free Kick (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Haesung/HJ Corp</manufacturer>
+		<year>1988</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sfkicka" index="" image="">
+		<description>Super Free Kick (set 2)</description>
+		<cloneof>sfkick</cloneof>
+		<crc></crc>
+		<manufacturer>Haesung</manufacturer>
+		<year>198?</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tblkkuzu" index="true" image="t">
+		<description>The Block Kuzushi (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tamsoft / D3 Publisher</manufacturer>
+		<year>2000</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="thunderl" index="" image="">
+		<description>Thunder &amp; Lightning</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Seta</manufacturer>
+		<year>1990</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="thunderlbl" index="" image="">
+		<description>Thunder &amp; Lightning (bootleg with Tetris sound)</description>
+		<cloneof>thunderl</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1990</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arkatour" index="" image="">
+		<description>Tournament Arkanoid (US)</description>
+		<cloneof>arkanoid</cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation (Romstar license)</manufacturer>
+		<year>1987</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="twinsqua" index="" image="">
+		<description>Twin Squash</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vblokbrk" index="true" image="v">
+		<description>VS Block Breaker (Asia)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Kaneko / Mediaworks</manufacturer>
+		<year>1997</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wallc" index="true" image="w">
+		<description>Wall Crash (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midcoin</manufacturer>
+		<year>1984</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wallca" index="" image="">
+		<description>Wall Crash (set 2)</description>
+		<cloneof>wallc</cloneof>
+		<crc></crc>
+		<manufacturer>Midcoin</manufacturer>
+		<year>1984</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="warlords" index="" image="">
+		<description>Warlords</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1980</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wiggie" index="" image="">
+		<description>Wiggie Waggie</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Promat</manufacturer>
+		<year>1994</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wink" index="" image="">
+		<description>Wink (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midcoin</manufacturer>
+		<year>1985</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="winka" index="" image="">
+		<description>Wink (set 2)</description>
+		<cloneof>wink</cloneof>
+		<crc></crc>
+		<manufacturer>Midcoin</manufacturer>
+		<year>1985</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="zipzap" index="true" image="z">
+		<description>Zip &amp; Zap</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Barko Corp</manufacturer>
+		<year>1995</year>
+		<genre>Breakout</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

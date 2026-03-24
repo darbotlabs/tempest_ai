@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>MAME</listname>
+		<lastlistupdate>06/03/2012</lastlistupdate>
+		<listversion>.146 Ongoing</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="pigskin" index="true" image="p">
+		<description>Pigskin 621AD (rev 1.1K 8/01/90)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Rugby</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pigskina" index="" image="">
+		<description>Pigskin 621AD (rev 2.0 7/06/90)</description>
+		<cloneof>pigskin</cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Rugby</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cscrtry" index="true" image="s">
+		<description>Scrum Try (DECO Cassette, set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Rugby</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cscrtry2" index="" image="">
+		<description>Scrum Try (DECO Cassette, set 2)</description>
+		<cloneof>cscrtry</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Rugby</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

@@ -1,0 +1,2 @@
+MAME_EMULATOR/** filter=lfs diff=lfs merge=lfs -text
+MAME_FRONTEND/** filter=lfs diff=lfs merge=lfs -text

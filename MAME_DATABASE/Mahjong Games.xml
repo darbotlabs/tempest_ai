@@ -1,0 +1,3069 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>MAME</listname>
+		<lastlistupdate>06/03/2012</lastlistupdate>
+		<listversion>.146 Ongoing</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="7jigen" index="true" image="7">
+		<description>7jigen no Youseitachi - Mahjong 7 Dimensions (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1990</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjapinky" index="true" image="a">
+		<description>Almond Pinky [BET] (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="apparel" index="" image="">
+		<description>Apparel Night (Japan 860929)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Central Denshi</manufacturer>
+		<year>1986</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bakatono" index="true" image="b">
+		<description>Bakatonosama Mahjong Manyuuki (MOM-002)(MOH-002)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Monolith Corp.</manufacturer>
+		<year>1991</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Yellow (Sexual Content Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bijokkog" index="" image="">
+		<description>Bijokko Gakuen (Japan 880116)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bijokkoy" index="" image="">
+		<description>Bijokko Yume Monogatari (Japan 870925)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1987</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bishjan" index="" image="">
+		<description>Bishou Jan (Japan, Ver. 2.03)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Subsino</manufacturer>
+		<year>1999</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="psailor1" index="" image="">
+		<description>Bishoujo Janshi Pretty Sailor 18-kin (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sphinx</manufacturer>
+		<year>1994</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="psailor2" index="" image="">
+		<description>Bishoujo Janshi Pretty Sailor 2 (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sphinx</manufacturer>
+		<year>1994</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="7toitsu" index="true" image="c">
+		<description>Chi-Toitsu</description>
+		<cloneof>mgakuen</cloneof>
+		<crc></crc>
+		<manufacturer>Yuga</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ccasino" index="" image="">
+		<description>Chinese Casino [BET] (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>V-System Co.</manufacturer>
+		<year>1987</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="citylove" index="" image="">
+		<description>City Love (Japan 860908)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1986</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mcitylov" index="" image="">
+		<description>City Love [BET] (Japan 860904)</description>
+		<cloneof>citylove</cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1986</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crystalg" index="" image="">
+		<description>Crystal Gal (Japan 860512)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1986</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crystal2" index="" image="">
+		<description>Crystal Gal 2 (Japan 860620)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1986</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dbc" index="true" image="d">
+		<description>Da Ban Cheng (Hong Kong, V027H)</description>
+		<cloneof>lhb</cloneof>
+		<crc></crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1995</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="daisyari" index="" image="">
+		<description>Daisyarin [BET] (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Best System</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dakkochn" index="" image="">
+		<description>DakkoChan House (MC-8123, 317-0014)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>White Board</manufacturer>
+		<year>1987</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="otatidai" index="" image="">
+		<description>Disco Mahjong Otachidai no Okite (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sphinx</manufacturer>
+		<year>1995</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dondenmj" index="" image="">
+		<description>Don Den Mahjong [BET] (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dyna Electronics</manufacturer>
+		<year>1986</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cdsteljn" index="" image="">
+		<description>DS Telejan (DECO Cassette, Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1981</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ejanhs" index="true" image="e">
+		<description>E-Jan High School (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Seibu Kaihatsu</manufacturer>
+		<year>1996</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ejsakura12" index="" image="">
+		<description>E-Jan Sakurasou (v1.2)</description>
+		<cloneof>ejsakura</cloneof>
+		<crc></crc>
+		<manufacturer>Seibu Kaihatsu</manufacturer>
+		<year>1999</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ejsakura" index="" image="">
+		<description>E-Jan Sakurasou (v2.0)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Seibu Kaihatsu</manufacturer>
+		<year>1999</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="chinsan" index="true" image="g">
+		<description>Ganbare Chinsan Ooshoubu (MC-8123A, 317-5012)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sanritsu</manufacturer>
+		<year>1987</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="goodejan" index="" image="">
+		<description>Good E Jong -Kachinuki Mahjong Syoukin Oh!!- (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Seibu Kaihatsu (Tecmo license)</manufacturer>
+		<year>1991</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="goodejana" index="" image="">
+		<description>Good E Jong -Kachinuki Mahjong Syoukin Oh!!- (set 2)</description>
+		<cloneof>goodejan</cloneof>
+		<crc></crc>
+		<manufacturer>Seibu Kaihatsu (Tecmo license)</manufacturer>
+		<year>1991</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="housemnq" index="true" image="h">
+		<description>House Mannequin (Japan 870217)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1987</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="housemn2" index="" image="">
+		<description>House Mannequin Roppongi Live hen (Japan 870418)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1987</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="47pie2o" index="true" image="i">
+		<description>Idol Janshi Su-Chi-Pie 2 (v1.0)</description>
+		<cloneof>47pie2</cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1994</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="47pie2" index="" image="">
+		<description>Idol Janshi Su-Chi-Pie 2 (v1.1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1994</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="suchipi" index="" image="">
+		<description>Idol Janshi Suchie-Pai Special (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1993</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="idhimitu" index="" image="">
+		<description>Idol no Himitsu [BET] (Japan 890304)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Digital Soft</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="fromance" index="" image="">
+		<description>Idol-Mahjong Final Romance (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Video System Co.</manufacturer>
+		<year>1991</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="idolmj" index="" image="">
+		<description>Idol-Mahjong Housoukyoku (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>System Service</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="iemoto" index="" image="">
+		<description>Iemoto (Japan 871020)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1987</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="iemotom" index="" image="">
+		<description>Iemoto [BET] (Japan 871118)</description>
+		<cloneof>iemoto</cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1987</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="imekura" index="" image="">
+		<description>Imekura Mahjong (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sphinx / AV Japan</manufacturer>
+		<year>1994</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ippatsu" index="" image="">
+		<description>Ippatsu Gyakuten [BET] (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Public Software / Paradais</manufacturer>
+		<year>1986</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jjparads" index="true" image="j">
+		<description>Jan Jan Paradise</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Electro Design</manufacturer>
+		<year>1996</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jjparad2" index="" image="">
+		<description>Jan Jan Paradise 2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Electro Design</manufacturer>
+		<year>1997</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jngolady" index="" image="">
+		<description>Jangou Lady (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1984</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jangou" index="" image="">
+		<description>Jangou [BET] (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1983</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="janptrsp" index="" image="">
+		<description>Janputer Special (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1997</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jansoua" index="" image="">
+		<description>Jansou (set 2)</description>
+		<cloneof>jansou</cloneof>
+		<crc></crc>
+		<manufacturer>Dyna</manufacturer>
+		<year>1985</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="janyoup2" index="" image="">
+		<description>Janyou Part II (ver 7.03, July 1 1983)</description>
+		<cloneof>royalmj</cloneof>
+		<crc></crc>
+		<manufacturer>Cosmo Denshi</manufacturer>
+		<year>1983</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cultures" index="" image="">
+		<description>Jibun wo Migaku Culture School Mahjong Hen</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Face</manufacturer>
+		<year>1994</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jituroku" index="" image="">
+		<description>Jitsuroku Maru-chi Mahjong (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Windom</manufacturer>
+		<year>1993</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jantouki" index="" image="">
+		<description>Jong Tou Ki (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1990</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jongkyo" index="" image="">
+		<description>Jongkyo</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Kiwako</manufacturer>
+		<year>1985</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jyangoku" index="" image="">
+		<description>Jyangokushi: Haoh no Saihai (Japan 990527)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1999</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="janshin" index="" image="">
+		<description>Jyanshin Densetsu - Quest of Jongmaster</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Aicom</manufacturer>
+		<year>1994</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Yellow (Sexual Content Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kanatuen" index="true" image="k">
+		<description>Kanatsuen no Onna [BET] (Japan 880905)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Panac</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mayumi" index="" image="">
+		<description>Kikiippatsu Mayumi-chan (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sanritsu / Victory L.L.C.</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kyuhito" index="" image="">
+		<description>Kyukyoku no Hito [BET] (Japan 880824)</description>
+		<cloneof>kanatuen</cloneof>
+		<crc></crc>
+		<manufacturer>Roller Tron</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="livegal" index="true" image="l">
+		<description>Live Gal (Japan 870530)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Central Denshi</manufacturer>
+		<year>1987</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lhbv33c" index="" image="">
+		<description>Long Hu Bang (China, V033C)</description>
+		<cloneof>lhb</cloneof>
+		<crc></crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1995</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lhb" index="" image="">
+		<description>Long Hu Bang (China, V035C)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1995</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lhb2" index="" image="">
+		<description>Long Hu Bang II (Hong Kong, V185H)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1996</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="janjans1" index="" image="">
+		<description>Lovely Pop Mahjong JangJang Shimasho (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Visco</manufacturer>
+		<year>1996</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="janjans2" index="" image="">
+		<description>Lovely Pop Mahjong JangJang Shimasho 2 (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Visco</manufacturer>
+		<year>2000</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="4psimasy" index="true" image="m">
+		<description>Mahjong 4P Simasyo (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sphinx / AV Japan</manufacturer>
+		<year>1994</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="akiss" index="" image="">
+		<description>Mahjong Angel Kiss</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1995</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjangels" index="" image="">
+		<description>Mahjong Angels - Comic Theater Vol.2 (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1991</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bakuhatu" index="" image="">
+		<description>Mahjong Bakuhatsu Junjouden (Japan)</description>
+		<cloneof>mjgottsu</cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1991</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bananadr" index="" image="">
+		<description>Mahjong Banana Dream [BET] (Japan 891124)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Digital Soft</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cafetime" index="" image="">
+		<description>Mahjong Cafe Time</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1992</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjcamera" index="" image="">
+		<description>Mahjong Camera Kozou (set 1) (Japan 881109)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Miki Syouji</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjcamerb" index="" image="">
+		<description>Mahjong Camera Kozou (set 2) (Japan 881109)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Miki Syouji</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mmcamera" index="" image="">
+		<description>Mahjong Camera Kozou [BET] (Japan 890509)</description>
+		<cloneof>mjcamerb</cloneof>
+		<crc></crc>
+		<manufacturer>Miki Syouji</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mcnpshnt" index="" image="">
+		<description>Mahjong Campus Hunting (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1990</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjzoomin" index="" image="">
+		<description>Mahjong Channel Zoom In (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1990</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="chinmoku" index="" image="">
+		<description>Mahjong Chinmoku no Hentai (Japan 900511)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1990</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjchuuka" index="" image="">
+		<description>Mahjong Chuukanejyo (China)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1998</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cmehyou" index="" image="">
+		<description>Mahjong Circuit no Mehyou (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu / Kawakusu</manufacturer>
+		<year>1992</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjclinic" index="" image="">
+		<description>Mahjong Clinic (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Home Data</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="club90s" index="" image="">
+		<description>Mahjong CLUB 90&apos;s (set 1) (Japan 900919)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1990</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="club90sa" index="" image="">
+		<description>Mahjong CLUB 90&apos;s (set 2) (Japan 900919)</description>
+		<cloneof>club90s</cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1990</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjclub" index="" image="">
+		<description>Mahjong Club [BET] (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Xex</manufacturer>
+		<year>1986?</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjcomv1" index="" image="">
+		<description>Mahjong Comic Gekijou Vol.1 (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1991</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="daimyojn" index="" image="">
+		<description>Mahjong Daimyojin (Japan, T017-PB-00)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax / Techno-Top / Techno-Planning</manufacturer>
+		<year>2002</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="daireika" index="" image="">
+		<description>Mahjong Daireikai (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco / NMK</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="daiyogen" index="" image="">
+		<description>Mahjong Daiyogen (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Video System Co.</manufacturer>
+		<year>1990</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjderngr" index="" image="">
+		<description>Mahjong Derringer (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjdialq2" index="" image="">
+		<description>Mahjong Dial Q2 (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1991</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjdiplob" index="" image="">
+		<description>Mahjong Diplomat [BET] (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1987</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dokyusei" index="" image="">
+		<description>Mahjong Doukyuusei</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Make Software / Elf / Media Trading</manufacturer>
+		<year>1995</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dokyusp" index="" image="">
+		<description>Mahjong Doukyuusei Special</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Make Software / Elf / Media Trading</manufacturer>
+		<year>1995</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dunhuang" index="" image="">
+		<description>Mahjong Dunhuang</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Spirit</manufacturer>
+		<year>1995</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjelct3a" index="" image="">
+		<description>Mahjong Electron Base (parts 2 &amp; 3, alt., Japan)</description>
+		<cloneof>mjelctrn</cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1990</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjelct3" index="" image="">
+		<description>Mahjong Electron Base (parts 2 &amp; 3, Japan)</description>
+		<cloneof>mjelctrn</cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1990</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjelctrn" index="" image="">
+		<description>Mahjong Electron Base (parts 2 &amp; 4, Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1993</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjelctrb" index="" image="">
+		<description>Mahjong Electron Base (parts 2 &amp; 4, Japan, bootleg)</description>
+		<cloneof>mjelctrn</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1993</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjegolf" index="" image="">
+		<description>Mahjong Erotica Golf (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Fujic / AV Japan</manufacturer>
+		<year>1994</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjflove" index="" image="">
+		<description>Mahjong Fantasic Love (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nakanihon</manufacturer>
+		<year>1996</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="finalbny" index="" image="">
+		<description>Mahjong Final Bunny [BET] (Japan)</description>
+		<cloneof>vanilla</cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1991</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjfocus" index="" image="">
+		<description>Mahjong Focus (Japan 890313)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjfocusm" index="" image="">
+		<description>Mahjong Focus [BET] (Japan 890510)</description>
+		<cloneof>mjfocus</cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjfriday" index="" image="">
+		<description>Mahjong Friday (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mfunclub" index="" image="">
+		<description>Mahjong Fun Club - Idol Saizensen (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Video System Co.</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mgmen89" index="" image="">
+		<description>Mahjong G-MEN&apos;89 (Japan 890425)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjgtaste" index="" image="">
+		<description>Mahjong G-Taste</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Psikyo</manufacturer>
+		<year>2002</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjgaiden" index="" image="">
+		<description>Mahjong Gaiden [BET] (Japan 870803)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Central Denshi</manufacturer>
+		<year>1987</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mgakuen" index="" image="">
+		<description>Mahjong Gakuen</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Yuga</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mgakuen2" index="" image="">
+		<description>Mahjong Gakuen 2 Gakuen-chou no Fukushuu</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Face</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gakusai" index="" image="">
+		<description>Mahjong Gakuensai (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>MakeSoft</manufacturer>
+		<year>1997</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gakusai2" index="" image="">
+		<description>Mahjong Gakuensai 2 (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>MakeSoft</manufacturer>
+		<year>1998</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gal10ren" index="" image="">
+		<description>Mahjong Gal 10-renpatsu (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Fujic</manufacturer>
+		<year>1993</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="galkaika" index="" image="">
+		<description>Mahjong Gal no Kaika (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu / T.R.Tec</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="galkoku" index="" image="">
+		<description>Mahjong Gal no Kokuhaku (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu / T.R.Tec</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gekisha" index="" image="">
+		<description>Mahjong Gekisha</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjgottsu" index="" image="">
+		<description>Mahjong Gottsu ee-kanji (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1991</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hanamomb" index="" image="">
+		<description>Mahjong Hana no Momoko gumi (Japan 881125)</description>
+		<cloneof>hanamomo</cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hanamomo" index="" image="">
+		<description>Mahjong Hana no Momoko gumi (Japan 881201)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hotgmcki" index="" image="">
+		<description>Mahjong Hot Gimmick Integral (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Psikyo</manufacturer>
+		<year>2001</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mhgaiden" index="" image="">
+		<description>Mahjong Hourouki Gaiden (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Home Data</manufacturer>
+		<year>1987</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjhokite" index="" image="">
+		<description>Mahjong Hourouki Okite (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Home Data</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hourouki" index="" image="">
+		<description>Mahjong Hourouki Part 1 - Seisyun Hen (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Home Data</manufacturer>
+		<year>1987</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mhhonban" index="" image="">
+		<description>Mahjong Housoukyoku Honbanchuu (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu?</manufacturer>
+		<year>199?</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hyouban" index="" image="">
+		<description>Mahjong Hyouban Musume [BET] (Japan)</description>
+		<cloneof>galkoku</cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu / T.R.Tec</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hypreact" index="" image="">
+		<description>Mahjong Hyper Reaction (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sammy</manufacturer>
+		<year>1995</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hypreac2" index="" image="">
+		<description>Mahjong Hyper Reaction 2 (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sammy</manufacturer>
+		<year>1997</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjifb" index="" image="">
+		<description>Mahjong If...? [BET]</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1990</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjifb2" index="" image="">
+		<description>Mahjong If...? [BET](2921)</description>
+		<cloneof>mjifb</cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1990</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjifb3" index="" image="">
+		<description>Mahjong If...? [BET](2931)</description>
+		<cloneof>mjifb</cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1990</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjikaga" index="" image="">
+		<description>Mahjong Ikaga Desu ka (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Mitchell</manufacturer>
+		<year>1991?</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="janbari" index="" image="">
+		<description>Mahjong Janjan Baribari (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu / Yubis / AV Japan</manufacturer>
+		<year>1992</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjlstory" index="" image="">
+		<description>Mahjong Jikken Love Story (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1991</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jogakuen" index="" image="">
+		<description>Mahjong Jogakuen (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Windom</manufacturer>
+		<year>1992?</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jongtei" index="" image="">
+		<description>Mahjong Jong-Tei (Japan, ver. NM532-01)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1999</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kaguya2f" index="" image="">
+		<description>Mahjong Kaguyahime Sono2 Fukkokuban [BET] (Japan 010808)</description>
+		<cloneof>kaguya2</cloneof>
+		<crc></crc>
+		<manufacturer>Miki Syouji</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kaguya2" index="" image="">
+		<description>Mahjong Kaguyahime Sono2 [BET] (Japan 890829)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Miki Syouji</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kaguya" index="" image="">
+		<description>Mahjong Kaguyahime [BET] (Japan 880521)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Miki Syouji</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kakumei" index="" image="">
+		<description>Mahjong Kakumei (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1990</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kakumei2" index="" image="">
+		<description>Mahjong Kakumei 2 - Princess League (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1992</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mkeibaou" index="" image="">
+		<description>Mahjong Keibaou (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1993</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjkinjas" index="" image="">
+		<description>Mahjong Kinjirareta Asobi (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Home Data</manufacturer>
+		<year>1991</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="koinomp" index="" image="">
+		<description>Mahjong Koi no Magic Potion (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1992</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjkoiura" index="" image="">
+		<description>Mahjong Koi Uranai (Japan set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1992</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mkoiuraa" index="" image="">
+		<description>Mahjong Koi Uranai (Japan set 2)</description>
+		<cloneof>mjkoiura</cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1992</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjkojink" index="" image="">
+		<description>Mahjong Kojinkyouju (Private Teacher) (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Home Data</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mahretsu" index="" image="">
+		<description>Mahjong Kyo Retsuden (NGM-004)(NGH-004)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1990</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Yellow (Sexual Content Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjkjidai" index="" image="">
+		<description>Mahjong Kyou Jidai (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sanritsu</manufacturer>
+		<year>1986</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjlaman" index="" image="">
+		<description>Mahjong La Man (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu / AV Japan</manufacturer>
+		<year>1993</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lemnangl" index="" image="">
+		<description>Mahjong Lemon Angel (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Home Data</manufacturer>
+		<year>1990</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lovehous" index="" image="">
+		<description>Mahjong Love House [BET] (Japan 901024)</description>
+		<cloneof>club90s</cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1990</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mgdha" index="" image="">
+		<description>Mahjong Man Guan Da Heng (Taiwan, V123T1)</description>
+		<cloneof>mgdh</cloneof>
+		<crc></crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1997</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mgdh" index="" image="">
+		<description>Mahjong Man Guan Da Heng (Taiwan, V125T1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1997</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjnanpaa" index="" image="">
+		<description>Mahjong Nanpa Story (Japan 890712)</description>
+		<cloneof>mjnanpas</cloneof>
+		<crc></crc>
+		<manufacturer>Brooks</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjnanpas" index="" image="">
+		<description>Mahjong Nanpa Story (Japan 890713)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Brooks</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjnanpau" index="" image="">
+		<description>Mahjong Nanpa Story (Ura) (Japan 890805)</description>
+		<cloneof>mjnanpas</cloneof>
+		<crc></crc>
+		<manufacturer>Brooks</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjnatsu" index="" image="">
+		<description>Mahjong Natsu Monogatari (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Video System Co.</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ntopstar" index="" image="">
+		<description>Mahjong Nerae! Top Star (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1990</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nerutona" index="" image="">
+		<description>Mahjong Neruton Haikujiradan (Japan, Rev. A?)</description>
+		<cloneof>neruton</cloneof>
+		<crc></crc>
+		<manufacturer>Dynax / Yukiyoshi Tokoro</manufacturer>
+		<year>1990</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="neruton" index="" image="">
+		<description>Mahjong Neruton Haikujiradan (Japan, Rev. B?)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax / Yukiyoshi Tokoro</manufacturer>
+		<year>1990</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mahjngoh" index="" image="">
+		<description>Mahjong Oh (V2.06J)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Warashi / Mahjong Kobo / Taito</manufacturer>
+		<year>1999</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="patimono" index="" image="">
+		<description>Mahjong Pachinko Monogatari (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1992</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pstadium" index="" image="">
+		<description>Mahjong Panic Stadium (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1990</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ponchin" index="" image="">
+		<description>Mahjong Pon Chin Kan (Japan set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Visco</manufacturer>
+		<year>1991</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ponchina" index="" image="">
+		<description>Mahjong Pon Chin Kan (Japan set 2)</description>
+		<cloneof>ponchin</cloneof>
+		<crc></crc>
+		<manufacturer>Visco</manufacturer>
+		<year>1991</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjprivat" index="" image="">
+		<description>Mahjong Private (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Matoba</manufacturer>
+		<year>1991</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjnquest" index="" image="">
+		<description>Mahjong Quest (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1990</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjnquestb" index="" image="">
+		<description>Mahjong Quest (No Nudity)</description>
+		<cloneof>mjnquest</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1990</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjreach" index="" image="">
+		<description>Mahjong Reach (bootleg)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>bootleg / Dynax</manufacturer>
+		<year>1994</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjreach1" index="" image="">
+		<description>Mahjong Reach Ippatsu (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nihon System</manufacturer>
+		<year>1998</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="renaiclb" index="" image="">
+		<description>Mahjong Ren-ai Club (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Fujic</manufacturer>
+		<year>1993</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mrokumei" index="" image="">
+		<description>Mahjong Rokumeikan (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Home Data</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ryukobou" index="" image="">
+		<description>Mahjong Ryukobou (Japan, V030J)</description>
+		<cloneof>lhb</cloneof>
+		<crc></crc>
+		<manufacturer>IGS / Alta</manufacturer>
+		<year>1995</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sailorws" index="" image="">
+		<description>Mahjong Sailor Wars (Japan set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1993</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sailorwa" index="" image="">
+		<description>Mahjong Sailor Wars (Japan set 2)</description>
+		<cloneof>sailorws</cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1993</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sailorwr" index="" image="">
+		<description>Mahjong Sailor Wars-R [BET] (Japan)</description>
+		<cloneof>sailorws</cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1993</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="msjiken" index="" image="">
+		<description>Mahjong Satsujin Jiken (Japan 881017)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mscoutm" index="" image="">
+		<description>Mahjong Scout Man (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sphinx / AV Japan</manufacturer>
+		<year>1994</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sryudens" index="" image="">
+		<description>Mahjong Seiryu Densetsu (Japan, NM502)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax / Face</manufacturer>
+		<year>1996</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjsikakb" index="" image="">
+		<description>Mahjong Shikaku (Japan 880722)</description>
+		<cloneof>mjsikaku</cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjsikakd" index="" image="">
+		<description>Mahjong Shikaku (Japan 880802)</description>
+		<cloneof>mjsikaku</cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjsikakc" index="" image="">
+		<description>Mahjong Shikaku (Japan 880806)</description>
+		<cloneof>mjsikaku</cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjsikaku" index="" image="">
+		<description>Mahjong Shikaku (Japan 880908)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mmsikaku" index="" image="">
+		<description>Mahjong Shikaku [BET] (Japan 880929)</description>
+		<cloneof>mjsikaku</cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjdejavu" index="" image="">
+		<description>Mahjong Shinkirou Deja Vu (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjdejav2" index="" image="">
+		<description>Mahjong Shinkirou Deja Vu 2 (Japan)</description>
+		<cloneof>mjdejavu</cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjsister" index="" image="">
+		<description>Mahjong Sisters (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Toaplan</manufacturer>
+		<year>1986</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="majs101b" index="" image="">
+		<description>Mahjong Studio 101 [BET] (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sdmg2" index="" image="">
+		<description>Mahjong Super Da Man Guan II (China, V754C)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1997</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tenkai" index="" image="">
+		<description>Mahjong Tenkaigen</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1991</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tenkaibb" index="" image="">
+		<description>Mahjong Tenkaigen (bootleg b)</description>
+		<cloneof>tenkai</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1991</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tenkaicb" index="" image="">
+		<description>Mahjong Tenkaigen (bootleg c)</description>
+		<cloneof>tenkai</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1991</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tenkaie" index="" image="">
+		<description>Mahjong Tenkaigen (set 2)</description>
+		<cloneof>tenkai</cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1991</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjdchuka" index="" image="">
+		<description>Mahjong The Dai Chuuka Ken (China, v. D111)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1995</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mladyhtr" index="" image="">
+		<description>Mahjong The Lady Hunter (Japan 900509)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1990</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjmyornt" index="" image="">
+		<description>Mahjong The Mysterious Orient</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1994</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjmyuniv" index="" image="">
+		<description>Mahjong The Mysterious Universe</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1994</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjmyster" index="" image="">
+		<description>Mahjong The Mysterious World (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1994</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjmywrld" index="" image="">
+		<description>Mahjong The Mysterious World (set 2)</description>
+		<cloneof>mjmyster</cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1994</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="triplew1" index="" image="">
+		<description>Mahjong Triple Wars (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="triplew2" index="" image="">
+		<description>Mahjong Triple Wars 2 (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1990</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="uchuuai" index="" image="">
+		<description>Mahjong Uchuu yori Ai wo komete (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjuraden" index="" image="">
+		<description>Mahjong Uranai Densetsu (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu / Yubis</manufacturer>
+		<year>1992</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vanilla" index="" image="">
+		<description>Mahjong Vanilla Syndrome (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1991</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjvegasa" index="" image="">
+		<description>Mahjong Vegas (Japan, unprotected)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1991</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vitaminc" index="" image="">
+		<description>Mahjong Vitamin C (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Home Data</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wcatcher" index="" image="">
+		<description>Mahjong Wakuwaku Catcher (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1993</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="majxtal7" index="" image="">
+		<description>Mahjong X-Tal 7 - Crystal Mahjong / Mahjong Diamond 7 (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1990</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="yarunara" index="" image="">
+		<description>Mahjong Yarunara (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1991</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="yosimoto" index="" image="">
+		<description>Mahjong Yoshimoto Gekijou (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu / Yoshimoto Kougyou</manufacturer>
+		<year>1994</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="yosimotm" index="" image="">
+		<description>Mahjong Yoshimoto Gekijou [BET] (Japan)</description>
+		<cloneof>yosimoto</cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu / Yoshimoto Kougyou</manufacturer>
+		<year>1994</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjyuugi" index="" image="">
+		<description>Mahjong Yuugi (Japan set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Visco</manufacturer>
+		<year>1990</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjyuugia" index="" image="">
+		<description>Mahjong Yuugi (Japan set 2)</description>
+		<cloneof>mjyuugi</cloneof>
+		<crc></crc>
+		<manufacturer>Visco</manufacturer>
+		<year>1990</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjyougo" index="" image="">
+		<description>Mahjong-yougo no Kisotairyoku (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Home Data</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="korinai" index="" image="">
+		<description>Mahjong-zukino Korinai Menmen (Japan 880425)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="korinaim" index="" image="">
+		<description>Mahjong-zukino Korinai Menmen [BET] (Japan 880920)</description>
+		<cloneof>korinai</cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="makaijan" index="" image="">
+		<description>Makaijan [BET] (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1987</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mmehyou" index="" image="">
+		<description>Medal Mahjong Circuit no Mehyou [BET] (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu / Kawakusu</manufacturer>
+		<year>1992</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjgottub" index="" image="">
+		<description>Medal Mahjong Gottsu ee-kanji [BET] (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1991</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjanbari" index="" image="">
+		<description>Medal Mahjong Janjan Baribari [BET] (Japan)</description>
+		<cloneof>janbari</cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu / Yubis / AV Japan</manufacturer>
+		<year>1992</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mmmbanc" index="" image="">
+		<description>Medal Mahjong Moukari Bancho (2007/06/05 MASTER VER.)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Cave</manufacturer>
+		<year>2007</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pachiten" index="" image="">
+		<description>Medal Mahjong Pachi-Slot Tengoku [BET] (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu / AV Japan / Miki Syouji</manufacturer>
+		<year>1993</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="minasan" index="" image="">
+		<description>Minasanno Okagesamadesu! Daisugorokutaikai (MOM-001)(MOH-001)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Monolith Corp.</manufacturer>
+		<year>1990</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mirage" index="" image="">
+		<description>Mirage Youjuu Mahjongden (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Mitchell</manufacturer>
+		<year>1994</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mcontest" index="" image="">
+		<description>Miss Mahjong Contest (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="natsuiro" index="true" image="n">
+		<description>Natsuiro Mahjong (Japan)</description>
+		<cloneof>mjnatsu</cloneof>
+		<crc></crc>
+		<manufacturer>Video System Co.</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ngpgal" index="" image="">
+		<description>Nekketsu Grand-Prix Gal (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1991</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nmsengen" index="" image="">
+		<description>Nekketsu Mahjong Sengen! AFTER 5 (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Video System Co.</manufacturer>
+		<year>1991</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="janputer" index="" image="">
+		<description>New Double Bet Mahjong (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Public Software Ltd. / Mes</manufacturer>
+		<year>1981</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ngtbunny" index="" image="">
+		<description>Night Bunny (Japan 840601 MRN 2-10)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1984</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nightgal" index="" image="">
+		<description>Night Gal (Japan 840920 AG 1-00)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1984</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="peepshow" index="" image="">
+		<description>Nozokimeguri Mahjong Peep Show (Japan 890404)</description>
+		<cloneof>mjfocus</cloneof>
+		<crc></crc>
+		<manufacturer>AC</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ojankoc" index="true" image="o">
+		<description>Ojanko Club (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>V-System Co.</manufacturer>
+		<year>1986</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ojankohs" index="" image="">
+		<description>Ojanko High School (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>V-System Co.</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ojankoy" index="" image="">
+		<description>Ojanko Yakata (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>V-System Co.</manufacturer>
+		<year>1986</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ojanko2" index="" image="">
+		<description>Ojanko Yakata 2bankan (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>V-System Co.</manufacturer>
+		<year>1987</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ojousan" index="" image="">
+		<description>Ojousan (Japan 871204)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1987</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ojousanm" index="" image="">
+		<description>Ojousan [BET] (Japan 870108)</description>
+		<cloneof>ojousan</cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1987</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="openmj" index="" image="">
+		<description>Open Mahjong [BET] (Japan)</description>
+		<cloneof>royalmj</cloneof>
+		<crc></crc>
+		<manufacturer>Sapporo Mechanic</manufacturer>
+		<year>1981?</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="orangeci" index="" image="">
+		<description>Orange Club - Maru-hi Ippatsu Kaihou [BET] (Japan 880221)</description>
+		<cloneof>orangec</cloneof>
+		<crc></crc>
+		<manufacturer>Daiichi Denshi</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="orangec" index="" image="">
+		<description>Orange Club - Maruhi Kagai Jugyou (Japan 880213)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Daiichi Denshi</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="urashima" index="" image="">
+		<description>Otogizoushi Urashima Mahjong (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>UPL</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="otonano" index="" image="">
+		<description>Otona no Mahjong (Japan 880628)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Apple</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pastelg" index="true" image="p">
+		<description>Pastel Gal (Japan 851224)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1985</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kiwame" index="" image="">
+		<description>Pro Mahjong Kiwame</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Athena</manufacturer>
+		<year>1994</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kiwames" index="" image="">
+		<description>Pro Mahjong Kiwame S (J 951020 V1.208)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Athena</manufacturer>
+		<year>1995</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ptrmj" index="" image="">
+		<description>PT Reach Mahjong (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1979</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="qmhayaku" index="true" image="q">
+		<description>Quiz-Mahjong Hayaku Yatteyo! (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1991</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rmgoldyh" index="true" image="r">
+		<description>Real Mahjong Gold Yumehai / Super Real Mahjong GOLD part.2 [BET] (Japan)</description>
+		<cloneof>srmp3</cloneof>
+		<crc></crc>
+		<manufacturer>Seta (Alba license)</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rmhaihai" index="" image="">
+		<description>Real Mahjong Haihai (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Alba</manufacturer>
+		<year>1985</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rmhaijin" index="" image="">
+		<description>Real Mahjong Haihai Jinji Idou Hen (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Alba</manufacturer>
+		<year>1986</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rmhaisei" index="" image="">
+		<description>Real Mahjong Haihai Seichouhen (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Visco</manufacturer>
+		<year>1986</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rmhaihib" index="" image="">
+		<description>Real Mahjong Haihai [BET] (Japan)</description>
+		<cloneof>rmhaihai</cloneof>
+		<crc></crc>
+		<manufacturer>Alba</manufacturer>
+		<year>1985</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nekkyoku" index="" image="">
+		<description>Rettou Juudan Nekkyoku Janshi - Higashi Nippon Hen (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Video System Co.</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="royalmah" index="" image="">
+		<description>Royal Mahjong (Falcon bootleg, v1.01)</description>
+		<cloneof>royalmj</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1982</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="royalmj" index="" image="">
+		<description>Royal Mahjong (Japan, v1.13)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1981</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="royalngt" index="" image="">
+		<description>Royal Night [BET] (Japan 840220 RN 2-00)</description>
+		<cloneof>ngtbunny</cloneof>
+		<crc></crc>
+		<manufacturer>Royal Denshi</manufacturer>
+		<year>1984</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ryuuha" index="" image="">
+		<description>Ryuuha [BET] (Japan 871027)</description>
+		<cloneof>iemoto</cloneof>
+		<crc></crc>
+		<manufacturer>Central Denshi</manufacturer>
+		<year>1987</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kirarast" index="" image="">
+		<description>Ryuusei Janshi Kirara Star</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1996</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="scandal" index="true" image="s">
+		<description>Scandal Mahjong (Japan 890213)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="scandalm" index="" image="">
+		<description>Scandal Mahjong [BET] (Japan 890217)</description>
+		<cloneof>scandal</cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="secolove" index="" image="">
+		<description>Second Love (Japan 861201)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1986</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="seiha" index="" image="">
+		<description>Seiha (Japan 870725)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1987</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="seiham" index="" image="">
+		<description>Seiha [BET] (Japan 870723)</description>
+		<cloneof>seiha</cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1987</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sengokmj" index="" image="">
+		<description>Sengoku Mahjong [BET] (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sigma</manufacturer>
+		<year>1991</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sjryuko1" index="" image="">
+		<description>Sukeban Jansi Ryuko (set 1, System 16A, FD1089B 317-5021)</description>
+		<cloneof>sjryuko</cloneof>
+		<crc></crc>
+		<manufacturer>White Board</manufacturer>
+		<year>1987</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sjryuko" index="" image="">
+		<description>Sukeban Jansi Ryuko (set 2, System 16B, FD1089B 317-5021)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>White Board</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="marukin" index="" image="">
+		<description>Super Marukin-Ban (Japan 901017)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Yuga</manufacturer>
+		<year>1990</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="srmp5" index="" image="">
+		<description>Super Real Mahjong P5</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Seta</manufacturer>
+		<year>1994</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="srmp6" index="" image="">
+		<description>Super Real Mahjong P6 (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Seta</manufacturer>
+		<year>1995</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="srmp7" index="" image="">
+		<description>Super Real Mahjong P7 (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Seta</manufacturer>
+		<year>1997</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="srmp1" index="" image="">
+		<description>Super Real Mahjong Part 1 (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Seta</manufacturer>
+		<year>1987</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="srmp2" index="" image="">
+		<description>Super Real Mahjong Part 2 (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Seta</manufacturer>
+		<year>1987</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="srmp3" index="" image="">
+		<description>Super Real Mahjong Part 3 (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Seta</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="srmp4" index="" image="">
+		<description>Super Real Mahjong PIV (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Seta</manufacturer>
+		<year>1993</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="srmp4o" index="" image="">
+		<description>Super Real Mahjong PIV (Japan, older set)</description>
+		<cloneof>srmp4</cloneof>
+		<crc></crc>
+		<manufacturer>Seta</manufacturer>
+		<year>1993</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ttmahjng" index="true" image="t">
+		<description>T.T Mahjong</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1981</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hotgmck" index="" image="">
+		<description>Taisen Hot Gimmick (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Psikyo</manufacturer>
+		<year>1997</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hotgmck3" index="" image="">
+		<description>Taisen Hot Gimmick 3 Digital Surfing (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Psikyo</manufacturer>
+		<year>1999</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hotgm4ev" index="" image="">
+		<description>Taisen Hot Gimmick 4 Ever (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Psikyo</manufacturer>
+		<year>2000</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hgkairak" index="" image="">
+		<description>Taisen Hot Gimmick Kairakuten (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Psikyo</manufacturer>
+		<year>1998</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="fromanc2" index="" image="">
+		<description>Taisen Idol-Mahjong Final Romance 2 (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Video System Co.</manufacturer>
+		<year>1995</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="fromanc4" index="" image="">
+		<description>Taisen Mahjong FinalRomance 4 (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Video System Co.</manufacturer>
+		<year>1998</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="fromancr" index="" image="">
+		<description>Taisen Mahjong FinalRomance R (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Video System Co.</manufacturer>
+		<year>1995</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="taiwanmb" index="" image="">
+		<description>Taiwan Mahjong [BET] (Japan 881208)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Miki Syouji</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="teljan" index="" image="">
+		<description>Tel Jan</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Electro Design</manufacturer>
+		<year>1999</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="telmahjn" index="" image="">
+		<description>Telephone Mahjong (Japan 890111)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="themj" index="" image="">
+		<description>The Mah-jong (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Visco</manufacturer>
+		<year>1987</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tokimbsj" index="" image="">
+		<description>Tokimeki Bishoujo [BET] (Japan)</description>
+		<cloneof>tokyogal</cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tmmjprd" index="" image="">
+		<description>Tokimeki Mahjong Paradise - Dear My Love</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Media / Sonnet</manufacturer>
+		<year>1997</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tmpdoki" index="" image="">
+		<description>Tokimeki Mahjong Paradise - Doki Doki Hen</description>
+		<cloneof>tmmjprd</cloneof>
+		<crc></crc>
+		<manufacturer>Media / Sonnet</manufacturer>
+		<year>1998</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mahmajn" index="" image="">
+		<description>Tokoro San no MahMahjan (Japan, ROM Based)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mahmajn2" index="" image="">
+		<description>Tokoro San no MahMahjan 2 (Japan, ROM Based)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tokyogal" index="" image="">
+		<description>Tokyo Gal Zukan (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1989</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tontonb" index="" image="">
+		<description>Tonton [BET] (Japan set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1987</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="totmejan" index="" image="">
+		<description>Tottemo E Jong</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Seibu Kaihatsu (Tecmo license)</manufacturer>
+		<year>1991</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ultramhm" index="true" image="u">
+		<description>Ultra Maru-hi Mahjong (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Apple</manufacturer>
+		<year>1993</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="usagi" index="" image="">
+		<description>Usagi (V2.02J)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Warashi / Mahjong Kobo / Taito</manufacturer>
+		<year>2001</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vipclub" index="true" image="v">
+		<description>Vip Club - Maru-hi Ippatsu Kaihou [BET] (Japan 880310)</description>
+		<cloneof>orangec</cloneof>
+		<crc></crc>
+		<manufacturer>Daiichi Denshi</manufacturer>
+		<year>1988</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vmahjong" index="" image="">
+		<description>Virtual Mahjong (J 961214 V1.000)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Micronet</manufacturer>
+		<year>1997</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Yellow (Sexual Content Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="myfairld" index="" image="">
+		<description>Virtual Mahjong 2 - My Fair Lady (J 980608 V1.000)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Micronet</manufacturer>
+		<year>1998</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Yellow (Sexual Content Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ryouran" index="" image="">
+		<description>VS Mahjong Otome Ryouran</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Electro Design</manufacturer>
+		<year>1998</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bnstars1" index="" image="">
+		<description>Vs. Janshi Brandnew Stars</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1997</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bnstars" index="" image="">
+		<description>Vs. Janshi Brandnew Stars (MegaSystem32 Version)</description>
+		<cloneof>bnstars1</cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1997</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vsmahjng" index="" image="">
+		<description>Vs. Mahjang (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1984</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mj4simai" index="true" image="w">
+		<description>Wakakusamonogatari Mahjong Yonshimai (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Maboroshi Ware</manufacturer>
+		<year>1996</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wlcc" index="" image="">
+		<description>Wan Li Chang Cheng (China, V638C)</description>
+		<cloneof>xymg</cloneof>
+		<crc></crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1996</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="suzume" index="" image="">
+		<description>Watashiha Suzumechan (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dyna Electronics</manufacturer>
+		<year>1986</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="xymg" index="true" image="x">
+		<description>Xing Yun Man Guan (China, V651C)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1996</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="yujan" index="true" image="y">
+		<description>Yu-Jan</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Yubis / T.System</manufacturer>
+		<year>1999</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="zokumahj" index="true" image="z">
+		<description>Zoku Mahjong Housoukyoku (Japan)</description>
+		<cloneof>mhhonban</cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu?</manufacturer>
+		<year>199?</year>
+		<genre>Mahjong</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

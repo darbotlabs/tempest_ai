@@ -1,0 +1,359 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>MAME</listname>
+		<lastlistupdate>06/03/2012</lastlistupdate>
+		<listversion>.146 Ongoing</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="bowl3d" index="true" image="3">
+		<description>3-D Bowling</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Meadows Games, Inc.</manufacturer>
+		<year>1978</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="alleymas" index="true" image="a">
+		<description>Alley Master</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Cinematronics</manufacturer>
+		<year>1986</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bowlrama" index="true" image="b">
+		<description>Bowl-O-Rama</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>P&amp;P Marketing</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bowler" index="" image="">
+		<description>Bowling Alley</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1978</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="capbowl" index="true" image="c">
+		<description>Capcom Bowling (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies / Capcom</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="capbowl2" index="" image="">
+		<description>Capcom Bowling (set 2)</description>
+		<cloneof>capbowl</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies / Capcom</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="capbowl3" index="" image="">
+		<description>Capcom Bowling (set 3)</description>
+		<cloneof>capbowl</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies / Capcom</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="capbowl4" index="" image="">
+		<description>Capcom Bowling (set 4)</description>
+		<cloneof>capbowl</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies / Capcom</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="champbwl" index="" image="">
+		<description>Championship Bowling</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Seta / Romstar Inc.</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="clbowl" index="" image="">
+		<description>Coors Light Bowling</description>
+		<cloneof>capbowl</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies / Capcom</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bmcbowl" index="true" image="k">
+		<description>Konkyuu no Hoshi</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>BMC</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="krzybowl" index="" image="">
+		<description>Krazy Bowl</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>American Sammy</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lbowling" index="true" image="l">
+		<description>League Bowling (NGM-019)(NGH-019)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="medlanes" index="true" image="m">
+		<description>Meadows Lanes</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Meadows Games, Inc.</manufacturer>
+		<year>1977</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cprobowl" index="true" image="p">
+		<description>Pro Bowling (DECO Cassette)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="robotbwl" index="true" image="r">
+		<description>Robot Bowl</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Exidy</manufacturer>
+		<year>1977</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="simpbowl" index="true" image="s">
+		<description>Simpsons Bowling (GQ829 UAA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2000</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ar_bowl" index="" image="">
+		<description>SportTime Bowling (Arcadia, V 2.1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Arcadia Systems</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="stratab1" index="" image="">
+		<description>Strata Bowling (V1)</description>
+		<cloneof>stratab</cloneof>
+		<crc></crc>
+		<manufacturer>Strata/Incredible Technologies</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="stratab" index="" image="">
+		<description>Strata Bowling (V3)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Strata/Incredible Technologies</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sbowling" index="" image="">
+		<description>Strike Bowling</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1982</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sstrike" index="" image="">
+		<description>Super Strike Bowling</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Strata/Incredible Technologies</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="upyoural" index="true" image="u">
+		<description>Up Your Alley</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Cinematronics</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vbowlj" index="true" image="v">
+		<description>Virtua Bowling (Japan, V100JCM)</description>
+		<cloneof>vbowl</cloneof>
+		<crc></crc>
+		<manufacturer>IGS / Alta</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vbowl" index="" image="">
+		<description>Virtua Bowling (World, V101XCM)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wcbowl12" index="true" image="w">
+		<description>World Class Bowling (v1.2)</description>
+		<cloneof>wcbowl</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wcbowl13" index="" image="">
+		<description>World Class Bowling (v1.3)</description>
+		<cloneof>wcbowl</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wcbowl14" index="" image="">
+		<description>World Class Bowling (v1.4)</description>
+		<cloneof>wcbowl</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wcbowl15" index="" image="">
+		<description>World Class Bowling (v1.5)</description>
+		<cloneof>wcbowl</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wcbowl16" index="" image="">
+		<description>World Class Bowling (v1.6)</description>
+		<cloneof>wcbowl</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wcbowl161" index="" image="">
+		<description>World Class Bowling (v1.61)</description>
+		<cloneof>wcbowl</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wcbowl165" index="" image="">
+		<description>World Class Bowling (v1.65)</description>
+		<cloneof>wcbowl</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wcbowl" index="" image="">
+		<description>World Class Bowling (v1.66)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wcbowldx" index="" image="">
+		<description>World Class Bowling Deluxe (v2.00)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wcbowl140" index="" image="">
+		<description>World Class Bowling Tournament (v1.40)</description>
+		<cloneof>wcbowldx</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Bowling</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

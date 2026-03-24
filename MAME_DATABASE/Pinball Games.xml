@@ -1,0 +1,289 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>MAME</listname>
+		<lastlistupdate>06/03/2012</lastlistupdate>
+		<listversion>.146 Ongoing</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="aliencr" index="true" image="a">
+		<description>Alien Crush</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Hudson Soft</manufacturer>
+		<year>1989</year>
+		<genre>Pinball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="galspnbl" index="true" image="g">
+		<description>Gals Pinball</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Comad</manufacturer>
+		<year>1996</year>
+		<genre>Pinball</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gcpinbal" index="" image="">
+		<description>Grand Cross</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Excellent System</manufacturer>
+		<year>1994</year>
+		<genre>Pinball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hotpinbl" index="true" image="h">
+		<description>Hot Pinball</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Comad &amp; New Japan System</manufacturer>
+		<year>1995</year>
+		<genre>Pinball</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pkgnsh" index="true" image="p">
+		<description>Pachinko Gindama Shoubu (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nakanihon / Dynax</manufacturer>
+		<year>1998</year>
+		<genre>Pinball</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pkgnshdx" index="" image="">
+		<description>Pachinko Gindama Shoubu DX (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nakanihon / Dynax</manufacturer>
+		<year>1998</year>
+		<genre>Pinball</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sxyreact" index="" image="">
+		<description>Pachinko Sexy Reaction (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sammy</manufacturer>
+		<year>1998</year>
+		<genre>Pinball</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sxyreac2" index="" image="">
+		<description>Pachinko Sexy Reaction 2 (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sammy</manufacturer>
+		<year>1999</year>
+		<genre>Pinball</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pbaction" index="" image="">
+		<description>Pinball Action (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tehkan</manufacturer>
+		<year>1985</year>
+		<genre>Pinball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pbaction2" index="" image="">
+		<description>Pinball Action (set 2)</description>
+		<cloneof>pbaction</cloneof>
+		<crc></crc>
+		<manufacturer>Tehkan</manufacturer>
+		<year>1985</year>
+		<genre>Pinball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pbaction3" index="" image="">
+		<description>Pinball Action (set 3, encrypted)</description>
+		<cloneof>pbaction</cloneof>
+		<crc></crc>
+		<manufacturer>Tehkan</manufacturer>
+		<year>1985</year>
+		<genre>Pinball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pbaction4" index="" image="">
+		<description>Pinball Action (set 4, encrypted)</description>
+		<cloneof>pbaction</cloneof>
+		<crc></crc>
+		<manufacturer>Tehkan</manufacturer>
+		<year>1985</year>
+		<genre>Pinball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pbaction5" index="" image="">
+		<description>Pinball Action (set 5, encrypted)</description>
+		<cloneof>pbaction</cloneof>
+		<crc></crc>
+		<manufacturer>Tehkan</manufacturer>
+		<year>1985</year>
+		<genre>Pinball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pbchmp95" index="" image="">
+		<description>Pinball Champ &apos;95 (bootleg?)</description>
+		<cloneof>witch</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg? (Veltmeijer Automaten)</manufacturer>
+		<year>1995</year>
+		<genre>Pinball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pinbo" index="" image="">
+		<description>Pinbo (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1984</year>
+		<genre>Pinball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pinboa" index="" image="">
+		<description>Pinbo (set 2)</description>
+		<cloneof>pinbo</cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1984</year>
+		<genre>Pinball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pinbos" index="" image="">
+		<description>Pinbo (Strike)</description>
+		<cloneof>pinbo</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg?</manufacturer>
+		<year>1985</year>
+		<genre>Pinball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pc_pinbt" index="" image="">
+		<description>PinBot (PlayChoice-10)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Rare (Nintendo of America license)</manufacturer>
+		<year>1988</year>
+		<genre>Pinball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="speedbal" index="true" image="s">
+		<description>Speed Ball</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tecfri</manufacturer>
+		<year>1987</year>
+		<genre>Pinball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="spbactnj" index="" image="">
+		<description>Super Pinball Action (Japan)</description>
+		<cloneof>spbactn</cloneof>
+		<crc></crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1991</year>
+		<genre>Pinball</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="spbactn" index="" image="">
+		<description>Super Pinball Action (US)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1991</year>
+		<genre>Pinball</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="superwng" index="" image="">
+		<description>Super Wing</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Wing</manufacturer>
+		<year>1985</year>
+		<genre>Pinball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="timescan1" index="true" image="t">
+		<description>Time Scanner (set 1, System 16A, FD1089B 317-0024)</description>
+		<cloneof>timescan</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Pinball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="timescan" index="" image="">
+		<description>Time Scanner (set 2, System 16B)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Pinball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="videopin" index="true" image="v">
+		<description>Video Pinball</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1979</year>
+		<genre>Pinball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vspinbal" index="" image="">
+		<description>Vs. Pinball</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1984</year>
+		<genre>Pinball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vspinbalj" index="" image="">
+		<description>Vs. Pinball (Japan)</description>
+		<cloneof>vspinbal</cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1984</year>
+		<genre>Pinball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="witch" index="true" image="w">
+		<description>Witch</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega / Vic Tokai</manufacturer>
+		<year>1992</year>
+		<genre>Pinball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

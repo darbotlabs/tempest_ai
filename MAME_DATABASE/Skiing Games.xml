@@ -1,0 +1,209 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>MAME</listname>
+		<lastlistupdate>06/03/2012</lastlistupdate>
+		<listversion>.146 Ongoing</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="alpinerc" index="true" image="a">
+		<description>Alpine Racer (Rev. AR2 Ver.C)</description>
+		<cloneof>alpinerd</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Skiing</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="alpinerd" index="" image="">
+		<description>Alpine Racer (Rev. AR2 Ver.D)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Skiing</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="alpinr2a" index="" image="">
+		<description>Alpine Racer 2 (Rev. ARS2 Ver.A)</description>
+		<cloneof>alpinr2b</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Skiing</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="alpinr2b" index="" image="">
+		<description>Alpine Racer 2 (Rev. ARS2 Ver.B)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Skiing</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="alpine" index="" image="">
+		<description>Alpine Ski (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1982</year>
+		<genre>Sports/Skiing</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="alpinea" index="" image="">
+		<description>Alpine Ski (set 2)</description>
+		<cloneof>alpine</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1982</year>
+		<genre>Sports/Skiing</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cbaj" index="true" image="c">
+		<description>Cool Boarders Arcade Jam</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Skiing</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dynamski" index="true" image="d">
+		<description>Dynamic Ski</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taiyo</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Skiing</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="extdwnhl" index="true" image="e">
+		<description>Extreme Downhill (v1.5)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sammy Industries Japan</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Skiing</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="newtangl" index="true" image="n">
+		<description>New Tropical Angel</description>
+		<cloneof>troangel</cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Skiing</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pturn" index="true" image="p">
+		<description>Parallel Turn</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Skiing</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="silvland" index="true" image="s">
+		<description>Silver Land</description>
+		<cloneof>rpatrol</cloneof>
+		<crc></crc>
+		<manufacturer>Falcon</manufacturer>
+		<year>1981</year>
+		<genre>Sports/Skiing</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="skimaxx" index="" image="">
+		<description>Skimaxx</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Kyle Hodgetts / ICE</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Skiing</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sss" index="" image="">
+		<description>Steep Slope Sliders (JUET 981110 V1.000)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom / Cave / Victor</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Skiing</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="surfplnt40" index="" image="">
+		<description>Surf Planet (Version 4.0)</description>
+		<cloneof>surfplnt</cloneof>
+		<crc></crc>
+		<manufacturer>Gaelco</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Skiing</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="surfplnt" index="" image="">
+		<description>Surf Planet (Version 4.1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gaelco</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Skiing</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="troangel" index="true" image="t">
+		<description>Tropical Angel</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Skiing</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vsslalom" index="true" image="v">
+		<description>Vs. Slalom</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Rare</manufacturer>
+		<year>1986</year>
+		<genre>Sports/Skiing</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="waterski" index="true" image="w">
+		<description>Water Ski</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Skiing</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="winterht" index="" image="">
+		<description>Winter Heat (JUET 971012 V1.000)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Skiing</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

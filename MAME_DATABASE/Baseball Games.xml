@@ -1,0 +1,809 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>MAME</listname>
+		<lastlistupdate>06/03/2012</lastlistupdate>
+		<listversion>.146 Ongoing</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="2020bb" index="true" image="2">
+		<description>2020 Super Baseball (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK / Pallas</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2020bba" index="" image="">
+		<description>2020 Super Baseball (set 2)</description>
+		<cloneof>2020bb</cloneof>
+		<crc></crc>
+		<manufacturer>SNK / Pallas</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="2020bbh" index="" image="">
+		<description>2020 Super Baseball (set 3)</description>
+		<cloneof>2020bb</cloneof>
+		<crc></crc>
+		<manufacturer>SNK / Pallas</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="koshien" index="true" image="a">
+		<description>Ah Eikou no Koshien (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="abaseb" index="" image="">
+		<description>Atari Baseball (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1979</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="abaseb2" index="" image="">
+		<description>Atari Baseball (set 2)</description>
+		<cloneof>abaseb</cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1979</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pc_bball" index="true" image="b">
+		<description>Baseball (PlayChoice-10)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo of America</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bstars2" index="" image="">
+		<description>Baseball Stars 2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bstarsh" index="" image="">
+		<description>Baseball Stars Professional (NGH-002)</description>
+		<cloneof>bstars</cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bstars" index="" image="">
+		<description>Baseball Stars Professional (NGM-002)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pc_bstar" index="" image="">
+		<description>Baseball Stars: Be a Champ! (PlayChoice-10)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK (Nintendo of America license)</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="basebal2" index="" image="">
+		<description>Baseball: The Season II</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Cinematronics</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bottom9n" index="" image="">
+		<description>Bottom of the Ninth (version N)</description>
+		<cloneof>bottom9</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bottom9" index="" image="">
+		<description>Bottom of the Ninth (version T)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cbasebal" index="true" image="c">
+		<description>Capcom Baseball (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="champbas" index="" image="">
+		<description>Champion Base Ball</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Alpha Denshi Co. (Sega license)</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="champbasj" index="" image="">
+		<description>Champion Base Ball (Japan set 1)</description>
+		<cloneof>champbas</cloneof>
+		<crc></crc>
+		<manufacturer>Alpha Denshi Co.</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="champbasja" index="" image="">
+		<description>Champion Base Ball (Japan set 2)</description>
+		<cloneof>champbas</cloneof>
+		<crc></crc>
+		<manufacturer>Alpha Denshi Co.</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="champbb2" index="" image="">
+		<description>Champion Base Ball Part-2: Pair Play (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Alpha Denshi Co. (Sega license)</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="chkun" index="" image="">
+		<description>Chance Kun (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>unknown</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cltchitrj" index="" image="">
+		<description>Clutch Hitter (Japan, FD1094 317-0175)</description>
+		<cloneof>cltchitr</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cltchitr" index="" image="">
+		<description>Clutch Hitter (US, FD1094 317-0176)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="curvebal" index="" image="">
+		<description>Curve Ball</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Mylstar</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dokaben" index="true" image="d">
+		<description>Dokaben (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dplay" index="" image="">
+		<description>Double Play</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1977</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dleague" index="" image="">
+		<description>Dynamite League (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="exctleag" index="true" image="e">
+		<description>Excite League (FD1094 317-0079)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ebases" index="" image="">
+		<description>Extra Bases</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1980</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="einning" index="" image="">
+		<description>Extra Inning</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1978</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="flyball1" index="true" image="f">
+		<description>Flyball (rev 1)</description>
+		<cloneof>flyball</cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1976</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="flyball" index="" image="">
+		<description>Flyball (rev 2)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1976</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gslgr94u" index="true" image="g">
+		<description>Great Sluggers &apos;94</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gslgr94j" index="" image="">
+		<description>Great Sluggers &apos;94 (Japan)</description>
+		<cloneof>gslgr94u</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gslugrsj" index="" image="">
+		<description>Great Sluggers (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jitsupro" index="true" image="j">
+		<description>Jitsuryoku!! Pro Yakyuu (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ksayakyu" index="true" image="k">
+		<description>Kusayakyuu</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kyukaidk" index="" image="">
+		<description>Kyuukai Douchuuki (Japan new version)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kyukaidko" index="" image="">
+		<description>Kyuukai Douchuuki (Japan old version)</description>
+		<cloneof>kyukaidk</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mstadium" index="true" image="m">
+		<description>Main Stadium (Japan)</description>
+		<cloneof>bottom9</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mjleague" index="" image="">
+		<description>Major League</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="homerun" index="" image="">
+		<description>Moero Pro Yakyuu Homerun</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="semibase" index="" image="">
+		<description>MuHanSeungBu (SemiCom Baseball) (Korea)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SemiCom</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mvpj" index="" image="">
+		<description>MVP (set 1, Japan, FD1094 317-0142)</description>
+		<cloneof>mvp</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mvp" index="" image="">
+		<description>MVP (set 2, US, FD1094 317-0143)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pbball96" index="true" image="p">
+		<description>Powerful Baseball &apos;96 (GV017 Japan 1.03)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pbballex" index="" image="">
+		<description>Powerful Pro Baseball EX (GX802 VER. JAB)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tryout" index="" image="">
+		<description>Pro Baseball Skill Tryout (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="relief" index="true" image="r">
+		<description>Relief Pitcher (set 1, 07 Jun 1992 / 28 May 1992)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="relief2" index="" image="">
+		<description>Relief Pitcher (set 2, 26 Apr 1992 / 08 Apr 1992)</description>
+		<cloneof>relief</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="relief3" index="" image="">
+		<description>Relief Pitcher (set 3, 10 Apr 1992 / 08 Apr 1992)</description>
+		<cloneof>relief</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="stadhero" index="true" image="s">
+		<description>Stadium Hero (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="strkzone" index="" image="">
+		<description>Strike Zone Baseball</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Leland Corp.</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dblplay" index="" image="">
+		<description>Super Baseball Double Play Home Run Derby</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Leland Corp. / Tradewest</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sbasebal" index="" image="">
+		<description>Super Champion Baseball (US)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Alpha Denshi Co. (SNK of America license)</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="suprleag" index="" image="">
+		<description>Super League (FD1094 317-0045)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sws92" index="" image="">
+		<description>Super World Stadium &apos;92 (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sws92g" index="" image="">
+		<description>Super World Stadium &apos;92 Gekitouban (Japan)</description>
+		<cloneof>sws92</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sws93" index="" image="">
+		<description>Super World Stadium &apos;93 (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sws95" index="" image="">
+		<description>Super World Stadium &apos;95 (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sws96" index="" image="">
+		<description>Super World Stadium &apos;96 (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sws97" index="" image="">
+		<description>Super World Stadium &apos;97 (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sws98" index="" image="">
+		<description>Super World Stadium &apos;98 (Japan, SS81/VER.A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sws99" index="" image="">
+		<description>Super World Stadium &apos;99 (Japan, SS91/VER.A3)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sws" index="" image="">
+		<description>Super World Stadium (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kouyakyu" index="true" image="t">
+		<description>The Koukouyakyuh</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Alpha Denshi Co.</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mt_tlbba" index="" image="">
+		<description>Tommy Lasorda Baseball (Mega-Tech)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tornbase" index="" image="">
+		<description>Tornado Baseball / Ball Park</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway / Taito</manufacturer>
+		<year>1976</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="victnine" index="true" image="v">
+		<description>Victorious Nine</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rbibb" index="" image="">
+		<description>Vs. Atari R.B.I. Baseball (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1986</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rbibba" index="" image="">
+		<description>Vs. Atari R.B.I. Baseball (set 2)</description>
+		<cloneof>rbibb</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1986</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vsbball" index="" image="">
+		<description>Vs. BaseBall</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo of America</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vsbballj" index="" image="">
+		<description>Vs. BaseBall (Japan set 1)</description>
+		<cloneof>vsbball</cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vsbballja" index="" image="">
+		<description>Vs. BaseBall (Japan set 2)</description>
+		<cloneof>vsbball</cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vsbballjb" index="" image="">
+		<description>Vs. BaseBall (Japan set 3)</description>
+		<cloneof>vsbball</cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wondl96" index="true" image="w">
+		<description>Wonder League &apos;96 (Korea)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SemiCom</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wlstar" index="" image="">
+		<description>Wonder League Star - Sok-Magicball Fighting (Korea)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Mijin</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wseries" index="" image="">
+		<description>World Series: The Season</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Cinematronics</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ws89" index="" image="">
+		<description>World Stadium &apos;89 (Japan)</description>
+		<cloneof>ws</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ws90" index="" image="">
+		<description>World Stadium &apos;90 (Japan)</description>
+		<cloneof>ws</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ws" index="" image="">
+		<description>World Stadium (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Baseball</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

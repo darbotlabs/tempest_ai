@@ -1,0 +1,319 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>MAME</listname>
+		<lastlistupdate>06/03/2012</lastlistupdate>
+		<listversion>.146 Ongoing</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="aliensa" index="true" image="a">
+		<description>Aliens (Asia)</description>
+		<cloneof>aliens</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="aliensj" index="" image="">
+		<description>Aliens (Japan set 1)</description>
+		<cloneof>aliens</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="aliensj2" index="" image="">
+		<description>Aliens (Japan set 2)</description>
+		<cloneof>aliens</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="aliensu" index="" image="">
+		<description>Aliens (US)</description>
+		<cloneof>aliens</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="aliens" index="" image="">
+		<description>Aliens (World set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="aliens2" index="" image="">
+		<description>Aliens (World set 2)</description>
+		<cloneof>aliens</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="aliens3" index="" image="">
+		<description>Aliens (World set 3)</description>
+		<cloneof>aliens</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bayroute1" index="true" image="b">
+		<description>Bay Route (set 1, US, unprotected)</description>
+		<cloneof>bayroute</cloneof>
+		<crc></crc>
+		<manufacturer>Sunsoft / Sega</manufacturer>
+		<year>1989</year>
+		<genre>Action</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bayroutej" index="" image="">
+		<description>Bay Route (set 2, Japan, FD1094 317-0115)</description>
+		<cloneof>bayroute</cloneof>
+		<crc></crc>
+		<manufacturer>Sunsoft / Sega</manufacturer>
+		<year>1989</year>
+		<genre>Action</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bayroute" index="" image="">
+		<description>Bay Route (set 3, World, FD1094 317-0116)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sunsoft / Sega</manufacturer>
+		<year>1989</year>
+		<genre>Action</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="birdiy" index="" image="">
+		<description>Birdiy</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Mama Top</manufacturer>
+		<year>1983</year>
+		<genre>Action</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cheekyms" index="true" image="c">
+		<description>Cheeky Mouse</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Universal</manufacturer>
+		<year>1980</year>
+		<genre>Action</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crsword" index="" image="">
+		<description>Crossed Swords (ALM-002)(ALH-002)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Alpha Denshi Co.</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cyclwarr" index="" image="">
+		<description>Cycle Warriors</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tatsumi</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="digdug2" index="true" image="d">
+		<description>Dig Dug II (New Ver.)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1985</year>
+		<genre>Action</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="digdug2o" index="" image="">
+		<description>Dig Dug II (Old Ver.)</description>
+		<cloneof>digdug2</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1985</year>
+		<genre>Action</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="foodfc" index="true" image="f">
+		<description>Food Fight (cocktail)</description>
+		<cloneof>foodf</cloneof>
+		<crc></crc>
+		<manufacturer>General Computer Corporation (Atari license)</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="foodf2" index="" image="">
+		<description>Food Fight (rev 2)</description>
+		<cloneof>foodf</cloneof>
+		<crc></crc>
+		<manufacturer>General Computer Corporation (Atari license)</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="foodf" index="" image="">
+		<description>Food Fight (rev 3)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>General Computer Corporation (Atari license)</manufacturer>
+		<year>1982</year>
+		<genre>Action</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="metlclsh" index="true" image="m">
+		<description>Metal Clash (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1985</year>
+		<genre>Action</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rampage2" index="true" image="r">
+		<description>Rampage (ver 2 8-4-86)</description>
+		<cloneof>rampage</cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1986</year>
+		<genre>Action</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rampage" index="" image="">
+		<description>Rampage (ver 3 8-27-86)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1986</year>
+		<genre>Action</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rmpgwt11" index="" image="">
+		<description>Rampage: World Tour (rev 1.1)</description>
+		<cloneof>rmpgwt</cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1997</year>
+		<genre>Action</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rmpgwt" index="" image="">
+		<description>Rampage: World Tour (rev 1.3)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1997</year>
+		<genre>Action</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="snakepit" index="true" image="s">
+		<description>Snake Pit</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally/Sente</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="funkyfig" index="true" image="t">
+		<description>The First Funky Fighter</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nakanihon / East Technology (Taito license)</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="roldfrog" index="" image="">
+		<description>The Return of Lady Frog (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Microhard</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="roldfroga" index="" image="">
+		<description>The Return of Lady Frog (set 2)</description>
+		<cloneof>roldfrog</cloneof>
+		<crc></crc>
+		<manufacturer>Microhard</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="superspy" index="" image="">
+		<description>The Super Spy (NGM-011)(NGH-011)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1990</year>
+		<genre>Action</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="3stooges" index="" image="">
+		<description>The Three Stooges In Brides Is Brides</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Mylstar</manufacturer>
+		<year>1984</year>
+		<genre>Action</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="warrior" index="true" image="w">
+		<description>Warrior</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Vectorbeam</manufacturer>
+		<year>1979</year>
+		<genre>Action</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

@@ -1,0 +1,339 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>MAME</listname>
+		<lastlistupdate>06/03/2012</lastlistupdate>
+		<listversion>.146 Ongoing</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="nss_aten" index="true" image="d">
+		<description>David Crane&apos;s Amazing Tennis (Nintendo Super System)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Absolute Entertainment Inc.</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Tennis</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="40love" index="true" image="f">
+		<description>Forty-Love</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Tennis</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gghost" index="true" image="g">
+		<description>Goalie Ghost</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally/Sente</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Tennis</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mp_gslam" index="" image="">
+		<description>Grand Slam (Mega Play)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Tennis</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hstennis10" index="true" image="h">
+		<description>Hot Shots Tennis (V1.0)</description>
+		<cloneof>hstennis</cloneof>
+		<crc></crc>
+		<manufacturer>Strata/Incredible Technologies</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Tennis</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hstennis" index="" image="">
+		<description>Hot Shots Tennis (V1.1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Strata/Incredible Technologies</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Tennis</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pingpong" index="true" image="k">
+		<description>Konami&apos;s Ping-Pong</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Tennis</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="otwalls" index="true" image="o">
+		<description>Off the Wall (Sente)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally/Sente</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Tennis</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="passshtj" index="true" image="p">
+		<description>Passing Shot (Japan, 4 Players, FD1094 317-0070)</description>
+		<cloneof>passsht</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Tennis</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="passsht16a" index="" image="">
+		<description>Passing Shot (Japan, 4 Players, System 16A, FD1094 317-0071)</description>
+		<cloneof>passsht</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Tennis</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="passsht" index="" image="">
+		<description>Passing Shot (World, 2 Players, FD1094 317-0080)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Tennis</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="passshta" index="" image="">
+		<description>Passing Shot (World, 4 Players, FD1094 317-0074)</description>
+		<cloneof>passsht</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Tennis</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ppmast93" index="" image="">
+		<description>Ping Pong Masters &apos;93</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Electronic Devices S.R.L.</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Tennis</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cptennis" index="" image="">
+		<description>Pro Tennis (DECO Cassette)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1982</year>
+		<genre>Sports/Tennis</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rltennis" index="true" image="r">
+		<description>Reality Tennis</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>TCH</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Tennis</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="speedspn" index="true" image="s">
+		<description>Speed Spin</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>TCH</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Tennis</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="squaitsa" index="" image="">
+		<description>Squash (Itisa)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Itisa</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Tennis</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="squash" index="" image="">
+		<description>Squash (Ver. 1.0)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gaelco</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Tennis</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sdtennis" index="" image="">
+		<description>Super Doubles Tennis</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Tennis</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="csdtenis" index="" image="">
+		<description>Super Doubles Tennis (DECO Cassette, Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Tennis</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sslam" index="" image="">
+		<description>Super Slam (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Playmark</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Tennis</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sslama" index="" image="">
+		<description>Super Slam (set 2)</description>
+		<cloneof>sslam</cloneof>
+		<crc></crc>
+		<manufacturer>Playmark</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Tennis</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nss_sten" index="" image="">
+		<description>Super Tennis (Nintendo Super System)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Tennis</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="swcourtj" index="" image="">
+		<description>Super World Court (Japan)</description>
+		<cloneof>swcourt</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Tennis</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="swcourt" index="" image="">
+		<description>Super World Court (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Tennis</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="protennb" index="true" image="t">
+		<description>Tennis (bootleg of Pro Tennis)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1982</year>
+		<genre>Sports/Tennis</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pc_tenis" index="" image="">
+		<description>Tennis (PlayChoice-10)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Tennis</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ultennis" index="true" image="u">
+		<description>Ultimate Tennis</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Art &amp; Magic</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Tennis</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ultennisj" index="" image="">
+		<description>Ultimate Tennis (v 1.4, Japan)</description>
+		<cloneof>ultennis</cloneof>
+		<crc></crc>
+		<manufacturer>Art &amp; Magic (Banpresto license)</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Tennis</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vstennis" index="true" image="v">
+		<description>Vs. Tennis</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Tennis</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vstennisj" index="" image="">
+		<description>Vs. Tennis (Japan)</description>
+		<cloneof>vstennis</cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Tennis</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wldcourt" index="true" image="w">
+		<description>World Court (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Tennis</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wtennis" index="" image="">
+		<description>World Tennis</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1982</year>
+		<genre>Sports/Tennis</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

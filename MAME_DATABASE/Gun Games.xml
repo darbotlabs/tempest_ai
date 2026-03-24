@@ -1,0 +1,1519 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>MAME</listname>
+		<lastlistupdate>06/03/2012</lastlistupdate>
+		<listversion>.146 Ongoing</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="alien3u" index="true" image="a">
+		<description>Alien3: The Gun (US)</description>
+		<cloneof>alien3</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="alien3" index="" image="">
+		<description>Alien3: The Gun (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="area51a" index="" image="">
+		<description>Area 51 (Atari Games license)</description>
+		<cloneof>area51</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1995</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="area51" index="" image="">
+		<description>Area 51 (R3000)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1996</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="area51t" index="" image="">
+		<description>Area 51 (Time Warner license)</description>
+		<cloneof>area51</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games (Time Warner license)</manufacturer>
+		<year>1995</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="a51mxr3k" index="" image="">
+		<description>Area 51 / Maximum Force Duo (R3000)</description>
+		<cloneof>area51mx</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1998</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="area51mx" index="" image="">
+		<description>Area 51 / Maximum Force Duo v2.0</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1998</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bang" index="true" image="b">
+		<description>Bang!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gaelco</manufacturer>
+		<year>1998</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bbustersu" index="" image="">
+		<description>Beast Busters (US, Version 2)</description>
+		<cloneof>bbusters</cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1989</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bbusters" index="" image="">
+		<description>Beast Busters (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1989</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="borntofi" index="" image="">
+		<description>Born To Fight</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>International Games</manufacturer>
+		<year>19??</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bronx" index="" image="">
+		<description>Bronx</description>
+		<cloneof>cyclshtg</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1986</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bubbletr" index="" image="">
+		<description>Bubble Trouble (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1992</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="carnevil1" index="true" image="c">
+		<description>CarnEvil (v1.0.1)</description>
+		<cloneof>carnevil</cloneof>
+		<crc></crc>
+		<manufacturer>Midway Games</manufacturer>
+		<year>1998</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="carnevil" index="" image="">
+		<description>CarnEvil (v1.0.3)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway Games</manufacturer>
+		<year>1998</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="catch22" index="" image="">
+		<description>Catch-22 (version 8.0)</description>
+		<cloneof>combat</cloneof>
+		<crc></crc>
+		<manufacturer>Exidy</manufacturer>
+		<year>1985</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cheyenne" index="" image="">
+		<description>Cheyenne (version 1.0)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Exidy</manufacturer>
+		<year>1984</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="chiller" index="" image="">
+		<description>Chiller (version 3.0)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Exidy</manufacturer>
+		<year>1986</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="claypign" index="" image="">
+		<description>Clay Pigeon (version 2.0)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Exidy</manufacturer>
+		<year>1986</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="colt" index="" image="">
+		<description>Colt</description>
+		<cloneof>nycaptor</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1986</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="combat" index="" image="">
+		<description>Combat (version 3.0)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Exidy</manufacturer>
+		<year>1985</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cracksht" index="" image="">
+		<description>Crackshot (version 2.0)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Exidy</manufacturer>
+		<year>1985</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crossbow" index="" image="">
+		<description>Crossbow (version 2.0)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Exidy</manufacturer>
+		<year>1983</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cryptklr" index="" image="">
+		<description>Crypt Killer (GQ420 UAA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1995</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="deerhuntd" index="true" image="d">
+		<description>Deer Hunting USA V2</description>
+		<cloneof>deerhunt</cloneof>
+		<crc></crc>
+		<manufacturer>Sammy USA Corporation</manufacturer>
+		<year>2000</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="deerhuntc" index="" image="">
+		<description>Deer Hunting USA V3</description>
+		<cloneof>deerhunt</cloneof>
+		<crc></crc>
+		<manufacturer>Sammy USA Corporation</manufacturer>
+		<year>2000</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="deerhuntb" index="" image="">
+		<description>Deer Hunting USA V4.0</description>
+		<cloneof>deerhunt</cloneof>
+		<crc></crc>
+		<manufacturer>Sammy USA Corporation</manufacturer>
+		<year>2000</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="deerhunta" index="" image="">
+		<description>Deer Hunting USA V4.2</description>
+		<cloneof>deerhunt</cloneof>
+		<crc></crc>
+		<manufacturer>Sammy USA Corporation</manufacturer>
+		<year>2000</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="deerhunt" index="" image="">
+		<description>Deer Hunting USA V4.3</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sammy USA Corporation</manufacturer>
+		<year>2000</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="desertgu" index="" image="">
+		<description>Desert Gun</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1977</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dragngun" index="" image="">
+		<description>Dragon Gun (US)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1993</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pc_duckh" index="" image="">
+		<description>Duck Hunt (PlayChoice-10)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1984</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="eggventra" index="true" image="e">
+		<description>Egg Venture (A.L. Release)</description>
+		<cloneof>eggventr</cloneof>
+		<crc></crc>
+		<manufacturer>The Game Room (Allied Leisure license)</manufacturer>
+		<year>1997</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="eggventr" index="" image="">
+		<description>Egg Venture (Release 10)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>The Game Room</manufacturer>
+		<year>1997</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="eggventr7" index="" image="">
+		<description>Egg Venture (Release 7)</description>
+		<cloneof>eggventr</cloneof>
+		<crc></crc>
+		<manufacturer>The Game Room</manufacturer>
+		<year>1997</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="eggventr8" index="" image="">
+		<description>Egg Venture (Release 8)</description>
+		<cloneof>eggventr</cloneof>
+		<crc></crc>
+		<manufacturer>The Game Room</manufacturer>
+		<year>1997</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="eggventrd" index="" image="">
+		<description>Egg Venture Deluxe</description>
+		<cloneof>eggventr</cloneof>
+		<crc></crc>
+		<manufacturer>The Game Room</manufacturer>
+		<year>1997</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ghoshunt" index="true" image="g">
+		<description>Ghost Hunter</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Hanaho Games</manufacturer>
+		<year>1996</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ghlpanic" index="" image="">
+		<description>Ghoul Panic (Asia, OB2/VER.A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Eighting / Raizing / Namco</manufacturer>
+		<year>1999</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gollygho" index="" image="">
+		<description>Golly! Ghost!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1990</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gunbuletj" index="" image="">
+		<description>Gun Bullet (Japan, GN1)</description>
+		<cloneof>ptblank</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1994</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gunbuletw" index="" image="">
+		<description>Gun Bullet (World, GN3 Rev B)</description>
+		<cloneof>ptblank</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1994</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bangj" index="" image="">
+		<description>Gun Gabacho (Japan)</description>
+		<cloneof>bang</cloneof>
+		<crc></crc>
+		<manufacturer>Gaelco</manufacturer>
+		<year>1998</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gunbarl" index="" image="">
+		<description>Gunbarl (Japan, GNB4/VER.A)</description>
+		<cloneof>ptblank2</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1999</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gunbustrj" index="" image="">
+		<description>Gunbuster (Japan)</description>
+		<cloneof>gunbustr</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1992</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gunbustru" index="" image="">
+		<description>Gunbuster (US)</description>
+		<cloneof>gunbustr</cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1992</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gunbustr" index="" image="">
+		<description>Gunbuster (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1992</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hitnmiss2" index="true" image="h">
+		<description>Hit &apos;n Miss (version 2.0)</description>
+		<cloneof>hitnmiss</cloneof>
+		<crc></crc>
+		<manufacturer>Exidy</manufacturer>
+		<year>1987</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hitnmiss" index="" image="">
+		<description>Hit &apos;n Miss (version 3.0)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Exidy</manufacturer>
+		<year>1987</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pc_hgaly" index="" image="">
+		<description>Hogan&apos;s Alley (PlayChoice-10)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1984</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="invasnv4" index="true" image="i">
+		<description>Invasion - The Abductors (version 4.0)</description>
+		<cloneof>invasnab</cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1999</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="invasnab" index="" image="">
+		<description>Invasion - The Abductors (version 5.0)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1999</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jdreddb" index="true" image="j">
+		<description>Judge Dredd (Rev B Nov. 26 1997)</description>
+		<cloneof>jdredd</cloneof>
+		<crc></crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1996</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jdredd" index="" image="">
+		<description>Judge Dredd (Rev C Dec. 17 1997)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1996</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jpark" index="" image="">
+		<description>Jurassic Park</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lghostu" index="true" image="l">
+		<description>Laser Ghost (US, 317-0165)</description>
+		<cloneof>lghost</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lghost" index="" image="">
+		<description>Laser Ghost (World, 317-0166)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lethaleneab" index="" image="">
+		<description>Lethal Enforcers (ver EAB, 10/14/92 19:53)</description>
+		<cloneof>lethalen</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lethaleneae" index="" image="">
+		<description>Lethal Enforcers (ver EAE, 11/19/92 16:24)</description>
+		<cloneof>lethalen</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lethalenj" index="" image="">
+		<description>Lethal Enforcers (ver JAD, 12/04/92 17:16)</description>
+		<cloneof>lethalen</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lethalen" index="" image="">
+		<description>Lethal Enforcers (ver UAE, 11/19/92 15:04)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lethalenux" index="" image="">
+		<description>Lethal Enforcers (ver unknown, US, 08/06/92 15:11, hacked/proto?)</description>
+		<cloneof>lethalen</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lethalenua" index="" image="">
+		<description>Lethal Enforcers (ver unknown, US, 08/17/92 21:38)</description>
+		<cloneof>lethalen</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="le2" index="" image="">
+		<description>Lethal Enforcers II: Gun Fighters (ver EAA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1994</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="le2u" index="" image="">
+		<description>Lethal Enforcers II: Gun Fighters (ver UAA)</description>
+		<cloneof>le2</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1994</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="le2j" index="" image="">
+		<description>Lethal Enforcers II: The Western (ver JAA)</description>
+		<cloneof>le2</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1994</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lethalj" index="" image="">
+		<description>Lethal Justice</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>The Game Room</manufacturer>
+		<year>1996</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="loffirej" index="" image="">
+		<description>Line of Fire / Bakudan Yarou (Japan, FD1094 317-0134)</description>
+		<cloneof>loffire</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="loffireu" index="" image="">
+		<description>Line of Fire / Bakudan Yarou (US, FD1094 317-0135)</description>
+		<cloneof>loffire</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="loffire" index="" image="">
+		<description>Line of Fire / Bakudan Yarou (World, FD1094 317-0136)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lordgun" index="" image="">
+		<description>Lord of Gun (USA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1994</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="maletmad" index="true" image="m">
+		<description>Mallet Madness v2.1</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Hanaho Games</manufacturer>
+		<year>1999</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="maxf_ng" index="" image="">
+		<description>Maximum Force (No Gore version)</description>
+		<cloneof>maxforce</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1996</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="maxf_102" index="" image="">
+		<description>Maximum Force v1.02</description>
+		<cloneof>maxforce</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1996</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="maxforce" index="" image="">
+		<description>Maximum Force v1.05</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1996</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mechattu" index="" image="">
+		<description>Mechanized Attack (US)</description>
+		<cloneof>mechatt</cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1989</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mechatt" index="" image="">
+		<description>Mechanized Attack (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1989</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gdfs" index="" image="">
+		<description>Mobil Suit Gundam Final Shooting (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Banpresto</manufacturer>
+		<year>1995</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nycaptor" index="true" image="n">
+		<description>N.Y. Captor</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1985</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="oneshot" index="true" image="o">
+		<description>One Shot One Kill</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Promat</manufacturer>
+		<year>1996</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="opwolfb" index="" image="">
+		<description>Operation Bear (bootleg of Operation Wolf)</description>
+		<cloneof>opwolf</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (Bear Corporation Korea)</manufacturer>
+		<year>1987</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="othunderj" index="" image="">
+		<description>Operation Thunderbolt (Japan)</description>
+		<cloneof>othunder</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1988</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="othunderu" index="" image="">
+		<description>Operation Thunderbolt (US)</description>
+		<cloneof>othunder</cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1988</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="othunderuo" index="" image="">
+		<description>Operation Thunderbolt (US, older)</description>
+		<cloneof>othunder</cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1988</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="othunder" index="" image="">
+		<description>Operation Thunderbolt (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1988</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="opwolfj" index="" image="">
+		<description>Operation Wolf (Japan)</description>
+		<cloneof>opwolf</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1987</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="opwolfu" index="" image="">
+		<description>Operation Wolf (US)</description>
+		<cloneof>opwolf</cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1987</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="opwolf" index="" image="">
+		<description>Operation Wolf (World, set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1987</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="opwolfa" index="" image="">
+		<description>Operation Wolf (World, set 2)</description>
+		<cloneof>opwolf</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1987</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="opwolf3u" index="" image="">
+		<description>Operation Wolf 3 (US)</description>
+		<cloneof>opwolf3</cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1994</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="opwolf3" index="" image="">
+		<description>Operation Wolf 3 (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1994</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ptblank" index="true" image="p">
+		<description>Point Blank (World, GN2 Rev B)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1994</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ptblank2" index="" image="">
+		<description>Point Blank 2 (GNB5/VER.A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1999</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ptblank2ua" index="" image="">
+		<description>Point Blank 2 (US, GNB3/VER.A)</description>
+		<cloneof>ptblank2</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1999</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="policetr10" index="" image="">
+		<description>Police Trainer (Rev 1.0)</description>
+		<cloneof>policetr</cloneof>
+		<crc></crc>
+		<manufacturer>P&amp;P Marketing</manufacturer>
+		<year>1996</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="policetr11" index="" image="">
+		<description>Police Trainer (Rev 1.1)</description>
+		<cloneof>policetr</cloneof>
+		<crc></crc>
+		<manufacturer>P&amp;P Marketing</manufacturer>
+		<year>1996</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="policetr" index="" image="">
+		<description>Police Trainer (Rev 1.3)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>P&amp;P Marketing</manufacturer>
+		<year>1996</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="policetr13a" index="" image="">
+		<description>Police Trainer (Rev 1.3B Newer)</description>
+		<cloneof>policetr</cloneof>
+		<crc></crc>
+		<manufacturer>P&amp;P Marketing</manufacturer>
+		<year>1996</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="policetr13b" index="" image="">
+		<description>Police Trainer (Rev 1.3B)</description>
+		<cloneof>policetr</cloneof>
+		<crc></crc>
+		<manufacturer>P&amp;P Marketing</manufacturer>
+		<year>1996</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rchasej" index="true" image="r">
+		<description>Rail Chase (Japan)</description>
+		<cloneof>rchase</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rchase" index="" image="">
+		<description>Rail Chase (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rapidfire" index="" image="">
+		<description>Rapid Fire v1.0 (Build 236)</description>
+		<cloneof>rapidfir</cloneof>
+		<crc></crc>
+		<manufacturer>Hanaho Games</manufacturer>
+		<year>1998</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rapidfira" index="" image="">
+		<description>Rapid Fire v1.1 (Build 238)</description>
+		<cloneof>rapidfir</cloneof>
+		<crc></crc>
+		<manufacturer>Hanaho Games</manufacturer>
+		<year>1998</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rapidfir" index="" image="">
+		<description>Rapid Fire v1.1 (Build 239)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Hanaho Games</manufacturer>
+		<year>1998</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="revx" index="" image="">
+		<description>Revolution X (Rev. 1.0 6/16/94)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1994</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="roadrunm" index="" image="">
+		<description>Road Runner (Midway)</description>
+		<cloneof>desertgu</cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1977</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sshooter11" index="true" image="s">
+		<description>Sharpshooter (Rev 1.1)</description>
+		<cloneof>sshooter</cloneof>
+		<crc></crc>
+		<manufacturer>P&amp;P Marketing</manufacturer>
+		<year>1998</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sshooter12" index="" image="">
+		<description>Sharpshooter (Rev 1.2)</description>
+		<cloneof>sshooter</cloneof>
+		<crc></crc>
+		<manufacturer>P&amp;P Marketing</manufacturer>
+		<year>1998</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sshooter17" index="" image="">
+		<description>Sharpshooter (Rev 1.7)</description>
+		<cloneof>sshooter</cloneof>
+		<crc></crc>
+		<manufacturer>P&amp;P Marketing</manufacturer>
+		<year>1998</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sshooter" index="" image="">
+		<description>Sharpshooter (Rev 1.9)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>P&amp;P Marketing</manufacturer>
+		<year>1998</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="shootgal" index="" image="">
+		<description>Shooting Gallery</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Seatongrove Ltd (Zaccaria license)</manufacturer>
+		<year>1984</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="shtngmste" index="" image="">
+		<description>Shooting Master (EVG, 8751 315-5159a)</description>
+		<cloneof>shtngmst</cloneof>
+		<crc></crc>
+		<manufacturer>Sega / EVG</manufacturer>
+		<year>1985</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="spacegunj" index="" image="">
+		<description>Space Gun (Japan)</description>
+		<cloneof>spacegun</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1990</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="spacegunu" index="" image="">
+		<description>Space Gun (US)</description>
+		<cloneof>spacegun</cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1990</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="spacegun" index="" image="">
+		<description>Space Gun (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1990</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sgunner" index="" image="">
+		<description>Steel Gunner</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1990</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sgunnerj" index="" image="">
+		<description>Steel Gunner (Japan)</description>
+		<cloneof>sgunner</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1990</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sgunner2j" index="" image="">
+		<description>Steel Gunner 2 (Japan)</description>
+		<cloneof>sgunner2</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1991</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sgunner2" index="" image="">
+		<description>Steel Gunner 2 (US)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1991</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Animated Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sshot" index="" image="">
+		<description>Super Shot</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Model Racing</manufacturer>
+		<year>1979</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="targetha" index="true" image="t">
+		<description>Target Hits (ver 1.0)</description>
+		<cloneof>targeth</cloneof>
+		<crc></crc>
+		<manufacturer>Gaelco</manufacturer>
+		<year>1994</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="targeth" index="" image="">
+		<description>Target Hits (ver 1.1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gaelco</manufacturer>
+		<year>1994</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="term2la1" index="" image="">
+		<description>Terminator 2 - Judgment Day (rev LA1 11/01/91)</description>
+		<cloneof>term2</cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1991</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="term2la2" index="" image="">
+		<description>Terminator 2 - Judgment Day (rev LA2 12/09/91)</description>
+		<cloneof>term2</cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1991</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="term2la3" index="" image="">
+		<description>Terminator 2 - Judgment Day (rev LA3 03/27/92)</description>
+		<cloneof>term2</cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1991</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="term2" index="" image="">
+		<description>Terminator 2 - Judgment Day (rev LA4 08/03/92)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1991</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tickee" index="" image="">
+		<description>Tickee Tickats</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Raster Elite</manufacturer>
+		<year>1994</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="timecrisa" index="" image="">
+		<description>Time Crisis (Rev. TS2 Ver.A)</description>
+		<cloneof>timecris</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1995</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="timecris" index="" image="">
+		<description>Time Crisis (Rev. TS2 Ver.B)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1995</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="triplhnt" index="" image="">
+		<description>Triple Hunt</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1977</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trophyh" index="" image="">
+		<description>Trophy Hunting - Bear &amp; Moose V1.0</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sammy USA Corporation</manufacturer>
+		<year>2002</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="turkhunt" index="" image="">
+		<description>Turkey Hunting USA V1.0</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sammy USA Corporation</manufacturer>
+		<year>2001</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tshoot" index="" image="">
+		<description>Turkey Shoot</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1984</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tutstomb" index="" image="">
+		<description>Tut&apos;s Tomb</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Island Design</manufacturer>
+		<year>1996</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="twinadvk" index="" image="">
+		<description>Twin Adventure (Korea)</description>
+		<cloneof>twinadv</cloneof>
+		<crc></crc>
+		<manufacturer>Barko Corp.</manufacturer>
+		<year>1995</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="twinadv" index="" image="">
+		<description>Twin Adventure (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Barko Corp.</manufacturer>
+		<year>1995</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="undrfirej" index="true" image="u">
+		<description>Under Fire (Japan)</description>
+		<cloneof>undrfire</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1993</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="undrfireu" index="" image="">
+		<description>Under Fire (US)</description>
+		<cloneof>undrfire</cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1993</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="undrfire" index="" image="">
+		<description>Under Fire (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1993</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="duckhunt" index="true" image="v">
+		<description>Vs. Duck Hunt (set E)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1985</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vsfdf" index="" image="">
+		<description>Vs. Freedom Force</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sunsoft</manufacturer>
+		<year>1988</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hogalley" index="" image="">
+		<description>Vs. Hogan&apos;s Alley</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1985</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="whodunit" index="true" image="w">
+		<description>Who Dunit (version 8.0)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Exidy</manufacturer>
+		<year>1988</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pc_wgnmn" index="" image="">
+		<description>Wild Gunman (PlayChoice-10)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1984</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wildplt" index="" image="">
+		<description>Wild Pilot</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1992</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wschampa" index="" image="">
+		<description>Wing Shooting Championship V1.01</description>
+		<cloneof>wschamp</cloneof>
+		<crc></crc>
+		<manufacturer>Sammy USA Corporation</manufacturer>
+		<year>2001</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wschamp" index="" image="">
+		<description>Wing Shooting Championship V2.00</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sammy USA Corporation</manufacturer>
+		<year>2001</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="zeropnt" index="true" image="z">
+		<description>Zero Point (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Unico</manufacturer>
+		<year>1998</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="zeropnta" index="" image="">
+		<description>Zero Point (set 2)</description>
+		<cloneof>zeropnt</cloneof>
+		<crc></crc>
+		<manufacturer>Unico</manufacturer>
+		<year>1998</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="zeropnt2" index="" image="">
+		<description>Zero Point 2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Unico</manufacturer>
+		<year>1999</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="zombraid" index="" image="">
+		<description>Zombie Raid (US)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>American Sammy</manufacturer>
+		<year>1995</year>
+		<genre>Gun</genre>
+		<rating>AAMA - Red (Life Like Violence Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

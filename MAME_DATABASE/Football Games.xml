@@ -1,0 +1,549 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>MAME</listname>
+		<lastlistupdate>06/03/2012</lastlistupdate>
+		<listversion>.146 Ongoing</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="10yard85" index="true" image="1">
+		<description>10-Yard Fight &apos;85 (US, Taito license)</description>
+		<cloneof>10yard</cloneof>
+		<crc></crc>
+		<manufacturer>Irem (Taito license)</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="10yardj" index="" image="">
+		<description>10-Yard Fight (Japan)</description>
+		<cloneof>10yard</cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="10yard" index="" image="">
+		<description>10-Yard Fight (World, set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="aafbc" index="true" image="a">
+		<description>All American Football (rev C)</description>
+		<cloneof>aafb</cloneof>
+		<crc></crc>
+		<manufacturer>Leland Corp.</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="aafbd2p" index="" image="">
+		<description>All American Football (rev D, 2 Players)</description>
+		<cloneof>aafb</cloneof>
+		<crc></crc>
+		<manufacturer>Leland Corp.</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="aafb" index="" image="">
+		<description>All American Football (rev E)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Leland Corp.</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="atarifb4" index="" image="">
+		<description>Atari Football (4 players)</description>
+		<cloneof>atarifb</cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1979</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="atarifb1" index="" image="">
+		<description>Atari Football (revision 1)</description>
+		<cloneof>atarifb</cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1978</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="atarifb" index="" image="">
+		<description>Atari Football (revision 2)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1978</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cyberbalp" index="true" image="c">
+		<description>Cyberball (prototype)</description>
+		<cloneof>cyberbal</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cyberbal2" index="" image="">
+		<description>Cyberball (rev 2)</description>
+		<cloneof>cyberbal</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cyberbal" index="" image="">
+		<description>Cyberball (rev 4)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cyberbal2p1" index="" image="">
+		<description>Cyberball 2072 (2 player, rev 1)</description>
+		<cloneof>cyberbal</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cyberbal2p2" index="" image="">
+		<description>Cyberball 2072 (2 player, rev 2)</description>
+		<cloneof>cyberbal</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cyberbal2p3" index="" image="">
+		<description>Cyberball 2072 (2 player, rev 3)</description>
+		<cloneof>cyberbal</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cyberbal2p" index="" image="">
+		<description>Cyberball 2072 (2 player, rev 4)</description>
+		<cloneof>cyberbal</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="fbfrenzy" index="true" image="f">
+		<description>Football Frenzy (NGM-034)(NGH-034)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mt_gfoot" index="true" image="g">
+		<description>Great Football (Mega-Tech, SMS based)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gridiron" index="" image="">
+		<description>Gridiron Fight</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tehkan</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hardyard10" index="true" image="h">
+		<description>Hard Yardage (v1.00)</description>
+		<cloneof>hardyard</cloneof>
+		<crc></crc>
+		<manufacturer>Strata/Incredible Technologies</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hardyard" index="" image="">
+		<description>Hard Yardage (v1.20)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Strata/Incredible Technologies</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hiimpactp" index="" image="">
+		<description>High Impact Football (prototype, rev 8.6 12/09/90)</description>
+		<cloneof>hiimpact</cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hiimpact1" index="" image="">
+		<description>High Impact Football (rev LA1 12/16/90)</description>
+		<cloneof>hiimpact</cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hiimpact2" index="" image="">
+		<description>High Impact Football (rev LA2 12/26/90)</description>
+		<cloneof>hiimpact</cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hiimpact3" index="" image="">
+		<description>High Impact Football (rev LA3 12/27/90)</description>
+		<cloneof>hiimpact</cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hiimpact4" index="" image="">
+		<description>High Impact Football (rev LA4 02/04/91)</description>
+		<cloneof>hiimpact</cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hiimpact" index="" image="">
+		<description>High Impact Football (rev LA5 02/15/91)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mt_stf" index="true" image="j">
+		<description>Joe Montana II: Sports Talk Football (Mega-Tech)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="teamqb" index="" image="">
+		<description>John Elway&apos;s Team Quarterback (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Leland Corp.</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="teamqb2" index="" image="">
+		<description>John Elway&apos;s Team Quarterback (set 2)</description>
+		<cloneof>teamqb</cloneof>
+		<crc></crc>
+		<manufacturer>Leland Corp.</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="blitz99" index="true" image="n">
+		<description>NFL Blitz &apos;99</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway Games</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="blitz11" index="" image="">
+		<description>NFL Blitz (boot ROM 1.1)</description>
+		<cloneof>blitz</cloneof>
+		<crc></crc>
+		<manufacturer>Midway Games</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="blitz" index="" image="">
+		<description>NFL Blitz (boot ROM 1.2)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway Games</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="blitz2k" index="" image="">
+		<description>NFL Blitz 2000 Gold Edition</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway Games</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="quarterb" index="true" image="q">
+		<description>Quarterback (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Leland Corp.</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="quarterba" index="" image="">
+		<description>Quarterback (set 2)</description>
+		<cloneof>quarterb</cloneof>
+		<crc></crc>
+		<manufacturer>Leland Corp.</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rushhero" index="true" image="r">
+		<description>Rushing Heroes (ver UAB)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sfootbal" index="true" image="s">
+		<description>Street Football (11/12/86)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally/Sente</manufacturer>
+		<year>1986</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="shimpactp4" index="" image="">
+		<description>Super High Impact (prototype, rev 4.0 09/10/91)</description>
+		<cloneof>shimpact</cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="shimpactp5" index="" image="">
+		<description>Super High Impact (prototype, rev 5.0 09/15/91)</description>
+		<cloneof>shimpact</cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="shimpactp6" index="" image="">
+		<description>Super High Impact (prototype, rev 6.0 09/23/91)</description>
+		<cloneof>shimpact</cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="shimpact" index="" image="">
+		<description>Super High Impact (rev LA1 09/30/91)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tbowlj" index="true" image="t">
+		<description>Tecmo Bowl (Japan)</description>
+		<cloneof>tbowl</cloneof>
+		<crc></crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pc_tbowl" index="" image="">
+		<description>Tecmo Bowl (PlayChoice-10)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tecmo (Nintendo of America license)</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tbowl" index="" image="">
+		<description>Tecmo Bowl (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tbowlp" index="" image="">
+		<description>Tecmo Bowl (World, prototype?)</description>
+		<cloneof>tbowl</cloneof>
+		<crc></crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tdfeverj" index="" image="">
+		<description>TouchDown Fever (Japan)</description>
+		<cloneof>tdfever</cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tdfever" index="" image="">
+		<description>TouchDown Fever (US?)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tdfever2" index="" image="">
+		<description>TouchDown Fever 2</description>
+		<cloneof>tdfever</cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cyberbalt1" index="" image="">
+		<description>Tournament Cyberball 2072 (rev 1)</description>
+		<cloneof>cyberbal</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cyberbalt" index="" image="">
+		<description>Tournament Cyberball 2072 (rev 2)</description>
+		<cloneof>cyberbal</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vs10yardj" index="true" image="v">
+		<description>Vs 10-Yard Fight (Japan)</description>
+		<cloneof>10yard</cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vs10yardu" index="" image="">
+		<description>Vs 10-Yard Fight (US, Taito license)</description>
+		<cloneof>10yard</cloneof>
+		<crc></crc>
+		<manufacturer>Irem (Taito license)</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vs10yard" index="" image="">
+		<description>Vs 10-Yard Fight (World, 11/05/84)</description>
+		<cloneof>10yard</cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Football</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

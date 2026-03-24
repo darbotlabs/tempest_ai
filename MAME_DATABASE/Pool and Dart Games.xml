@@ -1,0 +1,559 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>MAME</listname>
+		<lastlistupdate>06/03/2012</lastlistupdate>
+		<listversion>.146 Ongoing</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="9ballsht" index="true" image="9">
+		<description>9-Ball Shootout (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>E-Scape EnterMedia (Bundra license)</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="9ballsht2" index="" image="">
+		<description>9-Ball Shootout (set 2)</description>
+		<cloneof>9ballsht</cloneof>
+		<crc></crc>
+		<manufacturer>E-Scape EnterMedia (Bundra license)</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="9ballsht3" index="" image="">
+		<description>9-Ball Shootout (set 3)</description>
+		<cloneof>9ballsht</cloneof>
+		<crc></crc>
+		<manufacturer>E-Scape EnterMedia (Bundra license)</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="9ballshtc" index="" image="">
+		<description>9-Ball Shootout Championship</description>
+		<cloneof>9ballsht</cloneof>
+		<crc></crc>
+		<manufacturer>E-Scape EnterMedia (Bundra license)</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="amerdart" index="true" image="a">
+		<description>AmeriDarts (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Ameri</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="amerdart2" index="" image="">
+		<description>AmeriDarts (set 2)</description>
+		<cloneof>amerdart</cloneof>
+		<crc></crc>
+		<manufacturer>Ameri</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="amerdart3" index="" image="">
+		<description>AmeriDarts (set 3)</description>
+		<cloneof>amerdart</cloneof>
+		<crc></crc>
+		<manufacturer>Ameri</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bilyard" index="true" image="b">
+		<description>Billiard</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Terminal</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="realbrk" index="" image="">
+		<description>Billiard Academy Real Break (Europe)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nakanihon</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="realbrkj" index="" image="">
+		<description>Billiard Academy Real Break (Japan)</description>
+		<cloneof>realbrk</cloneof>
+		<crc></crc>
+		<manufacturer>Nakanihon</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="realbrkk" index="" image="">
+		<description>Billiard Academy Real Break (Korea)</description>
+		<cloneof>realbrk</cloneof>
+		<crc></crc>
+		<manufacturer>Nakanihon</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bullsdrt" index="" image="">
+		<description>Bulls Eye Darts</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Shinkai Inc. (Magic Eletronics Inc. license)</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="coolpool" index="true" image="c">
+		<description>Cool Pool</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Catalina</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="8ballact" index="true" image="e">
+		<description>Eight Ball Action (DK conversion)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Seatongrove Ltd (Magic Eletronics USA license)</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="8ballact2" index="" image="">
+		<description>Eight Ball Action (DKJr conversion)</description>
+		<cloneof>8ballact</cloneof>
+		<crc></crc>
+		<manufacturer>Seatongrove Ltd (Magic Eletronics USA license)</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="8bpm" index="" image="">
+		<description>Eight Ball Action (Pac-Man conversion)</description>
+		<cloneof>8ballact</cloneof>
+		<crc></crc>
+		<manufacturer>Seatongrove Ltd (Magic Eletronics USA license)</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hustlerb2" index="true" image="f">
+		<description>Fatsy Gambler (Video Hustler bootleg)</description>
+		<cloneof>hustler</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1981</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="galhustl" index="true" image="g">
+		<description>Gals Hustler</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ACE International</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gimeabrk" index="" image="">
+		<description>Gimme A Break (7/7/85)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally/Sente</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hexpoola" index="true" image="h">
+		<description>Hex Pool (Senko)</description>
+		<cloneof>racknrol</cloneof>
+		<crc></crc>
+		<manufacturer>Senko Industries</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hexpool" index="" image="">
+		<description>Hex Pool (Shinkai)</description>
+		<cloneof>racknrol</cloneof>
+		<crc></crc>
+		<manufacturer>Senko Industries (Shinkai Inc. license)</manufacturer>
+		<year>1986</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pbillrd" index="true" image="p">
+		<description>Perfect Billiard</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nihon System</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pbillrds" index="" image="">
+		<description>Perfect Billiard (MC-8123, 317-0030)</description>
+		<cloneof>pbillrd</cloneof>
+		<crc></crc>
+		<manufacturer>Nihon System</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pcktgalb" index="" image="">
+		<description>Pocket Gal (bootleg)</description>
+		<cloneof>pcktgal</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pcktgal" index="" image="">
+		<description>Pocket Gal (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pcktgal2" index="" image="">
+		<description>Pocket Gal 2 (English)</description>
+		<cloneof>pcktgal</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pcktgal2j" index="" image="">
+		<description>Pocket Gal 2 (Japanese)</description>
+		<cloneof>pcktgal</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pktgaldx" index="" image="">
+		<description>Pocket Gal Deluxe (Euro v3.00)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pktgaldxb" index="" image="">
+		<description>Pocket Gal Deluxe (Euro v3.00, bootleg)</description>
+		<cloneof>pktgaldx</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pktgaldxj" index="" image="">
+		<description>Pocket Gal Deluxe (Japan v3.00)</description>
+		<cloneof>pktgaldx</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation (Nihon System license)</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pokechmp" index="" image="">
+		<description>Poke Champ</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>D.G.R.M.</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="poolshrk" index="" image="">
+		<description>Poolshark</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1977</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pbillian" index="" image="">
+		<description>Prebillian</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Kaneko / Taito</manufacturer>
+		<year>1986</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rackemup" index="true" image="r">
+		<description>Rack &apos;em Up</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="racknrol" index="" image="">
+		<description>Rack + Roll</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Senko Industries (Status license from Shinkai Inc.)</manufacturer>
+		<year>1986</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="shootbul" index="true" image="s">
+		<description>Shoot the Bull</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sidepcktb" index="" image="">
+		<description>Side Pocket (bootleg)</description>
+		<cloneof>sidepckt</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1986</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sidepcktj" index="" image="">
+		<description>Side Pocket (Japan)</description>
+		<cloneof>sidepckt</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1986</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sidepckt" index="" image="">
+		<description>Side Pocket (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1986</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="slikshot" index="" image="">
+		<description>Slick Shot (V2.2)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Grand Products/Incredible Technologies</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="spool3" index="" image="">
+		<description>Super Pool III (English)</description>
+		<cloneof>pcktgal</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="spool3i" index="" image="">
+		<description>Super Pool III (I-Vics)</description>
+		<cloneof>pcktgal</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation (I-Vics license)</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tgtballa" index="true" image="t">
+		<description>Target Ball</description>
+		<cloneof>tgtball</cloneof>
+		<crc></crc>
+		<manufacturer>Yun Sung</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tgtball" index="" image="">
+		<description>Target Ball (Nude)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Yun Sung</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="billiard" index="" image="">
+		<description>The Billiards (Video Hustler bootleg)</description>
+		<cloneof>hustler</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1981</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="thehustlj" index="" image="">
+		<description>The Hustler (Japan version J)</description>
+		<cloneof>rackemup</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="thehustl" index="" image="">
+		<description>The Hustler (Japan version M)</description>
+		<cloneof>rackemup</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tripool" index="" image="">
+		<description>Tri-Pool (Casino Tech)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Noma (Casino Tech license)</manufacturer>
+		<year>1981</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tripoola" index="" image="">
+		<description>Tri-Pool (Costal Games)</description>
+		<cloneof>tripool</cloneof>
+		<crc></crc>
+		<manufacturer>Noma (Costal Games license)</manufacturer>
+		<year>1981</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="8ball" index="true" image="v">
+		<description>Video Eight Ball</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Century Electronics</manufacturer>
+		<year>1982</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="8ball1" index="" image="">
+		<description>Video Eight Ball (Rev.1)</description>
+		<cloneof>8ball</cloneof>
+		<crc></crc>
+		<manufacturer>Century Electronics</manufacturer>
+		<year>1982</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hustler" index="" image="">
+		<description>Video Hustler</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1981</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hustlerd" index="" image="">
+		<description>Video Hustler (Dynamo Games)</description>
+		<cloneof>hustler</cloneof>
+		<crc></crc>
+		<manufacturer>Konami (Dynamo Games license)</manufacturer>
+		<year>1981</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vpool" index="" image="">
+		<description>Video Pool (bootleg on Moon Cresta hardware)</description>
+		<cloneof>hustler</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1980</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ar_dart" index="true" image="w">
+		<description>World Darts (Arcadia, set 1, V 2.1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Arcadia Systems</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Pool and Dart</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

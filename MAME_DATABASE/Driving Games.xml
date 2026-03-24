@@ -1,0 +1,3089 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>MAME</listname>
+		<lastlistupdate>06/03/2012</lastlistupdate>
+		<listversion>.146 Ongoing</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="gtmra" index="true" image="1">
+		<description>1000 Miglia: Great 1000 Miles Rally (94/06/13)</description>
+		<cloneof>gtmr</cloneof>
+		<crc></crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtmr" index="" image="">
+		<description>1000 Miglia: Great 1000 Miles Rally (94/07/18)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="acedrvrw" index="true" image="a">
+		<description>Ace Driver: Racing Evolution (Rev. AD2)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="victlapw" index="" image="">
+		<description>Ace Driver: Victory Lap (Rev. ADV2)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1996</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="amspdwy" index="" image="">
+		<description>American Speedway (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Enerdyne Technologies Inc.</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="amspdwya" index="" image="">
+		<description>American Speedway (set 2)</description>
+		<cloneof>amspdwy</cloneof>
+		<crc></crc>
+		<manufacturer>Enerdyne Technologies Inc.</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="apbf" index="" image="">
+		<description>APB - All Points Bulletin (French)</description>
+		<cloneof>apb</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="apbg" index="" image="">
+		<description>APB - All Points Bulletin (German)</description>
+		<cloneof>apb</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="apb1" index="" image="">
+		<description>APB - All Points Bulletin (rev 1)</description>
+		<cloneof>apb</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="apb2" index="" image="">
+		<description>APB - All Points Bulletin (rev 2)</description>
+		<cloneof>apb</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="apb3" index="" image="">
+		<description>APB - All Points Bulletin (rev 3)</description>
+		<cloneof>apb</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="apb4" index="" image="">
+		<description>APB - All Points Bulletin (rev 4)</description>
+		<cloneof>apb</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="apb5" index="" image="">
+		<description>APB - All Points Bulletin (rev 5)</description>
+		<cloneof>apb</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="apb6" index="" image="">
+		<description>APB - All Points Bulletin (rev 6)</description>
+		<cloneof>apb</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="apb" index="" image="">
+		<description>APB - All Points Bulletin (rev 7)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="aquajet" index="" image="">
+		<description>Aqua Jet (Rev. AJ2 Ver.B)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1996</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="backfire" index="true" image="b">
+		<description>Backfire! (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1995</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="backfirea" index="" image="">
+		<description>Backfire! (set 2)</description>
+		<cloneof>backfire</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1995</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="badlands" index="" image="">
+		<description>Bad Lands</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bigrun" index="" image="">
+		<description>Big Run (11th Rallye version)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="blmbycar" index="" image="">
+		<description>Blomby Car</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ABM &amp; Gecas</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="blmbycaru" index="" image="">
+		<description>Blomby Car (not encrypted)</description>
+		<cloneof>blmbycar</cloneof>
+		<crc></crc>
+		<manufacturer>ABM &amp; Gecas</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="buggyboyjr" index="" image="">
+		<description>Buggy Boy Junior/Speed Buggy (upright)</description>
+		<cloneof>buggyboy</cloneof>
+		<crc></crc>
+		<manufacturer>Tatsumi</manufacturer>
+		<year>1986</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="buggyboy" index="" image="">
+		<description>Buggy Boy/Speed Buggy (cockpit)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tatsumi</manufacturer>
+		<year>1985</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="buggychl" index="" image="">
+		<description>Buggy Challenge</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1984</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="buggychlt" index="" image="">
+		<description>Buggy Challenge (Tecfri)</description>
+		<cloneof>buggychl</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation (Tecfri license)</manufacturer>
+		<year>1984</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bnj" index="" image="">
+		<description>Bump &apos;n&apos; Jump</description>
+		<cloneof>brubber</cloneof>
+		<crc></crc>
+		<manufacturer>Data East USA (Bally Midway license)</manufacturer>
+		<year>1982</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cbnj" index="" image="">
+		<description>Bump &apos;n&apos; Jump (DECO Cassette)</description>
+		<cloneof>cburnrub</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1982</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="brubber" index="" image="">
+		<description>Burnin&apos; Rubber</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1982</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cburnrub" index="" image="">
+		<description>Burnin&apos; Rubber (DECO Cassette, set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1982</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cburnrub2" index="" image="">
+		<description>Burnin&apos; Rubber (DECO Cassette, set 2)</description>
+		<cloneof>cburnrub</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1982</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="calspeeda" index="true" image="c">
+		<description>California Speed (Version 1.0r7a 3/4/98)</description>
+		<cloneof>calspeed</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1998</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="calspeed" index="" image="">
+		<description>California Speed (Version 2.1a, 4/17/98)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1998</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="caractn" index="" image="">
+		<description>Car Action</description>
+		<cloneof>brubber</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1982</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="carjmbre" index="" image="">
+		<description>Car Jamboree</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Omori Electric Co., Ltd.</manufacturer>
+		<year>1983</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="csprintf" index="" image="">
+		<description>Championship Sprint (French)</description>
+		<cloneof>csprint</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="csprintg1" index="" image="">
+		<description>Championship Sprint (German, rev 1)</description>
+		<cloneof>csprint</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="csprintg" index="" image="">
+		<description>Championship Sprint (German, rev 2)</description>
+		<cloneof>csprint</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="csprint1" index="" image="">
+		<description>Championship Sprint (rev 1)</description>
+		<cloneof>csprint</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="csprint2" index="" image="">
+		<description>Championship Sprint (rev 2)</description>
+		<cloneof>csprint</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="csprint" index="" image="">
+		<description>Championship Sprint (rev 3)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="csprints1" index="" image="">
+		<description>Championship Sprint (Spanish, rev 1)</description>
+		<cloneof>csprint</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="csprints" index="" image="">
+		<description>Championship Sprint (Spanish, rev 2)</description>
+		<cloneof>csprint</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="changela" index="" image="">
+		<description>Change Lanes</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1983</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cbombers" index="" image="">
+		<description>Chase Bombers</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="chasehqj" index="" image="">
+		<description>Chase H.Q. (Japan)</description>
+		<cloneof>chasehq</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="chasehqu" index="" image="">
+		<description>Chase H.Q. (US)</description>
+		<cloneof>chasehq</cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="chasehq" index="" image="">
+		<description>Chase H.Q. (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="chqflag" index="" image="">
+		<description>Chequered Flag</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="chqflagj" index="" image="">
+		<description>Chequered Flag (Japan)</description>
+		<cloneof>chqflag</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cischeat" index="" image="">
+		<description>Cisco Heat</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="contcircu" index="" image="">
+		<description>Continental Circus (US set 1)</description>
+		<cloneof>contcirc</cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="contcircua" index="" image="">
+		<description>Continental Circus (US set 2)</description>
+		<cloneof>contcirc</cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="contcirc" index="" image="">
+		<description>Continental Circus (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crzrallyg" index="" image="">
+		<description>Crazy Rally (Gecas license)</description>
+		<cloneof>crzrally</cloneof>
+		<crc></crc>
+		<manufacturer>Tecfri (Gecas license)</manufacturer>
+		<year>1985</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crzrally" index="" image="">
+		<description>Crazy Rally (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tecfri</manufacturer>
+		<year>1985</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crzrallya" index="" image="">
+		<description>Crazy Rally (set 2)</description>
+		<cloneof>crzrally</cloneof>
+		<crc></crc>
+		<manufacturer>Tecfri</manufacturer>
+		<year>1985</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crusnusa21" index="" image="">
+		<description>Cruis&apos;n USA (rev L2.1)</description>
+		<cloneof>crusnusa</cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crusnusa40" index="" image="">
+		<description>Cruis&apos;n USA (rev L4.0)</description>
+		<cloneof>crusnusa</cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crusnusa" index="" image="">
+		<description>Cruis&apos;n USA (rev L4.1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crusnwld13" index="" image="">
+		<description>Cruis&apos;n World (rev L1.3)</description>
+		<cloneof>crusnwld</cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1996</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crusnwld17" index="" image="">
+		<description>Cruis&apos;n World (rev L1.7)</description>
+		<cloneof>crusnwld</cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1996</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crusnwld20" index="" image="">
+		<description>Cruis&apos;n World (rev L2.0)</description>
+		<cloneof>crusnwld</cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1996</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crusnwld23" index="" image="">
+		<description>Cruis&apos;n World (rev L2.3)</description>
+		<cloneof>crusnwld</cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1996</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crusnwld" index="" image="">
+		<description>Cruis&apos;n World (rev L2.4)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1996</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="indyheat" index="true" image="d">
+		<description>Danny Sullivan&apos;s Indy Heat</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Leland Corp.</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="280zzzap" index="" image="">
+		<description>Datsun 280 Zzzap</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1976</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="demoderb" index="" image="">
+		<description>Demolition Derby</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1984</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="demoderm" index="" image="">
+		<description>Demolition Derby (2-Player Mono Board Version)</description>
+		<cloneof>demoderb</cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1984</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dendego" index="" image="">
+		<description>Densha de GO!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1996</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dendego2" index="" image="">
+		<description>Densha de GO! 2 Kousoku-hen</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1998</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dendego23k" index="" image="">
+		<description>Densha de GO! 2 Kousoku-hen 3000-bandai</description>
+		<cloneof>dendego2</cloneof>
+		<crc></crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1998</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dendegox" index="" image="">
+		<description>Densha de GO! EX</description>
+		<cloneof>dendego</cloneof>
+		<crc></crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1996</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dirtdash" index="" image="">
+		<description>Dirt Dash (Rev. DT2)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1995</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dirtfoxj" index="" image="">
+		<description>Dirt Fox (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dblaxle" index="" image="">
+		<description>Double Axle (US)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dragrace" index="" image="">
+		<description>Drag Race</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari (Kee Games)</manufacturer>
+		<year>1977</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="drifto94" index="" image="">
+		<description>Drift Out &apos;94 - The Hard Order (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Visco</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="driftout" index="" image="">
+		<description>Drift Out (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Visco</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="driveout" index="" image="">
+		<description>Drive Out (bootleg)</description>
+		<cloneof>driftout</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="drivedge" index="" image="">
+		<description>Driver&apos;s Edge</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Strata/Incredible Technologies</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="drivfrcb" index="" image="">
+		<description>Driving Force (Galaxian conversion bootleg)</description>
+		<cloneof>drivfrcp</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (Elsys Software)</manufacturer>
+		<year>1985</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="drivfrcg" index="" image="">
+		<description>Driving Force (Galaxian conversion)</description>
+		<cloneof>drivfrcp</cloneof>
+		<crc></crc>
+		<manufacturer>Shinkai Inc. (Magic Eletronics USA license)</manufacturer>
+		<year>1984</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="drivfrcp" index="" image="">
+		<description>Driving Force (Pac-Man conversion)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Shinkai Inc. (Magic Eletronics Inc. license)</manufacturer>
+		<year>1984</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="f1dream" index="true" image="f">
+		<description>F-1 Dream</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom (Romstar license)</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="f1dreamb" index="" image="">
+		<description>F-1 Dream (bootleg)</description>
+		<cloneof>f1dream</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="f1gp" index="" image="">
+		<description>F-1 Grand Prix</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Video System Co.</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="f1gp2" index="" image="">
+		<description>F-1 Grand Prix Part II</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Video System Co.</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="f1gpstr2" index="" image="">
+		<description>F-1 Grand Prix Star II</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nss_fzer" index="" image="">
+		<description>F-Zero (Nintendo Super System)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="f1en" index="" image="">
+		<description>F1 Exhaust Note</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="finallapjb" index="" image="">
+		<description>Final Lap (Japan - Rev B)</description>
+		<cloneof>finallap</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="finallapjc" index="" image="">
+		<description>Final Lap (Japan - Rev C)</description>
+		<cloneof>finallap</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="finallapc" index="" image="">
+		<description>Final Lap (Rev C)</description>
+		<cloneof>finallap</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="finallapd" index="" image="">
+		<description>Final Lap (Rev D)</description>
+		<cloneof>finallap</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="finallap" index="" image="">
+		<description>Final Lap (Rev E)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="finalap2" index="" image="">
+		<description>Final Lap 2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="finalap2j" index="" image="">
+		<description>Final Lap 2 (Japan)</description>
+		<cloneof>finalap2</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="finalap3jc" index="" image="">
+		<description>Final Lap 3 (Japan - Rev C)</description>
+		<cloneof>finalap3</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="finalap3j" index="" image="">
+		<description>Final Lap 3 (Japan)</description>
+		<cloneof>finalap3</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="finalap3" index="" image="">
+		<description>Final Lap 3 (World, set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="finalap3a" index="" image="">
+		<description>Final Lap 3 (World, set 2)</description>
+		<cloneof>finalap3</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="finalapro" index="" image="">
+		<description>Final Lap R</description>
+		<cloneof>finalapr</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1995</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="finalaprj" index="" image="">
+		<description>Final Lap R (Japan Rev. C)</description>
+		<cloneof>finalapr</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1995</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="finalapr" index="" image="">
+		<description>Final Lap R (Rev. B)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1995</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="firetrk" index="" image="">
+		<description>Fire Truck / Smokey Joe</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1978</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="fourtrax" index="" image="">
+		<description>Four Trax</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="fullthrl" index="" image="">
+		<description>Full Throttle (Japan)</description>
+		<cloneof>topspeed</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gekisou" index="true" image="g">
+		<description>Gekisou (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Eastern Corp.</manufacturer>
+		<year>1985</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="polepos2bi" index="" image="">
+		<description>Gran Premio F1 (Italian bootleg of Pole Position II)</description>
+		<cloneof>polepos2</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1984</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="grchamp" index="" image="">
+		<description>Grand Champion</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1981</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="f1gpstar" index="" image="">
+		<description>Grand Prix Star</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtmr2u" index="" image="">
+		<description>Great 1000 Miles Rally 2 USA (95/05/18)</description>
+		<cloneof>gtmr2</cloneof>
+		<crc></crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1995</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtmre" index="" image="">
+		<description>Great 1000 Miles Rally: Evolution Model!!! (94/09/06)</description>
+		<cloneof>gtmr</cloneof>
+		<crc></crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtmrusa" index="" image="">
+		<description>Great 1000 Miles Rally: U.S.A Version! (94/09/06)</description>
+		<cloneof>gtmr</cloneof>
+		<crc></crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="groundfx" index="" image="">
+		<description>Ground Effects / Super Ground Effects (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="grudge" index="" image="">
+		<description>Grudge Match (prototype)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>198?</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="harddrivb5" index="true" image="h">
+		<description>Hard Drivin&apos; (cockpit, British, rev 5)</description>
+		<cloneof>harddriv</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="harddrivb6" index="" image="">
+		<description>Hard Drivin&apos; (cockpit, British, rev 6)</description>
+		<cloneof>harddriv</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="harddrivb" index="" image="">
+		<description>Hard Drivin&apos; (cockpit, British, rev 7)</description>
+		<cloneof>harddriv</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="harddrivg4" index="" image="">
+		<description>Hard Drivin&apos; (cockpit, German, rev 4)</description>
+		<cloneof>harddriv</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="harddrivg" index="" image="">
+		<description>Hard Drivin&apos; (cockpit, German, rev 7)</description>
+		<cloneof>harddriv</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="harddrivj6" index="" image="">
+		<description>Hard Drivin&apos; (cockpit, Japan, rev 6)</description>
+		<cloneof>harddriv</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="harddrivj" index="" image="">
+		<description>Hard Drivin&apos; (cockpit, Japan, rev 7)</description>
+		<cloneof>harddriv</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="harddriv2" index="" image="">
+		<description>Hard Drivin&apos; (cockpit, rev 2)</description>
+		<cloneof>harddriv</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="harddriv3" index="" image="">
+		<description>Hard Drivin&apos; (cockpit, rev 3)</description>
+		<cloneof>harddriv</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="harddriv" index="" image="">
+		<description>Hard Drivin&apos; (cockpit, rev 7)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="harddrivcb" index="" image="">
+		<description>Hard Drivin&apos; (compact, British, rev 2)</description>
+		<cloneof>harddriv</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="harddrivcg" index="" image="">
+		<description>Hard Drivin&apos; (compact, German, rev 2)</description>
+		<cloneof>harddriv</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="harddrivc1" index="" image="">
+		<description>Hard Drivin&apos; (compact, rev 1)</description>
+		<cloneof>harddriv</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="harddrivc" index="" image="">
+		<description>Hard Drivin&apos; (compact, rev 2)</description>
+		<cloneof>harddriv</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hdrivair" index="" image="">
+		<description>Hard Drivin&apos;s Airborne (prototype)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hwrace" index="" image="">
+		<description>High Way Race</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1983</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hotchase" index="" image="">
+		<description>Hot Chase</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hotrodj" index="" image="">
+		<description>Hot Rod (Japan, 4 Players, Floppy Based)</description>
+		<cloneof>hotrod</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hotrod" index="" image="">
+		<description>Hot Rod (World, 3 Players, Turbo set 1, Floppy Based)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hotroda" index="" image="">
+		<description>Hot Rod (World, 3 Players, Turbo set 2, Floppy Based)</description>
+		<cloneof>hotrod</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hcrashc" index="" image="">
+		<description>Hyper Crash (version C)</description>
+		<cloneof>hcrash</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hcrash" index="" image="">
+		<description>Hyper Crash (version D)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hyprdriv" index="" image="">
+		<description>Hyperdrive</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway Games</manufacturer>
+		<year>1998</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="imolagp" index="true" image="i">
+		<description>Imola Grand Prix</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Alberici</manufacturer>
+		<year>1981</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="offroad" index="" image="">
+		<description>Ironman Ivan Stewart&apos;s Super Off-Road</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Leland Corp.</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="offroadt" index="" image="">
+		<description>Ironman Ivan Stewart&apos;s Super Off-Road Track-Pak</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Leland Corp.</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="offroadt2p" index="" image="">
+		<description>Ironman Ivan Stewart&apos;s Super Off-Road Track-Pak (2 Players)</description>
+		<cloneof>offroadt</cloneof>
+		<crc></crc>
+		<manufacturer>Leland Corp.</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="joyfulr" index="true" image="j">
+		<description>Joyful Road (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1983</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="konamigt" index="true" image="k">
+		<description>Konami GT</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1985</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rf2" index="" image="">
+		<description>Konami RF2 - Red Fighter</description>
+		<cloneof>konamigt</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1985</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lagunar" index="true" image="l">
+		<description>Laguna Racer</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1977</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ledstorm" index="" image="">
+		<description>Led Storm (US)</description>
+		<cloneof>madgear</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ledstorm2" index="" image="">
+		<description>Led Storm Rally 2011 (US)</description>
+		<cloneof>madgear</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crshrace" index="" image="">
+		<description>Lethal Crash Race (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Video System Co.</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crshrace2" index="" image="">
+		<description>Lethal Crash Race (set 2)</description>
+		<cloneof>crshrace</cloneof>
+		<crc></crc>
+		<manufacturer>Video System Co.</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="luckywld" index="" image="">
+		<description>Lucky &amp; Wild</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="luckywldj" index="" image="">
+		<description>Lucky &amp; Wild (Japan)</description>
+		<cloneof>luckywld</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="madgearj" index="true" image="m">
+		<description>Mad Gear (Japan)</description>
+		<cloneof>madgear</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="madgear" index="" image="">
+		<description>Mad Gear (US)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kamenrid" index="" image="">
+		<description>Masked Riders Club Battle Race</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Banpresto / Toei</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="maxrpm" index="" image="">
+		<description>Max RPM (ver 2)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1986</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="midnrun" index="" image="">
+		<description>Midnight Run (Euro v1.11)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1995</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtmr2a" index="" image="">
+		<description>Mille Miglia 2: Great 1000 Miles Rally (95/04/04)</description>
+		<cloneof>gtmr2</cloneof>
+		<crc></crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1995</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtmr2" index="" image="">
+		<description>Mille Miglia 2: Great 1000 Miles Rally (95/05/24)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1995</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="montecar" index="" image="">
+		<description>Monte Carlo</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1979</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mnchmobl" index="" image="">
+		<description>Munch Mobile (US)</description>
+		<cloneof>joyfulr</cloneof>
+		<crc></crc>
+		<manufacturer>SNK (Centuri license)</manufacturer>
+		<year>1983</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="neodrift" index="true" image="n">
+		<description>Neo Drift Out - New Technology</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Visco</manufacturer>
+		<year>1996</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nitedrvr" index="" image="">
+		<description>Night Driver</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1976</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="outrunb" index="true" image="o">
+		<description>Out Run (bootleg)</description>
+		<cloneof>outrun</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1986</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="outrundx" index="" image="">
+		<description>Out Run (deluxe sitdown)</description>
+		<cloneof>outrun</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mt_orun" index="" image="">
+		<description>Out Run (Mega-Tech, SMS based)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="outruno" index="" image="">
+		<description>Out Run (sitdown/upright)</description>
+		<cloneof>outrun</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="outrunra" index="" image="">
+		<description>Out Run (sitdown/upright, Rev A)</description>
+		<cloneof>outrun</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="outrun" index="" image="">
+		<description>Out Run (sitdown/upright, Rev B)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="orunnersj" index="" image="">
+		<description>OutRunners (Japan)</description>
+		<cloneof>orunners</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="orunnersu" index="" image="">
+		<description>OutRunners (US)</description>
+		<cloneof>orunners</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="orunners" index="" image="">
+		<description>OutRunners (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="overtop" index="" image="">
+		<description>Over Top</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ADK</manufacturer>
+		<year>1996</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pitnrun" index="true" image="p">
+		<description>Pit &amp; Run - F-1 Race (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1984</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pitnruna" index="" image="">
+		<description>Pit &amp; Run - F-1 Race (set 2)</description>
+		<cloneof>pitnrun</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1984</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pocketrc" index="" image="">
+		<description>Pocket Racer (Japan, PKR1/VER.B)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1996</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="polepos" index="" image="">
+		<description>Pole Position</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1982</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="polepos1" index="" image="">
+		<description>Pole Position (Atari version 1)</description>
+		<cloneof>polepos</cloneof>
+		<crc></crc>
+		<manufacturer>Namco (Atari license)</manufacturer>
+		<year>1982</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="poleposa" index="" image="">
+		<description>Pole Position (Atari version 2)</description>
+		<cloneof>polepos</cloneof>
+		<crc></crc>
+		<manufacturer>Namco (Atari license)</manufacturer>
+		<year>1982</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="polepos2" index="" image="">
+		<description>Pole Position II</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1983</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="polepos2a" index="" image="">
+		<description>Pole Position II (Atari)</description>
+		<cloneof>polepos2</cloneof>
+		<crc></crc>
+		<manufacturer>Namco (Atari license)</manufacturer>
+		<year>1983</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="polepos2b" index="" image="">
+		<description>Pole Position II (bootleg)</description>
+		<cloneof>polepos2</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1983</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pdriftj" index="" image="">
+		<description>Power Drift (Japan)</description>
+		<cloneof>pdrift</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pdrifta" index="" image="">
+		<description>Power Drift (World)</description>
+		<cloneof>pdrift</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pdrifte" index="" image="">
+		<description>Power Drift (World, Earlier)</description>
+		<cloneof>pdrift</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pdrift" index="" image="">
+		<description>Power Drift (World, Rev A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="powerdrv" index="" image="">
+		<description>Power Drive</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1986</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pwheelsj" index="" image="">
+		<description>Power Wheels (Japan)</description>
+		<cloneof>dblaxle</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pc_rcpam" index="true" image="r">
+		<description>R.C. Pro-Am (PlayChoice-10)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Rare</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="racedrivb4" index="" image="">
+		<description>Race Drivin&apos; (cockpit, British, rev 4)</description>
+		<cloneof>racedriv</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="racedrivb" index="" image="">
+		<description>Race Drivin&apos; (cockpit, British, rev 5)</description>
+		<cloneof>racedriv</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="racedrivg4" index="" image="">
+		<description>Race Drivin&apos; (cockpit, German, rev 4)</description>
+		<cloneof>racedriv</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="racedrivg" index="" image="">
+		<description>Race Drivin&apos; (cockpit, German, rev 5)</description>
+		<cloneof>racedriv</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="racedriv4" index="" image="">
+		<description>Race Drivin&apos; (cockpit, rev 4)</description>
+		<cloneof>racedriv</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="racedriv" index="" image="">
+		<description>Race Drivin&apos; (cockpit, rev 5)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="racedrivcb4" index="" image="">
+		<description>Race Drivin&apos; (compact, British, rev 4)</description>
+		<cloneof>racedriv</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="racedrivcb" index="" image="">
+		<description>Race Drivin&apos; (compact, British, rev 5)</description>
+		<cloneof>racedriv</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="racedrivcg4" index="" image="">
+		<description>Race Drivin&apos; (compact, German, rev 4)</description>
+		<cloneof>racedriv</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="racedrivcg" index="" image="">
+		<description>Race Drivin&apos; (compact, German, rev 5)</description>
+		<cloneof>racedriv</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="racedrivc4" index="" image="">
+		<description>Race Drivin&apos; (compact, rev 4)</description>
+		<cloneof>racedriv</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="racedrivc" index="" image="">
+		<description>Race Drivin&apos; (compact, rev 5)</description>
+		<cloneof>racedriv</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="radmu" index="" image="">
+		<description>Rad Mobile (US)</description>
+		<cloneof>radm</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="radm" index="" image="">
+		<description>Rad Mobile (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pc_radrc" index="" image="">
+		<description>Rad Racer (PlayChoice-10)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Square</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pc_radr2" index="" image="">
+		<description>Rad Racer II (PlayChoice-10)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Square (Nintendo of America license)</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="radrj" index="" image="">
+		<description>Rad Rally (Japan)</description>
+		<cloneof>radr</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="radru" index="" image="">
+		<description>Rad Rally (US)</description>
+		<cloneof>radr</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="radr" index="" image="">
+		<description>Rad Rally (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="raveracj" index="" image="">
+		<description>Rave Racer (Rev. RV1 Ver.B, Japan)</description>
+		<cloneof>raveracw</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1995</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="raveracja" index="" image="">
+		<description>Rave Racer (Rev. RV1, Japan)</description>
+		<cloneof>raveracw</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1995</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="raveracw" index="" image="">
+		<description>Rave Racer (Rev. RV2, World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1995</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="redlin2p" index="" image="">
+		<description>Redline Racer (2 players)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Cinematronics (Tradewest license)</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ridgeracj" index="" image="">
+		<description>Ridge Racer (Rev. RR1, Japan)</description>
+		<cloneof>ridgerac</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ridgerac3" index="" image="">
+		<description>Ridge Racer (Rev. RR2 Ver.B, World, 3-screen?)</description>
+		<cloneof>ridgerac</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ridgeracb" index="" image="">
+		<description>Ridge Racer (Rev. RR2, World)</description>
+		<cloneof>ridgerac</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ridgerac" index="" image="">
+		<description>Ridge Racer (Rev. RR3, World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ridgera2j" index="" image="">
+		<description>Ridge Racer 2 (Rev. RRS1 Ver.B, Japan)</description>
+		<cloneof>ridgera2</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ridgera2ja" index="" image="">
+		<description>Ridge Racer 2 (Rev. RRS1, Japan)</description>
+		<cloneof>ridgera2</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ridgera2" index="" image="">
+		<description>Ridge Racer 2 (Rev. RRS2, World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rpatrolb" index="" image="">
+		<description>River Patrol (bootleg)</description>
+		<cloneof>rpatrol</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1981</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rpatrol" index="" image="">
+		<description>River Patrol (Orca)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Orca</manufacturer>
+		<year>1981</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="roadf" index="" image="">
+		<description>Road Fighter (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1984</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="roadf2" index="" image="">
+		<description>Road Fighter (set 2)</description>
+		<cloneof>roadf</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1984</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="roadriot" index="" image="">
+		<description>Road Riot 4WD (set 1, 13 Nov 1991)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="roadrioto" index="" image="">
+		<description>Road Riot 4WD (set 2, 04 Jun 1991)</description>
+		<cloneof>roadriot</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="roughrac" index="" image="">
+		<description>Rough Racer (Japan, Floppy Based, FD1094 317-0058-06b)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="roundup5" index="" image="">
+		<description>Round Up 5 - Super Delta Force</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tatsumi</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sfrush" index="true" image="s">
+		<description>San Francisco Rush</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1996</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sidebs" index="" image="">
+		<description>Side by Side (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1996</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sidebs2j" index="" image="">
+		<description>Side by Side 2 (Japan)</description>
+		<cloneof>sidebs2</cloneof>
+		<crc></crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1997</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sidebs2" index="" image="">
+		<description>Side by Side 2 (North/South America)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1997</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="slipstrm" index="" image="">
+		<description>Slip Stream (950515 Brazil)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1995</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="slipstrmh" index="" image="">
+		<description>Slip Stream (950515 Hispanic)</description>
+		<cloneof>slipstrm</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1995</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="spcpostn" index="" image="">
+		<description>Space Position (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega / Nasco</manufacturer>
+		<year>1986</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="speedfrk" index="" image="">
+		<description>Speed Freak</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Vectorbeam</manufacturer>
+		<year>1979</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="speedrcr" index="" image="">
+		<description>Speed Racer</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1995</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="speedup" index="" image="">
+		<description>Speed Up (Version 1.20)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gaelco</manufacturer>
+		<year>1996</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sprint1" index="" image="">
+		<description>Sprint 1</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari (Kee Games)</manufacturer>
+		<year>1978</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sprint2" index="" image="">
+		<description>Sprint 2 (set 1)</description>
+		<cloneof>sprint1</cloneof>
+		<crc></crc>
+		<manufacturer>Atari (Kee Games)</manufacturer>
+		<year>1976</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sprint2a" index="" image="">
+		<description>Sprint 2 (set 2)</description>
+		<cloneof>sprint1</cloneof>
+		<crc></crc>
+		<manufacturer>Atari (Kee Games)</manufacturer>
+		<year>1976</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sprint4" index="" image="">
+		<description>Sprint 4 (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1977</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sprint4a" index="" image="">
+		<description>Sprint 4 (set 2)</description>
+		<cloneof>sprint4</cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1977</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sprint8" index="" image="">
+		<description>Sprint 8</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1977</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sprint8a" index="" image="">
+		<description>Sprint 8 (play tag &amp; chase)</description>
+		<cloneof>sprint8</cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1977</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="stocker" index="" image="">
+		<description>Stocker (3/19/85)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally/Sente</manufacturer>
+		<year>1984</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="strtdriv" index="" image="">
+		<description>Street Drivin&apos; (prototype)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="superbug" index="" image="">
+		<description>Super Bug</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari (Kee Games)</manufacturer>
+		<year>1977</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="superchsj" index="" image="">
+		<description>Super Chase - Criminal Termination (Japan)</description>
+		<cloneof>superchs</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="superchs" index="" image="">
+		<description>Super Chase - Criminal Termination (US)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sformula" index="" image="">
+		<description>Super Formula (Japan)</description>
+		<cloneof>tail2nos</cloneof>
+		<crc></crc>
+		<manufacturer>V-System Co.</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="smgpja" index="" image="">
+		<description>Super Monaco GP (Japan, Rev A, FD1094 317-0124a)</description>
+		<cloneof>smgp</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="smgpj" index="" image="">
+		<description>Super Monaco GP (Japan, Rev B, FD1094 317-0124a)</description>
+		<cloneof>smgp</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mt_smgp" index="" image="">
+		<description>Super Monaco GP (Mega-Tech)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="smgpu2" index="" image="">
+		<description>Super Monaco GP (US, Rev A, FD1094 317-0125a)</description>
+		<cloneof>smgp</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="smgpu1" index="" image="">
+		<description>Super Monaco GP (US, Rev B, FD1094 317-0125a)</description>
+		<cloneof>smgp</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="smgpu" index="" image="">
+		<description>Super Monaco GP (US, Rev C, FD1094 317-0125a)</description>
+		<cloneof>smgp</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="smgp5" index="" image="">
+		<description>Super Monaco GP (World, &apos;Air Drive Cabinet&apos;, FD1094 317-0126)</description>
+		<cloneof>smgp</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="smgp6" index="" image="">
+		<description>Super Monaco GP (World, Rev A, FD1094 317-0126a)</description>
+		<cloneof>smgp</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="smgp" index="" image="">
+		<description>Super Monaco GP (World, Rev B, &apos;Twin&apos;, FD1094 317-0126a)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sspeedr" index="" image="">
+		<description>Super Speed Race</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1979</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ssrj" index="" image="">
+		<description>Super Speed Race Junior (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1985</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ssprintf" index="" image="">
+		<description>Super Sprint (French)</description>
+		<cloneof>ssprint</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ssprintg1" index="" image="">
+		<description>Super Sprint (German, rev 1)</description>
+		<cloneof>ssprint</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ssprintg" index="" image="">
+		<description>Super Sprint (German, rev 2)</description>
+		<cloneof>ssprint</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ssprint1" index="" image="">
+		<description>Super Sprint (rev 1)</description>
+		<cloneof>ssprint</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ssprint3" index="" image="">
+		<description>Super Sprint (rev 3)</description>
+		<cloneof>ssprint</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ssprint" index="" image="">
+		<description>Super Sprint (rev 4)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ssprints" index="" image="">
+		<description>Super Sprint (Spanish)</description>
+		<cloneof>ssprint</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="suzuka8hj" index="" image="">
+		<description>Suzuka 8 Hours (Japan)</description>
+		<cloneof>suzuka8h</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="suzuka8h" index="" image="">
+		<description>Suzuka 8 Hours (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="suzuk8h2" index="" image="">
+		<description>Suzuka 8 Hours 2 (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tail2nos" index="true" image="t">
+		<description>Tail to Nose - Great Championship</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>V-System Co.</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bounty" index="" image="">
+		<description>The Bounty</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Orca</manufacturer>
+		<year>1982</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trally" index="" image="">
+		<description>Thrash Rally (ALM-003)(ALH-003)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Alpha Denshi Co.</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="drivfrct" index="" image="">
+		<description>Top Racer (bootleg of Driving Force)</description>
+		<cloneof>drivfrcp</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (EMT Germany)</manufacturer>
+		<year>1984</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="topracern" index="" image="">
+		<description>Top Racer (no MB8841 + MB8842)</description>
+		<cloneof>polepos</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1982</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="topracera" index="" image="">
+		<description>Top Racer (with MB8841 + MB8842, 1983)</description>
+		<cloneof>polepos</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1983</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="topracer" index="" image="">
+		<description>Top Racer (with MB8841 + MB8842, 1984)</description>
+		<cloneof>polepos</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1984</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="topspeedu" index="" image="">
+		<description>Top Speed (US)</description>
+		<cloneof>topspeed</cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation (Romstar license)</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="topspeed" index="" image="">
+		<description>Top Speed (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1987</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tugboat" index="" image="">
+		<description>Tugboat</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Enter-Tech, Ltd.</manufacturer>
+		<year>1982</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="turbo" index="" image="">
+		<description>Turbo</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1981</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="turboa" index="" image="">
+		<description>Turbo (encrypted set 1)</description>
+		<cloneof>turbo</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1981</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="turbob" index="" image="">
+		<description>Turbo (encrypted set 2)</description>
+		<cloneof>turbo</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1981</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="toutrun1" index="" image="">
+		<description>Turbo Out Run (deluxe cockpit, FD1094 317-0109)</description>
+		<cloneof>toutrun</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="toutrun" index="" image="">
+		<description>Turbo Out Run (Out Run upgrade, FD1094 317-0118)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="toutrun3" index="" image="">
+		<description>Turbo Out Run (upright, FD1094 317-0107)</description>
+		<cloneof>toutrun</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mt_tout" index="" image="">
+		<description>Turbo Outrun (Mega-Tech)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="turbotag" index="" image="">
+		<description>Turbo Tag (prototype)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1985</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tx1" index="" image="">
+		<description>TX-1</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tatsumi</manufacturer>
+		<year>1983</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tx1a" index="" image="">
+		<description>TX-1 (Atari/Namco/Taito license)</description>
+		<cloneof>tx1</cloneof>
+		<crc></crc>
+		<manufacturer>Tatsumi (Atari/Namco/Taito license)</manufacturer>
+		<year>1983</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vaportrx" index="true" image="v">
+		<description>Vapor TRX</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1998</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vaportrxp" index="" image="">
+		<description>Vapor TRX (prototype)</description>
+		<cloneof>vaportrx</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1998</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vformula" index="" image="">
+		<description>Virtua Formula</description>
+		<cloneof>vr</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vr" index="" image="">
+		<description>Virtua Racing</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wecleman" index="true" image="w">
+		<description>WEC Le Mans 24</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1986</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wheelrun" index="" image="">
+		<description>Wheels Runner</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>International Games</manufacturer>
+		<year>19??</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="windheat" index="" image="">
+		<description>Winding Heat (EAA, Euro v2.11)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1996</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="windheatj" index="" image="">
+		<description>Winding Heat (JAA, Japan v2.11)</description>
+		<cloneof>windheat</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1996</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="windheatu" index="" image="">
+		<description>Winding Heat (UBC, USA v2.22)</description>
+		<cloneof>windheat</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1996</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="winrun" index="" image="">
+		<description>Winning Run</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1988</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="winrun91" index="" image="">
+		<description>Winning Run 91 (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="winrungp" index="" image="">
+		<description>Winning Run Suzuka Grand Prix (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1989</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wrally" index="" image="">
+		<description>World Rally (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gaelco</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wrallya" index="" image="">
+		<description>World Rally (set 2)</description>
+		<cloneof>wrally</cloneof>
+		<crc></crc>
+		<manufacturer>Gaelco</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wrallyb" index="" image="">
+		<description>World Rally (US, 930217)</description>
+		<cloneof>wrally</cloneof>
+		<crc></crc>
+		<manufacturer>Gaelco (Atari license)</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

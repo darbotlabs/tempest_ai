@@ -1,0 +1,989 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>MAME</listname>
+		<lastlistupdate>06/03/2012</lastlistupdate>
+		<listversion>.146 Ongoing</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="progolf" index="true" image="1">
+		<description>18 Holes Pro Golf (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1981</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mt_tgolf" index="true" image="a">
+		<description>Arnold Palmer Tournament Golf (Mega-Tech)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mgolf" index="" image="">
+		<description>Atari Mini Golf (prototype)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1978</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bigevglfj" index="true" image="b">
+		<description>Big Event Golf (Japan)</description>
+		<cloneof>bigevglf</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1986</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bigevglf" index="" image="">
+		<description>Big Event Golf (US)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1986</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bking" index="" image="">
+		<description>Birdie King</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1982</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bking2" index="" image="">
+		<description>Birdie King 2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bking3" index="" image="">
+		<description>Birdie King 3</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="birdtry" index="" image="">
+		<description>Birdie Try (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crgolfc" index="true" image="c">
+		<description>Champion Golf</description>
+		<cloneof>crgolf</cloneof>
+		<crc></crc>
+		<manufacturer>Nasco Japan</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crgolfbt" index="" image="">
+		<description>Champion Golf (bootleg)</description>
+		<cloneof>crgolf</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="compgolfo" index="" image="">
+		<description>Competition Golf Final Round (old version)</description>
+		<cloneof>compgolf</cloneof>
+		<crc></crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="compgolf" index="" image="">
+		<description>Competition Golf Final Round (revision 3)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1986</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="countryc" index="" image="">
+		<description>Country Club</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crgolfa" index="" image="">
+		<description>Crowns Golf (834-5419-03)</description>
+		<cloneof>crgolf</cloneof>
+		<crc></crc>
+		<manufacturer>Nasco Japan</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crgolf" index="" image="">
+		<description>Crowns Golf (834-5419-04)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nasco Japan</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crgolfb" index="" image="">
+		<description>Crowns Golf (set 3)</description>
+		<cloneof>crgolf</cloneof>
+		<crc></crc>
+		<manufacturer>Nasco Japan</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crgolfhi" index="" image="">
+		<description>Crowns Golf in Hawaii</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nasco Japan</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dcclubj" index="true" image="d">
+		<description>Dynamic Country Club (Japan, ROM Based)</description>
+		<cloneof>dcclub</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dcclubfd" index="" image="">
+		<description>Dynamic Country Club (US, Floppy Based, FD1094 317-0058-09d)</description>
+		<cloneof>dcclub</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dcclub" index="" image="">
+		<description>Dynamic Country Club (World, ROM Based)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="eaglshot" index="true" image="e">
+		<description>Eagle Shot Golf</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sammy</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="fitegolfu" index="true" image="f">
+		<description>Fighting Golf (US)</description>
+		<cloneof>fitegolf</cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="fitegolf" index="" image="">
+		<description>Fighting Golf (World?)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gpgolf" index="true" image="g">
+		<description>Golden Par Golf (Joystick, V1.1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Strata/Incredible Technologies</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gt97v120" index="" image="">
+		<description>Golden Tee &apos;97 (v1.20)</description>
+		<cloneof>gt97</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gt97v121" index="" image="">
+		<description>Golden Tee &apos;97 (v1.21)</description>
+		<cloneof>gt97</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gt97s121" index="" image="">
+		<description>Golden Tee &apos;97 (v1.21S)</description>
+		<cloneof>gt97</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gt97v122" index="" image="">
+		<description>Golden Tee &apos;97 (v1.22)</description>
+		<cloneof>gt97</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gt97" index="" image="">
+		<description>Golden Tee &apos;97 (v1.30)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gt97t240" index="" image="">
+		<description>Golden Tee &apos;97 Tournament (v2.40)</description>
+		<cloneof>gt97</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gt97t243" index="" image="">
+		<description>Golden Tee &apos;97 Tournament (v2.43)</description>
+		<cloneof>gt97</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gt98v100" index="" image="">
+		<description>Golden Tee &apos;98 (v1.00)</description>
+		<cloneof>gt98</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gt98s100" index="" image="">
+		<description>Golden Tee &apos;98 (v1.00S)</description>
+		<cloneof>gt98</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gt98" index="" image="">
+		<description>Golden Tee &apos;98 (v1.10)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gt98t303" index="" image="">
+		<description>Golden Tee &apos;98 Tournament (v3.03)</description>
+		<cloneof>gt98</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gt99" index="" image="">
+		<description>Golden Tee &apos;99 (v1.00)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gt99s100" index="" image="">
+		<description>Golden Tee &apos;99 (v1.00S)</description>
+		<cloneof>gt99</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gt99t400" index="" image="">
+		<description>Golden Tee &apos;99 Tournament (v4.00)</description>
+		<cloneof>gt99</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gt2k" index="" image="">
+		<description>Golden Tee 2K (v1.00)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>2000</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gt2kp100" index="" image="">
+		<description>Golden Tee 2K (v1.00) (alt protection)</description>
+		<cloneof>gt2k</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>2000</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gt2ks100" index="" image="">
+		<description>Golden Tee 2K (v1.00S)</description>
+		<cloneof>gt2k</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>2000</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gt2kt500" index="" image="">
+		<description>Golden Tee 2K Tournament (v5.00)</description>
+		<cloneof>gt2k</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>2000</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gt3dv14" index="" image="">
+		<description>Golden Tee 3D Golf (v1.4)</description>
+		<cloneof>gt3d</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gt3dv15" index="" image="">
+		<description>Golden Tee 3D Golf (v1.5)</description>
+		<cloneof>gt3d</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gt3dv16" index="" image="">
+		<description>Golden Tee 3D Golf (v1.6)</description>
+		<cloneof>gt3d</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gt3dv17" index="" image="">
+		<description>Golden Tee 3D Golf (v1.7)</description>
+		<cloneof>gt3d</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gt3dv18" index="" image="">
+		<description>Golden Tee 3D Golf (v1.8)</description>
+		<cloneof>gt3d</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gt3dl191" index="" image="">
+		<description>Golden Tee 3D Golf (v1.91L)</description>
+		<cloneof>gt3d</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gt3dl192" index="" image="">
+		<description>Golden Tee 3D Golf (v1.92L)</description>
+		<cloneof>gt3d</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gt3ds192" index="" image="">
+		<description>Golden Tee 3D Golf (v1.92S)</description>
+		<cloneof>gt3d</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gt3d" index="" image="">
+		<description>Golden Tee 3D Golf (v1.93N)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gt3dt211" index="" image="">
+		<description>Golden Tee 3D Golf Tournament (v2.11)</description>
+		<cloneof>gt3d</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gt3dt231" index="" image="">
+		<description>Golden Tee 3D Golf Tournament (v2.31)</description>
+		<cloneof>gt3d</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtclassc" index="" image="">
+		<description>Golden Tee Classic (v1.00)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>2001</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtclasscp" index="" image="">
+		<description>Golden Tee Classic (v1.00) (alt protection)</description>
+		<cloneof>gtclassc</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>2001</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtclasscs" index="" image="">
+		<description>Golden Tee Classic (v1.00S)</description>
+		<cloneof>gtclassc</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>2001</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtg" index="" image="">
+		<description>Golden Tee Golf (Joystick, v3.1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Strata/Incredible Technologies</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtgt1" index="" image="">
+		<description>Golden Tee Golf (Trackball, v1.0)</description>
+		<cloneof>gtg</cloneof>
+		<crc></crc>
+		<manufacturer>Strata/Incredible Technologies</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtgt" index="" image="">
+		<description>Golden Tee Golf (Trackball, v2.0)</description>
+		<cloneof>gtg</cloneof>
+		<crc></crc>
+		<manufacturer>Strata/Incredible Technologies</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtg2j" index="" image="">
+		<description>Golden Tee Golf II (Joystick, V1.0)</description>
+		<cloneof>gtg2</cloneof>
+		<crc></crc>
+		<manufacturer>Strata/Incredible Technologies</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtg2t" index="" image="">
+		<description>Golden Tee Golf II (Trackball, V1.1)</description>
+		<cloneof>gtg2</cloneof>
+		<crc></crc>
+		<manufacturer>Strata/Incredible Technologies</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtg2" index="" image="">
+		<description>Golden Tee Golf II (Trackball, V2.2)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Strata/Incredible Technologies</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtroyal" index="" image="">
+		<description>Golden Tee Royal Edition Tournament (v4.02)</description>
+		<cloneof>gt99</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gtsuprem" index="" image="">
+		<description>Golden Tee Supreme Edition Tournament (v5.10)</description>
+		<cloneof>gt2k</cloneof>
+		<crc></crc>
+		<manufacturer>Incredible Technologies</manufacturer>
+		<year>2002</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pc_golf" index="" image="">
+		<description>Golf (PlayChoice-10)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="glfgreat" index="" image="">
+		<description>Golfing Greats</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="glfgreatj" index="" image="">
+		<description>Golfing Greats (Japan)</description>
+		<cloneof>glfgreat</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mt_ggolf" index="" image="">
+		<description>Great Golf (Mega-Tech, SMS based)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sgmastj" index="true" image="j">
+		<description>Jumbo Ozaki Super Masters Golf (Japan, Floppy Based, FD1094 317-0058-05b)</description>
+		<cloneof>sgmast</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sgmastc" index="" image="">
+		<description>Jumbo Ozaki Super Masters Golf (World, Floppy Based, FD1094 317-0058-05c)</description>
+		<cloneof>sgmast</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ar_ldrb" index="true" image="l">
+		<description>Leader Board (Arcadia, set 1, V 2.4?)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Arcadia Systems</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ar_ldrba" index="" image="">
+		<description>Leader Board (Arcadia, set 2, V 2.5)</description>
+		<cloneof>ar_ldrb</cloneof>
+		<crc></crc>
+		<manufacturer>Arcadia Systems</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ar_ldrbb" index="" image="">
+		<description>Leader Board (Arcadia, set 3)</description>
+		<cloneof>ar_ldrb</cloneof>
+		<crc></crc>
+		<manufacturer>Arcadia Systems</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="majtitlej" index="true" image="m">
+		<description>Major Title (Japan)</description>
+		<cloneof>majtitle</cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="majtitle" index="" image="">
+		<description>Major Title (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="majtitl2j" index="" image="">
+		<description>Major Title 2 (Japan)</description>
+		<cloneof>majtitl2</cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="majtitl2" index="" image="">
+		<description>Major Title 2 (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pc_moglf" index="" image="">
+		<description>Mario&apos;s Open Golf (PlayChoice-10)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="minigolf2" index="" image="">
+		<description>Mini Golf (10/8/85)</description>
+		<cloneof>minigolf</cloneof>
+		<crc></crc>
+		<manufacturer>Bally/Sente</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="minigolf" index="" image="">
+		<description>Mini Golf (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally/Sente</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="turfmast" index="true" image="n">
+		<description>Neo Turf Masters / Big Tournament Golf</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nazca</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pblbeach" index="true" image="p">
+		<description>Pebble Beach - The Great Shot (JUE 950913 V0.990)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>T&amp;E Soft</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nss_skin" index="true" image="s">
+		<description>Skins Game (Nintendo Super System)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="suprgolf" index="" image="">
+		<description>Super Crowns Golf (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nasco</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="speglsht" index="" image="">
+		<description>Super Eagle Shot</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Seta</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="teedoff" index="true" image="t">
+		<description>Tee&apos;d Off (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1986</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="skingame" index="" image="">
+		<description>The Irem Skins Game (US set 1)</description>
+		<cloneof>majtitl2</cloneof>
+		<crc></crc>
+		<manufacturer>Irem America</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="skingame2" index="" image="">
+		<description>The Irem Skins Game (US set 2)</description>
+		<cloneof>majtitl2</cloneof>
+		<crc></crc>
+		<manufacturer>Irem America</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tpgolf" index="" image="">
+		<description>Top Player&apos;s Golf (NGM-003)(NGH-003)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cprogolf" index="" image="">
+		<description>Tournament Pro Golf (DECO Cassette)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1981</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cprogolfj" index="" image="">
+		<description>Tournament Pro Golf (DECO Cassette, Japan)</description>
+		<cloneof>cprogolf</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1981</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="usclssic" index="true" image="u">
+		<description>U.S. Classic</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Seta</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ladygolf" index="true" image="v">
+		<description>Vs. Stroke &amp; Match Golf (Ladies Version, set ?)</description>
+		<cloneof>smgolf</cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ladygolfe" index="" image="">
+		<description>Vs. Stroke &amp; Match Golf (Ladies Version, set E)</description>
+		<cloneof>smgolf</cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="smgolfj" index="" image="">
+		<description>Vs. Stroke &amp; Match Golf (Men Version) (Japan)</description>
+		<cloneof>smgolf</cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="smgolf" index="" image="">
+		<description>Vs. Stroke &amp; Match Golf (Men Version, set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="smgolfb" index="" image="">
+		<description>Vs. Stroke &amp; Match Golf (Men Version, set 2)</description>
+		<cloneof>smgolf</cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Golf</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

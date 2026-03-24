@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>MAME</listname>
+		<lastlistupdate>06/03/2012</lastlistupdate>
+		<listversion>.146 Ongoing</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="openice" index="true" image="2">
+		<description>2 On 2 Open Ice Challenge (rev 1.21)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Hockey</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bladestle" index="true" image="b">
+		<description>Blades of Steel (version E)</description>
+		<cloneof>bladestl</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Hockey</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bladestll" index="" image="">
+		<description>Blades of Steel (version L)</description>
+		<cloneof>bladestl</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Hockey</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bladestl" index="" image="">
+		<description>Blades of Steel (version T)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Hockey</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bullfgtr" index="" image="">
+		<description>Bull Fighter</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Alpha Denshi Co.</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Hockey</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bullfgtrs" index="" image="">
+		<description>Bull Fighter (Sega)</description>
+		<cloneof>bullfgtr</cloneof>
+		<crc></crc>
+		<manufacturer>Alpha Denshi Co. (Sega license)</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Hockey</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="faceoff" index="true" image="f">
+		<description>Face Off (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Hockey</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cfghtice" index="" image="">
+		<description>Fighting Ice Hockey (DECO Cassette)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Hockey</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hattrick" index="true" image="h">
+		<description>Hat Trick</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally/Sente</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Hockey</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hiticej" index="" image="">
+		<description>Hit the Ice (Japan)</description>
+		<cloneof>hitice</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation (licensed from Midway)</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Hockey</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hitice" index="" image="">
+		<description>Hit the Ice (US)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation (Williams license)</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Hockey</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hoccer" index="" image="">
+		<description>Hoccer (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Eastern Micro Electronics, Inc.</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Hockey</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hoccer2" index="" image="">
+		<description>Hoccer (set 2)</description>
+		<cloneof>hoccer</cloneof>
+		<crc></crc>
+		<manufacturer>Eastern Micro Electronics, Inc.</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Hockey</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mt_mlh" index="true" image="m">
+		<description>Mario Lemieux Hockey (Mega-Tech)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Hockey</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="slapshot" index="true" image="s">
+		<description>Slap Shot (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Hockey</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wg3dh" index="true" image="w">
+		<description>Wayne Gretzky&apos;s 3D Hockey</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Hockey</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

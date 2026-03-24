@@ -1,0 +1,369 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>MAME</listname>
+		<lastlistupdate>06/03/2012</lastlistupdate>
+		<listversion>.146 Ongoing</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="abcop" index="true" image="a">
+		<description>A.B. Cop (FD1094 317-0169b)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cybrcycc" index="true" image="c">
+		<description>Cyber Cycles (Rev. CB2 Ver.C)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1995</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="endurobl" index="true" image="e">
+		<description>Enduro Racer (bootleg set 1)</description>
+		<cloneof>enduror</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1986</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="enduror" index="" image="">
+		<description>Enduro Racer (YM2151, FD1089B 317-0013A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="enduror1" index="" image="">
+		<description>Enduro Racer (YM2203, FD1089B 317-0013A)</description>
+		<cloneof>enduror</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pc_ebike" index="" image="">
+		<description>Excite Bike (PlayChoice-10)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1984</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gprider1" index="true" image="g">
+		<description>GP Rider (US, FD1094 317-0162)</description>
+		<cloneof>gprider</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gprider" index="" image="">
+		<description>GP Rider (World, FD1094 317-0163)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hangon1" index="true" image="h">
+		<description>Hang-On</description>
+		<cloneof>hangon</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1985</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hangon" index="" image="">
+		<description>Hang-On (Rev A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1985</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hangonjr" index="" image="">
+		<description>Hang-On Jr.</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1985</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jcross" index="true" image="j">
+		<description>Jumping Cross</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1984</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kickridr" index="true" image="k">
+		<description>Kick Rider</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Universal</manufacturer>
+		<year>1984</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kikstart" index="" image="">
+		<description>Kick Start Wheelie King</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1984</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="shangonle" index="true" image="l">
+		<description>Limited Edition Hang-On</description>
+		<cloneof>shangon</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="motorace" index="true" image="m">
+		<description>MotoRace USA</description>
+		<cloneof>travrusa</cloneof>
+		<crc></crc>
+		<manufacturer>Irem (Williams license)</manufacturer>
+		<year>1983</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rachero" index="true" image="r">
+		<description>Racing Hero (FD1094 317-0144)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="radikalb" index="" image="">
+		<description>Radikal Bikers (Version 2.02)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gaelco</manufacturer>
+		<year>1998</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rallybik" index="" image="">
+		<description>Rally Bike / Dash Yarou</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Toaplan / Taito Corporation</manufacturer>
+		<year>1988</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ridhero" index="" image="">
+		<description>Riding Hero (NGM-006)(NGH-006)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1990</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ridheroh" index="" image="">
+		<description>Riding Hero (set 2)</description>
+		<cloneof>ridhero</cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1990</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="shtrider" index="true" image="s">
+		<description>Shot Rider</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Seibu Kaihatsu</manufacturer>
+		<year>1985</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="shtridera" index="" image="">
+		<description>Shot Rider (Sigma license)</description>
+		<cloneof>shtrider</cloneof>
+		<crc></crc>
+		<manufacturer>Seibu Kaihatsu (Sigma license)</manufacturer>
+		<year>1984</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="scrossu" index="" image="">
+		<description>Stadium Cross (US)</description>
+		<cloneof>scross</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="scross" index="" image="">
+		<description>Stadium Cross (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sprcros2" index="" image="">
+		<description>Super Cross II (Japan, set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>GM Shoji</manufacturer>
+		<year>1986</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sprcros2a" index="" image="">
+		<description>Super Cross II (Japan, set 2)</description>
+		<cloneof>sprcros2</cloneof>
+		<crc></crc>
+		<manufacturer>GM Shoji</manufacturer>
+		<year>1986</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="shangonrb" index="" image="">
+		<description>Super Hang-On (bootleg)</description>
+		<cloneof>shangon</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1992</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mt_shang" index="" image="">
+		<description>Super Hang-On (Mega-Tech)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="shangon2" index="" image="">
+		<description>Super Hang-On (mini ride-on, Rev A, FD1089B 317-0034)</description>
+		<cloneof>shangon</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="shangonro" index="" image="">
+		<description>Super Hang-On (ride-on, Japan, FD1094 317-0038)</description>
+		<cloneof>shangon</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="shangon3" index="" image="">
+		<description>Super Hang-On (sitdown/upright, FD1089B 317-0034)</description>
+		<cloneof>shangon</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="shangon" index="" image="">
+		<description>Super Hang-On (sitdown/upright, unprotected)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="travrusa" index="true" image="t">
+		<description>Traverse USA / Zippy Race</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1983</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="excitebk" index="true" image="v">
+		<description>Vs. Excitebike</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1984</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="excitebkj" index="" image="">
+		<description>Vs. Excitebike (Japan)</description>
+		<cloneof>excitebk</cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1984</year>
+		<genre>Motorcycle</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

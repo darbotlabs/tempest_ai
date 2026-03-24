@@ -1,0 +1,5679 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>MAME</listname>
+		<lastlistupdate>06/03/2012</lastlistupdate>
+		<listversion>.146 Ongoing</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="005" index="true" image="0">
+		<description>005</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="600" index="true" image="6">
+		<description>600</description>
+		<cloneof>turtles</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="abscam" index="true" image="a">
+		<description>Abscam</description>
+		<cloneof>puckman</cloneof>
+		<crc></crc>
+		<manufacturer>GL (US Billiards license)</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="actionhw" index="" image="">
+		<description>Action Hollywood</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>TCH</manufacturer>
+		<year>1995</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="superbon" index="" image="">
+		<description>Agent Super Bond (Scobra Hardware)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Signatron USA</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="alibaba" index="" image="">
+		<description>Ali Baba and 40 Thieves</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mt_asyn" index="" image="">
+		<description>Alien Syndrome (Mega-Tech, SMS based)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="aliensynjo" index="" image="">
+		<description>Alien Syndrome (set 1, Japan, old, System 16A, FD1089A 317-0033)</description>
+		<cloneof>aliensyn</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="aliensyn2" index="" image="">
+		<description>Alien Syndrome (set 2, System 16A, FD1089A 317-0033)</description>
+		<cloneof>aliensyn</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="aliensyn3" index="" image="">
+		<description>Alien Syndrome (set 3, System 16B, FD1089A 317-0033)</description>
+		<cloneof>aliensyn</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="aliensyn" index="" image="">
+		<description>Alien Syndrome (set 4, System 16B, unprotected)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="aliensyn5" index="" image="">
+		<description>Alien Syndrome (set 5, System 16A, FD1089B 317-0037)</description>
+		<cloneof>aliensyn</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="aliensynj" index="" image="">
+		<description>Alien Syndrome (set 6, Japan, new, System 16B, FD1089A 317-0033)</description>
+		<cloneof>aliensyn</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="maze" index="" image="">
+		<description>Amazing Maze</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1976</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="anteaterg" index="" image="">
+		<description>Ameisenbaer (German)</description>
+		<cloneof>anteater</cloneof>
+		<crc></crc>
+		<manufacturer>Tago Electronics (TV-Tuning license from Free Enterprise Games)</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="amidar" index="" image="">
+		<description>Amidar</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="amidarb" index="" image="">
+		<description>Amidar (bootleg)</description>
+		<cloneof>amidar</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="amidar1" index="" image="">
+		<description>Amidar (older)</description>
+		<cloneof>amidar</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="amidaro" index="" image="">
+		<description>Amidar (Olympia)</description>
+		<cloneof>amidar</cloneof>
+		<crc></crc>
+		<manufacturer>Konami (Olympia license)</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="amidars" index="" image="">
+		<description>Amidar (Scramble hardware)</description>
+		<cloneof>amidar</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="amidaru" index="" image="">
+		<description>Amidar (Stern Electronics)</description>
+		<cloneof>amidar</cloneof>
+		<crc></crc>
+		<manufacturer>Konami (Stern Electronics license)</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="amigo" index="" image="">
+		<description>Amigo</description>
+		<cloneof>amidar</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="anteater" index="" image="">
+		<description>Anteater</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tago Electronics</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="armora" index="" image="">
+		<description>Armor Attack</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Cinematronics</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="armorap" index="" image="">
+		<description>Armor Attack (prototype)</description>
+		<cloneof>armora</cloneof>
+		<crc></crc>
+		<manufacturer>Cinematronics</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="armorar" index="" image="">
+		<description>Armor Attack (Rock-Ola)</description>
+		<cloneof>armora</cloneof>
+		<crc></crc>
+		<manufacturer>Cinematronics (Rock-Ola license)</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="armorcar" index="" image="">
+		<description>Armored Car (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern Electronics</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="armorcar2" index="" image="">
+		<description>Armored Car (set 2)</description>
+		<cloneof>armorcar</cloneof>
+		<crc></crc>
+		<manufacturer>Stern Electronics</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="atompunk" index="" image="">
+		<description>Atomic Punk (US)</description>
+		<cloneof>dynablst</cloneof>
+		<crc></crc>
+		<manufacturer>Irem America (licensed from Hudson Soft)</manufacturer>
+		<year>1991</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="banbam" index="true" image="b">
+		<description>BanBam</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sun Electronics</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="barricad" index="" image="">
+		<description>Barricade</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>RamTek</manufacturer>
+		<year>1976</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="beezer" index="" image="">
+		<description>Beezer (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tong Electronic</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="beezer1" index="" image="">
+		<description>Beezer (set 2)</description>
+		<cloneof>beezer</cloneof>
+		<crc></crc>
+		<manufacturer>Tong Electronic</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="berzerkg" index="" image="">
+		<description>Berzerk (German Speech)</description>
+		<cloneof>berzerk</cloneof>
+		<crc></crc>
+		<manufacturer>Stern Electronics</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="berzerk" index="" image="">
+		<description>Berzerk (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern Electronics</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="berzerk1" index="" image="">
+		<description>Berzerk (set 2)</description>
+		<cloneof>berzerk</cloneof>
+		<crc></crc>
+		<manufacturer>Stern Electronics</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bbonk" index="" image="">
+		<description>Bigfoot Bonkers</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Meadows Games, Inc.</manufacturer>
+		<year>1976</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="blasto" index="" image="">
+		<description>Blasto</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gremlin</manufacturer>
+		<year>1978</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="blockade" index="" image="">
+		<description>Blockade</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gremlin</manufacturer>
+		<year>1976</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="blueprntj" index="" image="">
+		<description>Blue Print (Jaleco)</description>
+		<cloneof>blueprnt</cloneof>
+		<crc></crc>
+		<manufacturer>Zilec Electronics / Jaleco</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="blueprnt" index="" image="">
+		<description>Blue Print (Midway)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Zilec Electronics / Bally Midway</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bballoon" index="" image="">
+		<description>BnB Arcade</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Eolith</manufacturer>
+		<year>2003</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bomblord" index="" image="">
+		<description>Bomber Lord (bootleg)</description>
+		<cloneof>bbmanw</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1992</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bombrman" index="" image="">
+		<description>Bomber Man (Japan)</description>
+		<cloneof>dynablst</cloneof>
+		<crc></crc>
+		<manufacturer>Irem (licensed from Hudson Soft)</manufacturer>
+		<year>1991</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bbmanwj" index="" image="">
+		<description>Bomber Man World (Japan)</description>
+		<cloneof>bbmanw</cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1992</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bbmanw" index="" image="">
+		<description>Bomber Man World / New Dyna Blaster - Global Quest</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1992</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="boobhack" index="" image="">
+		<description>Booby Kids (Italian manufactured graphic hack / bootleg of Kid no Hore Hore Daisakusen (bootleg))</description>
+		<cloneof>horekid</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1987</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="borench" index="" image="">
+		<description>Borench</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="botanic" index="" image="">
+		<description>Botanic</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Valadon Automation (Itisa license)</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cbdash" index="" image="">
+		<description>Boulder Dash (DECO Cassette)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mf_bdash" index="" image="">
+		<description>Boulder Dash (Max-A-Flex)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Exidy / First Star Software</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bouldashj" index="" image="">
+		<description>Boulder Dash / Boulder Dash Part 2 (Japan)</description>
+		<cloneof>bouldash</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation (licensed from First Star)</manufacturer>
+		<year>1990</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bouldash" index="" image="">
+		<description>Boulder Dash / Boulder Dash Part 2 (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation (licensed from First Star)</manufacturer>
+		<year>1990</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="breywood" index="" image="">
+		<description>Breywood (Japan revision 2)</description>
+		<cloneof>shackled</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1986</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="brickyrd" index="" image="">
+		<description>Brickyard</description>
+		<cloneof>barricad</cloneof>
+		<crc></crc>
+		<manufacturer>RamTek</manufacturer>
+		<year>1976</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="brix" index="" image="">
+		<description>Brix</description>
+		<cloneof>zzyzzyxx</cloneof>
+		<crc></crc>
+		<manufacturer>Cinematronics / Advanced Microcomputer Systems</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bucaner" index="" image="">
+		<description>Buccaneer</description>
+		<cloneof>puckman</cloneof>
+		<crc></crc>
+		<manufacturer>hack</manufacturer>
+		<year>19??</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="burglarx" index="" image="">
+		<description>Burglar X</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Unico</manufacturer>
+		<year>1997</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="calipso" index="true" image="c">
+		<description>Calipso</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tago Electronics</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="calorie" index="" image="">
+		<description>Calorie Kun vs Moguranian</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="calorieb" index="" image="">
+		<description>Calorie Kun vs Moguranian (bootleg)</description>
+		<cloneof>calorie</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1986</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cameltryj" index="" image="">
+		<description>Cameltry (Japan, YM2610)</description>
+		<cloneof>cameltry</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1989</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cameltryau" index="" image="">
+		<description>Cameltry (US, YM2203 + M6295)</description>
+		<cloneof>cameltry</cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1989</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cameltry" index="" image="">
+		<description>Cameltry (US, YM2610)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1989</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cameltrya" index="" image="">
+		<description>Cameltry (World, YM2203 + M6295)</description>
+		<cloneof>cameltry</cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1989</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="canvas" index="" image="">
+		<description>Canvas Croquis</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="car2" index="" image="">
+		<description>Car 2 (bootleg of Head On 2)</description>
+		<cloneof>headon2</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (RZ Bologna)</manufacturer>
+		<year>1979</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ctrpllrp" index="" image="">
+		<description>Caterpillar Pacman Hack</description>
+		<cloneof>puckman</cloneof>
+		<crc></crc>
+		<manufacturer>hack</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cavelon" index="" image="">
+		<description>Cavelon</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jetsoft</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="chaknpop" index="" image="">
+		<description>Chack&apos;n Pop</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="changes" index="" image="">
+		<description>Changes</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Orca</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="changesa" index="" image="">
+		<description>Changes (EME license)</description>
+		<cloneof>changes</cloneof>
+		<crc></crc>
+		<manufacturer>Orca (Eastern Micro Electronics, Inc. license)</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="checkmat" index="" image="">
+		<description>Checkmate</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1977</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cheesech" index="" image="">
+		<description>Cheese Chase</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Art &amp; Magic</manufacturer>
+		<year>1994</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="comotion" index="" image="">
+		<description>Comotion</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gremlin</manufacturer>
+		<year>1976</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="countrunb" index="" image="">
+		<description>Counter Run (bootleg set 1)</description>
+		<cloneof>countrun</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1988</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crkdownj" index="" image="">
+		<description>Crack Down (Japan, Floppy Based, FD1094 317-0058-04b Rev A)</description>
+		<cloneof>crkdown</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mt_crack" index="" image="">
+		<description>Crack Down (Mega-Tech)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crkdownu" index="" image="">
+		<description>Crack Down (US, Floppy Based, FD1094 317-0058-04d)</description>
+		<cloneof>crkdown</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crkdown" index="" image="">
+		<description>Crack Down (World, Floppy Based, FD1094 317-0058-04c)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crash" index="" image="">
+		<description>Crash</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Exidy</manufacturer>
+		<year>1979</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hocrash" index="" image="">
+		<description>Crash (bootleg of Head On)</description>
+		<cloneof>headon</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (Fraber)</manufacturer>
+		<year>1979</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crbaloon" index="" image="">
+		<description>Crazy Balloon (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crbaloon2" index="" image="">
+		<description>Crazy Balloon (set 2)</description>
+		<cloneof>crbaloon</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crazywar" index="" image="">
+		<description>Crazy War</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Eolith</manufacturer>
+		<year>2002</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crockman" index="" image="">
+		<description>Crock-Man</description>
+		<cloneof>puckman</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (Rene Pierre)</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crushbl" index="" image="">
+		<description>Crush Roller (bootleg)</description>
+		<cloneof>crush</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crushbl2" index="" image="">
+		<description>Crush Roller (bootleg?)</description>
+		<cloneof>crush</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crush3" index="" image="">
+		<description>Crush Roller (Kural - bootleg?)</description>
+		<cloneof>crush</cloneof>
+		<crc></crc>
+		<manufacturer>Kural Electric</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crush2" index="" image="">
+		<description>Crush Roller (Kural Esco - bootleg?)</description>
+		<cloneof>crush</cloneof>
+		<crc></crc>
+		<manufacturer>Kural Esco Electric</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crush" index="" image="">
+		<description>Crush Roller (Kural Samno)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Kural Samno Electric</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crush4" index="" image="">
+		<description>Crush Roller (Kural TWT)</description>
+		<cloneof>crush</cloneof>
+		<crc></crc>
+		<manufacturer>Kural TWT</manufacturer>
+		<year>19??</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="crushs" index="" image="">
+		<description>Crush Roller (Sidam bootleg)</description>
+		<cloneof>crush</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (Sidam)</manufacturer>
+		<year>19??</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ccastlesj" index="" image="">
+		<description>Crystal Castles (joystick version)</description>
+		<cloneof>ccastles</cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ccastles1" index="" image="">
+		<description>Crystal Castles (version 1)</description>
+		<cloneof>ccastles</cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ccastles2" index="" image="">
+		<description>Crystal Castles (version 2)</description>
+		<cloneof>ccastles</cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ccastles3" index="" image="">
+		<description>Crystal Castles (version 3)</description>
+		<cloneof>ccastles</cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ccastlesf" index="" image="">
+		<description>Crystal Castles (version 3, French)</description>
+		<cloneof>ccastles</cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ccastlesg" index="" image="">
+		<description>Crystal Castles (version 3, German)</description>
+		<cloneof>ccastles</cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ccastlesp" index="" image="">
+		<description>Crystal Castles (version 3, Spanish)</description>
+		<cloneof>ccastles</cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ccastles" index="" image="">
+		<description>Crystal Castles (version 4)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dacholer" index="true" image="d">
+		<description>Dacholer</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="danceyes" index="" image="">
+		<description>Dancing Eyes (Japan, DC1/VER.A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1996</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddungeon" index="" image="">
+		<description>Dangerous Dungeons (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>The Game Room</manufacturer>
+		<year>1992</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddungeone" index="" image="">
+		<description>Dangerous Dungeons (set 2)</description>
+		<cloneof>ddungeon</cloneof>
+		<crc></crc>
+		<manufacturer>East Coast Coin Company</manufacturer>
+		<year>1992</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="darksealj" index="" image="">
+		<description>Dark Seal (Japan revision 4)</description>
+		<cloneof>darkseal</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1990</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="darkseal1" index="" image="">
+		<description>Dark Seal (World revision 1)</description>
+		<cloneof>darkseal</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1990</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="darkseal" index="" image="">
+		<description>Dark Seal (World revision 3)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1990</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dazzler" index="" image="">
+		<description>Dazzler</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Century Electronics</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="desterth" index="" image="">
+		<description>Destination Earth</description>
+		<cloneof>lrescue</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1979</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="devilfsh" index="" image="">
+		<description>Devil Fish</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Artic</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="devilfsg" index="" image="">
+		<description>Devil Fish (Galaxian hardware, bootleg?)</description>
+		<cloneof>devilfsh</cloneof>
+		<crc></crc>
+		<manufacturer>Vision / Artic</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="diamond" index="" image="">
+		<description>Diamond Run</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>KH Video</manufacturer>
+		<year>1989</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="digdugat1" index="" image="">
+		<description>Dig Dug (Atari, rev 1)</description>
+		<cloneof>digdug</cloneof>
+		<crc></crc>
+		<manufacturer>Namco (Atari license)</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="digdugat" index="" image="">
+		<description>Dig Dug (Atari, rev 2)</description>
+		<cloneof>digdug</cloneof>
+		<crc></crc>
+		<manufacturer>Namco (Atari license)</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="digsid" index="" image="">
+		<description>Dig Dug (manufactured by Sidam)</description>
+		<cloneof>digdug</cloneof>
+		<crc></crc>
+		<manufacturer>Namco (Sidam license)</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="digdug1" index="" image="">
+		<description>Dig Dug (rev 1)</description>
+		<cloneof>digdug</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="digdug" index="" image="">
+		<description>Dig Dug (rev 2)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="digger" index="" image="">
+		<description>Digger</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="diggerc" index="" image="">
+		<description>Digger (CVS)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Century Electronics</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="diggerma" index="" image="">
+		<description>Digger Man (prototype)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Kyle Hodgetts</manufacturer>
+		<year>2000</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dingo" index="" image="">
+		<description>Dingo</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Ashby Computers and Graphics Ltd. (Jaleco license)</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="disco" index="" image="">
+		<description>Disco No.1</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cdiscon1" index="" image="">
+		<description>Disco No.1 (DECO Cassette)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="discof" index="" image="">
+		<description>Disco No.1 (Rev.F)</description>
+		<cloneof>disco</cloneof>
+		<crc></crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dorunrunc" index="" image="">
+		<description>Do! Run Run (Do&apos;s Castle hardware, set 1)</description>
+		<cloneof>dorunrun</cloneof>
+		<crc></crc>
+		<manufacturer>Universal</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dorunrunca" index="" image="">
+		<description>Do! Run Run (Do&apos;s Castle hardware, set 2)</description>
+		<cloneof>dorunrun</cloneof>
+		<crc></crc>
+		<manufacturer>Universal</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dorunrun" index="" image="">
+		<description>Do! Run Run (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Universal</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dorunrun2" index="" image="">
+		<description>Do! Run Run (set 2)</description>
+		<cloneof>dorunrun</cloneof>
+		<crc></crc>
+		<manufacturer>Universal</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dodgem" index="" image="">
+		<description>Dodgem</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Zaccaria</manufacturer>
+		<year>1979</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dominos" index="" image="">
+		<description>Dominos</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1977</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dommy" index="" image="">
+		<description>Dommy</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Technos Japan</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dorachan" index="" image="">
+		<description>Dorachan</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Craul Denshi</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dorodon" index="" image="">
+		<description>Dorodon (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>UPL (Falcon license?)</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dorodon2" index="" image="">
+		<description>Dorodon (set 2)</description>
+		<cloneof>dorodon</cloneof>
+		<crc></crc>
+		<manufacturer>UPL (Falcon license?)</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dotrikun" index="" image="">
+		<description>Dottori Kun (new version)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dotrikun2" index="" image="">
+		<description>Dottori Kun (old version)</description>
+		<cloneof>dotrikun</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dungeonmu" index="" image="">
+		<description>Dungeon Magic (Ver 2.1A 1994/02/18)</description>
+		<cloneof>lightbr</cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1993</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dungeonm" index="" image="">
+		<description>Dungeon Magic (Ver 2.1O 1994/02/18)</description>
+		<cloneof>lightbr</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1993</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dynablst" index="" image="">
+		<description>Dynablaster / Bomber Man</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Irem (licensed from Hudson Soft)</manufacturer>
+		<year>1991</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dynablstb" index="" image="">
+		<description>Dynablaster / Bomber Man (bootleg)</description>
+		<cloneof>dynablst</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (Seitu)</manufacturer>
+		<year>1991</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dynablstb2" index="" image="">
+		<description>Dynablaster / Bomber Man (bootleg, alt)</description>
+		<cloneof>dynablst</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (Seitu)</manufacturer>
+		<year>1991</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="eggor" index="true" image="e">
+		<description>Eggor</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Telko</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="eggs" index="" image="">
+		<description>Eggs</description>
+		<cloneof>scregg</cloneof>
+		<crc></crc>
+		<manufacturer>Technos Japan / Universal USA</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="embargo" index="" image="">
+		<description>Embargo</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Cinematronics</manufacturer>
+		<year>1977</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="eprom" index="" image="">
+		<description>Escape from the Planet of the Robot Monsters (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1989</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="eprom2" index="" image="">
+		<description>Escape from the Planet of the Robot Monsters (set 2)</description>
+		<cloneof>eprom</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1989</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="exvaniaj" index="" image="">
+		<description>Exvania (Japan)</description>
+		<cloneof>exvania</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1992</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="exvania" index="" image="">
+		<description>Exvania (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1992</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="eyesb" index="" image="">
+		<description>Eyes (bootleg set 1)</description>
+		<cloneof>eyes</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="eyeszacb" index="" image="">
+		<description>Eyes (bootleg set 2, decrypted)</description>
+		<cloneof>eyes</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="eyes" index="" image="">
+		<description>Eyes (US set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Digitrex Techstar (Rock-Ola license)</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="eyes2" index="" image="">
+		<description>Eyes (US set 2)</description>
+		<cloneof>eyes</cloneof>
+		<crc></crc>
+		<manufacturer>Techstar (Rock-Ola license)</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="farmer" index="true" image="f">
+		<description>Farmers Rebellion</description>
+		<cloneof>ikki</cloneof>
+		<crc></crc>
+		<manufacturer>Sun Electronics</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="fastlane" index="" image="">
+		<description>Fast Lane</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1987</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="fitter" index="" image="">
+		<description>Fitter</description>
+		<cloneof>roundup</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="fitterbl" index="" image="">
+		<description>Fitter (bootleg)</description>
+		<cloneof>roundup</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="freeze" index="" image="">
+		<description>Freeze</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Cinematronics</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="frenzy" index="" image="">
+		<description>Frenzy</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern Electronics</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="friskyt" index="" image="">
+		<description>Frisky Tom (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="friskyta" index="" image="">
+		<description>Frisky Tom (set 2)</description>
+		<cloneof>friskyt</cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="froggers" index="" image="">
+		<description>Frog</description>
+		<cloneof>frogger</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="frogf" index="" image="">
+		<description>Frog (Falcon bootleg)</description>
+		<cloneof>frogger</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (Falcon)</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="frogg" index="" image="">
+		<description>Frog (Galaxian hardware)</description>
+		<cloneof>frogger</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="frogger" index="" image="">
+		<description>Frogger</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="froggermc" index="" image="">
+		<description>Frogger (Moon Cresta hardware)</description>
+		<cloneof>frogger</cloneof>
+		<crc></crc>
+		<manufacturer>Konami (Sega license)</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="froggers1" index="" image="">
+		<description>Frogger (Sega set 1)</description>
+		<cloneof>frogger</cloneof>
+		<crc></crc>
+		<manufacturer>Konami (Sega license)</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="froggers2" index="" image="">
+		<description>Frogger (Sega set 2)</description>
+		<cloneof>frogger</cloneof>
+		<crc></crc>
+		<manufacturer>Konami (Sega license)</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="grescue" index="true" image="g">
+		<description>Galaxy Rescue</description>
+		<cloneof>lrescue</cloneof>
+		<crc></crc>
+		<manufacturer>Taito (Universal license?)</manufacturer>
+		<year>1979</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="galpani3" index="" image="">
+		<description>Gals Panic 3 (Euro)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1995</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="galpani3j" index="" image="">
+		<description>Gals Panic 3 (Japan)</description>
+		<cloneof>galpani3</cloneof>
+		<crc></crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1995</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gatedoom1" index="" image="">
+		<description>Gate of Doom (US revision 1)</description>
+		<cloneof>darkseal</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1990</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gatedoom" index="" image="">
+		<description>Gate of Doom (US revision 4)</description>
+		<cloneof>darkseal</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1990</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gauntlet2pg1" index="" image="">
+		<description>Gauntlet (2 Players, German, rev 1)</description>
+		<cloneof>gauntlet</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gauntlet2pg" index="" image="">
+		<description>Gauntlet (2 Players, German, rev 4)</description>
+		<cloneof>gauntlet</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gauntlet2pj2" index="" image="">
+		<description>Gauntlet (2 Players, Japanese, rev 2)</description>
+		<cloneof>gauntlet</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gauntlet2pj" index="" image="">
+		<description>Gauntlet (2 Players, Japanese, rev 5)</description>
+		<cloneof>gauntlet</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gauntlet2pr3" index="" image="">
+		<description>Gauntlet (2 Players, rev 3)</description>
+		<cloneof>gauntlet</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gauntlet2p" index="" image="">
+		<description>Gauntlet (2 Players, rev 6)</description>
+		<cloneof>gauntlet</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gauntletg" index="" image="">
+		<description>Gauntlet (German, rev 10)</description>
+		<cloneof>gauntlet</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gauntletgr3" index="" image="">
+		<description>Gauntlet (German, rev 3)</description>
+		<cloneof>gauntlet</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gauntletgr6" index="" image="">
+		<description>Gauntlet (German, rev 6)</description>
+		<cloneof>gauntlet</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gauntletgr8" index="" image="">
+		<description>Gauntlet (German, rev 8)</description>
+		<cloneof>gauntlet</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gauntletj12" index="" image="">
+		<description>Gauntlet (Japanese, rev 12)</description>
+		<cloneof>gauntlet</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gauntletj" index="" image="">
+		<description>Gauntlet (Japanese, rev 13)</description>
+		<cloneof>gauntlet</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pc_gntlt" index="" image="">
+		<description>Gauntlet (PlayChoice-10)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari / Tengen (Nintendo of America license)</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gauntletr1" index="" image="">
+		<description>Gauntlet (rev 1)</description>
+		<cloneof>gauntlet</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gauntlet" index="" image="">
+		<description>Gauntlet (rev 14)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gauntletr2" index="" image="">
+		<description>Gauntlet (rev 2)</description>
+		<cloneof>gauntlet</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gauntletr4" index="" image="">
+		<description>Gauntlet (rev 4)</description>
+		<cloneof>gauntlet</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gauntletr5" index="" image="">
+		<description>Gauntlet (rev 5)</description>
+		<cloneof>gauntlet</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gauntletr7" index="" image="">
+		<description>Gauntlet (rev 7)</description>
+		<cloneof>gauntlet</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gauntletr9" index="" image="">
+		<description>Gauntlet (rev 9)</description>
+		<cloneof>gauntlet</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gauntlets" index="" image="">
+		<description>Gauntlet (Spanish, rev 15)</description>
+		<cloneof>gauntlet</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gauntdl24" index="" image="">
+		<description>Gauntlet Dark Legacy (version DL 2.4)</description>
+		<cloneof>gauntdl</cloneof>
+		<crc></crc>
+		<manufacturer>Midway Games</manufacturer>
+		<year>1999</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gauntdl" index="" image="">
+		<description>Gauntlet Dark Legacy (version DL 2.52)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway Games</manufacturer>
+		<year>1999</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gaunt2" index="" image="">
+		<description>Gauntlet II</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gaunt22pg" index="" image="">
+		<description>Gauntlet II (2 Players, German)</description>
+		<cloneof>gaunt2</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gaunt22p1" index="" image="">
+		<description>Gauntlet II (2 Players, rev 1)</description>
+		<cloneof>gaunt2</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gaunt22p" index="" image="">
+		<description>Gauntlet II (2 Players, rev 2)</description>
+		<cloneof>gaunt2</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gaunt2g" index="" image="">
+		<description>Gauntlet II (German)</description>
+		<cloneof>gaunt2</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1986</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gauntleg12" index="" image="">
+		<description>Gauntlet Legends (version 1.2)</description>
+		<cloneof>gauntleg</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1998</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gauntleg" index="" image="">
+		<description>Gauntlet Legends (version 1.6)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1998</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gogomile" index="" image="">
+		<description>Go Go! Mile Smile</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Fuuki</manufacturer>
+		<year>1995</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="goldbug" index="" image="">
+		<description>Gold Bug</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Century Electronics</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="imsorryj" index="" image="">
+		<description>Gonbee no I&apos;m Sorry (315-5110, Japan)</description>
+		<cloneof>imsorry</cloneof>
+		<crc></crc>
+		<manufacturer>Coreland / Sega</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gorkans" index="" image="">
+		<description>Gorkans</description>
+		<cloneof>mrtnt</cloneof>
+		<crc></crc>
+		<manufacturer>Techstar</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gotya" index="" image="">
+		<description>Got-Ya (12/24/1981, prototype?)</description>
+		<cloneof>thehand</cloneof>
+		<crc></crc>
+		<manufacturer>Game-A-Tron</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="grobda" index="" image="">
+		<description>Grobda (New Ver.)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="grobda2" index="" image="">
+		<description>Grobda (Old Ver. set 1)</description>
+		<cloneof>grobda</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="grobda3" index="" image="">
+		<description>Grobda (Old Ver. set 2)</description>
+		<cloneof>grobda</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="guzzler" index="" image="">
+		<description>Guzzler</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tehkan</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="guzzlers" index="" image="">
+		<description>Guzzler (Swimmer Conversion)</description>
+		<cloneof>guzzler</cloneof>
+		<crc></crc>
+		<manufacturer>Tehkan</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hangly" index="true" image="h">
+		<description>Hangly-Man (set 1)</description>
+		<cloneof>puckman</cloneof>
+		<crc></crc>
+		<manufacturer>hack</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hangly2" index="" image="">
+		<description>Hangly-Man (set 2)</description>
+		<cloneof>puckman</cloneof>
+		<crc></crc>
+		<manufacturer>hack</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hangly3" index="" image="">
+		<description>Hangly-Man (set 3)</description>
+		<cloneof>puckman</cloneof>
+		<crc></crc>
+		<manufacturer>hack</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hardhat" index="" image="">
+		<description>Hard Hat</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Exidy</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="headonb" index="" image="">
+		<description>Head On (1 player)</description>
+		<cloneof>headon</cloneof>
+		<crc></crc>
+		<manufacturer>Gremlin</manufacturer>
+		<year>1979</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="headon" index="" image="">
+		<description>Head On (2 players)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gremlin</manufacturer>
+		<year>1979</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="headoni" index="" image="">
+		<description>Head On (Irem, M-15 Hardware)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1979</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="headons" index="" image="">
+		<description>Head On (Sidam bootleg, set 1)</description>
+		<cloneof>headon</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (Sidam)</manufacturer>
+		<year>1979</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="headon2" index="" image="">
+		<description>Head On 2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1979</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="heartatk" index="" image="">
+		<description>Heart Attack</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Century Electronics</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="heiankyo" index="" image="">
+		<description>Heiankyo Alien</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Denki Onkyo</manufacturer>
+		<year>1979</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hero" index="" image="">
+		<description>Hero</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Century Electronics / Seatongrove Ltd</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="herodku" index="" image="">
+		<description>Hero in the Castle of Doom (DK conversion not encrypted)</description>
+		<cloneof>hero</cloneof>
+		<crc></crc>
+		<manufacturer>Seatongrove Ltd (Crown license)</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="herodk" index="" image="">
+		<description>Hero in the Castle of Doom (DK conversion)</description>
+		<cloneof>hero</cloneof>
+		<crc></crc>
+		<manufacturer>Seatongrove Ltd (Crown license)</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hotshock" index="" image="">
+		<description>Hot Shocker</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>E.G. Felaco (Domino license)</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hotshockb" index="" image="">
+		<description>Hot Shocker (early revision?)</description>
+		<cloneof>hotshock</cloneof>
+		<crc></crc>
+		<manufacturer>E.G. Felaco</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hustle" index="" image="">
+		<description>Hustle</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Gremlin</manufacturer>
+		<year>1977</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hyperpac" index="" image="">
+		<description>Hyper Pacman</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SemiCom</manufacturer>
+		<year>1995</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hyperpacb" index="" image="">
+		<description>Hyper Pacman (bootleg)</description>
+		<cloneof>hyperpac</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1995</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="imsorry" index="true" image="i">
+		<description>I&apos;m Sorry (315-5110, US)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Coreland / Sega</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="igmo" index="" image="">
+		<description>IGMO</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Epos Corporation</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ikki" index="" image="">
+		<description>Ikki (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sun Electronics</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="indytempc" index="" image="">
+		<description>Indiana Jones and the Temple of Doom (Cocktail)</description>
+		<cloneof>indytemp</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="indytempd" index="" image="">
+		<description>Indiana Jones and the Temple of Doom (German)</description>
+		<cloneof>indytemp</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="indytemp" index="" image="">
+		<description>Indiana Jones and the Temple of Doom (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="indytemp2" index="" image="">
+		<description>Indiana Jones and the Temple of Doom (set 2)</description>
+		<cloneof>indytemp</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="indytemp3" index="" image="">
+		<description>Indiana Jones and the Temple of Doom (set 3)</description>
+		<cloneof>indytemp</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="indytemp4" index="" image="">
+		<description>Indiana Jones and the Temple of Doom (set 4)</description>
+		<cloneof>indytemp</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="inferno" index="" image="">
+		<description>Inferno (Williams)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="intrepidb" index="" image="">
+		<description>Intrepid (bootleg)</description>
+		<cloneof>intrepid</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (Elsys)</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="intrepid" index="" image="">
+		<description>Intrepid (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nova Games Ltd.</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="intrepid2" index="" image="">
+		<description>Intrepid (set 2)</description>
+		<cloneof>intrepid</cloneof>
+		<crc></crc>
+		<manufacturer>Nova Games Ltd.</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ironfort" index="" image="">
+		<description>Iron Fortress</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Eolith</manufacturer>
+		<year>1998</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ironfortj" index="" image="">
+		<description>Iron Fortress (Japan)</description>
+		<cloneof>ironfort</cloneof>
+		<crc></crc>
+		<manufacturer>Eolith</manufacturer>
+		<year>1998</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="joinem" index="true" image="j">
+		<description>Joinem</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Global Corporation</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jollyjgr" index="" image="">
+		<description>Jolly Jogger</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="journey" index="" image="">
+		<description>Journey</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="joyman" index="" image="">
+		<description>Joyman</description>
+		<cloneof>puckman</cloneof>
+		<crc></crc>
+		<manufacturer>hack</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jrpacman" index="" image="">
+		<description>Jr. Pac-Man</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jrpacmbl" index="" image="">
+		<description>Jr. Pac-Man (Pengo hardware)</description>
+		<cloneof>jrpacman</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jungler" index="" image="">
+		<description>Jungler</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="junglers" index="" image="">
+		<description>Jungler (Stern Electronics)</description>
+		<cloneof>jungler</cloneof>
+		<crc></crc>
+		<manufacturer>Konami (Stern Electronics license)</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kamikcab" index="true" image="k">
+		<description>Kamikaze Cabbie</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kickboy" index="" image="">
+		<description>Kick Boy</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="horekid" index="" image="">
+		<description>Kid no Hore Hore Daisakusen</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1987</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="horekidb" index="" image="">
+		<description>Kid no Hore Hore Daisakusen (bootleg)</description>
+		<cloneof>horekid</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1987</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="phklad" index="" image="">
+		<description>Klad / Labyrinth (Photon System)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>unknown</manufacturer>
+		<year>19??</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="knockout" index="" image="">
+		<description>Knock Out!!</description>
+		<cloneof>triplep</cloneof>
+		<crc></crc>
+		<manufacturer>KKK</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rockragej" index="" image="">
+		<description>Koi no Hotrock (Japan)</description>
+		<cloneof>rockrage</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1986</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="korosuke" index="" image="">
+		<description>Korosuke Roller</description>
+		<cloneof>crush</cloneof>
+		<crc></crc>
+		<manufacturer>Kural Electric</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kram3" index="" image="">
+		<description>Kram (encrypted)</description>
+		<cloneof>kram</cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kram" index="" image="">
+		<description>Kram (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kram2" index="" image="">
+		<description>Kram (set 2)</description>
+		<cloneof>kram</cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ladybug" index="true" image="l">
+		<description>Lady Bug</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Universal</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ladybugg" index="" image="">
+		<description>Lady Bug (bootleg on Galaxian hardware)</description>
+		<cloneof>ladybug</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ladybugb" index="" image="">
+		<description>Lady Bug (bootleg set 1)</description>
+		<cloneof>ladybug</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ladybgb2" index="" image="">
+		<description>Lady Bug (bootleg set 2)</description>
+		<cloneof>ladybug</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ladyfrog" index="" image="">
+		<description>Lady Frog</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Mondial Games</manufacturer>
+		<year>1990</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lastfght" index="" image="">
+		<description>Last Fighting</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Subsino</manufacturer>
+		<year>2000</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lazercmd" index="" image="">
+		<description>Lazer Command</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Meadows Games, Inc.</manufacturer>
+		<year>1976</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lightbrj" index="" image="">
+		<description>Light Bringer (Ver 2.1J 1994/02/18)</description>
+		<cloneof>lightbr</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1993</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lightbr" index="" image="">
+		<description>Light Bringer (Ver 2.2O 1994/04/08)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1993</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lnc" index="" image="">
+		<description>Lock&apos;n&apos;Chase</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="clocknch" index="" image="">
+		<description>Lock&apos;n&apos;Chase (DECO Cassette)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="looper" index="" image="">
+		<description>Looper</description>
+		<cloneof>changes</cloneof>
+		<crc></crc>
+		<manufacturer>Orca</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="losttomb" index="" image="">
+		<description>Lost Tomb (easy)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Stern Electronics</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="losttombh" index="" image="">
+		<description>Lost Tomb (hard)</description>
+		<cloneof>losttomb</cloneof>
+		<crc></crc>
+		<manufacturer>Stern Electronics</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="loverboy" index="" image="">
+		<description>Lover Boy</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>G.T Enterprise Inc</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lrescue" index="" image="">
+		<description>Lunar Rescue</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1979</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lrescuem" index="" image="">
+		<description>Lunar Rescue (Model Racing bootleg)</description>
+		<cloneof>lrescue</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (Model Racing)</manufacturer>
+		<year>1978</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lupin3" index="" image="">
+		<description>Lupin III (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lupin3a" index="" image="">
+		<description>Lupin III (set 2)</description>
+		<cloneof>lupin3</cloneof>
+		<crc></crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="machomou" index="true" image="m">
+		<description>Macho Mouse</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Techstar</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="maddonna" index="" image="">
+		<description>Mad Donna (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tuning</manufacturer>
+		<year>1995</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mbrush" index="" image="">
+		<description>Magic Brush</description>
+		<cloneof>crush</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mgcrystlj" index="" image="">
+		<description>Magical Crystals (Japan, 92/01/13)</description>
+		<cloneof>mgcrystl</cloneof>
+		<crc></crc>
+		<manufacturer>Kaneko (Atlus license)</manufacturer>
+		<year>1991</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mgcrystlo" index="" image="">
+		<description>Magical Crystals (World, 91/12/10)</description>
+		<cloneof>mgcrystl</cloneof>
+		<crc></crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1991</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mgcrystl" index="" image="">
+		<description>Magical Crystals (World, 92/01/10)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1991</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="maketrax" index="" image="">
+		<description>Make Trax (set 1)</description>
+		<cloneof>crush</cloneof>
+		<crc></crc>
+		<manufacturer>Kural (Williams license)</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="maketrxb" index="" image="">
+		<description>Make Trax (set 2)</description>
+		<cloneof>crush</cloneof>
+		<crc></crc>
+		<manufacturer>Kural (Williams license)</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="marble" index="" image="">
+		<description>Marble Madness (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="marble2" index="" image="">
+		<description>Marble Madness (set 2)</description>
+		<cloneof>marble</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="marble3" index="" image="">
+		<description>Marble Madness (set 3)</description>
+		<cloneof>marble</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="marble4" index="" image="">
+		<description>Marble Madness (set 4)</description>
+		<cloneof>marble</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="marble5" index="" image="">
+		<description>Marble Madness (set 5 - LSI Cartridge)</description>
+		<cloneof>marble</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mmaze" index="" image="">
+		<description>Marchen Maze (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1988</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="marinedt" index="" image="">
+		<description>Marine Date</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="marvins" index="" image="">
+		<description>Marvin&apos;s Maze</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mazeinv" index="" image="">
+		<description>Maze Invaders (prototype)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mofflott" index="" image="">
+		<description>Maze of Flott (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1989</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="merlinmm" index="" image="">
+		<description>Merlins Money Maze</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Zilec-Zenitone</manufacturer>
+		<year>1986</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mwalkbl" index="" image="">
+		<description>Michael Jackson&apos;s Moonwalker (bootleg)</description>
+		<cloneof>mwalk</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1990</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mwalkj" index="" image="">
+		<description>Michael Jackson&apos;s Moonwalker (Japan, FD1094/8751 317-0157)</description>
+		<cloneof>mwalk</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mwalku" index="" image="">
+		<description>Michael Jackson&apos;s Moonwalker (US, FD1094/8751 317-0158)</description>
+		<cloneof>mwalk</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mwalk" index="" image="">
+		<description>Michael Jackson&apos;s Moonwalker (World, FD1094/8751 317-0159)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1990</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mineswpr" index="" image="">
+		<description>Minesweeper</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Amutech</manufacturer>
+		<year>1977</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mineswpr4" index="" image="">
+		<description>Minesweeper (4-Player)</description>
+		<cloneof>mineswpr</cloneof>
+		<crc></crc>
+		<manufacturer>Amutech</manufacturer>
+		<year>1977</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="moguchan" index="" image="">
+		<description>Moguchan</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Orca (Eastern Commerce Inc. license) (bootleg?)</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="monymony" index="" image="">
+		<description>Money Money</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Zaccaria</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mlander" index="" image="">
+		<description>Moon Lander (bootleg of Lunar Rescue)</description>
+		<cloneof>lrescue</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (Leisure Time Electronics)</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mtrap3" index="" image="">
+		<description>Mouse Trap (version 3)</description>
+		<cloneof>mtrap</cloneof>
+		<crc></crc>
+		<manufacturer>Exidy</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mtrap4" index="" image="">
+		<description>Mouse Trap (version 4)</description>
+		<cloneof>mtrap</cloneof>
+		<crc></crc>
+		<manufacturer>Exidy</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mtrap" index="" image="">
+		<description>Mouse Trap (version 5)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Exidy</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mouser" index="" image="">
+		<description>Mouser</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>UPL</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mouserc" index="" image="">
+		<description>Mouser (Cosmos)</description>
+		<cloneof>mouser</cloneof>
+		<crc></crc>
+		<manufacturer>UPL (Cosmos license)</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mrdo" index="" image="">
+		<description>Mr. Do!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Universal</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mrdofix" index="" image="">
+		<description>Mr. Do! (bugfixed)</description>
+		<cloneof>mrdo</cloneof>
+		<crc></crc>
+		<manufacturer>Universal (Taito license)</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mrdoy" index="" image="">
+		<description>Mr. Do! (prototype)</description>
+		<cloneof>mrdo</cloneof>
+		<crc></crc>
+		<manufacturer>Universal</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mrdot" index="" image="">
+		<description>Mr. Do! (Taito)</description>
+		<cloneof>mrdo</cloneof>
+		<crc></crc>
+		<manufacturer>Universal (Taito license)</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mrdu" index="" image="">
+		<description>Mr. Du!</description>
+		<cloneof>mrdo</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mrkicker" index="" image="">
+		<description>Mr. Kicker</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SemiCom</manufacturer>
+		<year>2001</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mrlo" index="" image="">
+		<description>Mr. Lo!</description>
+		<cloneof>mrdo</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mrtnt" index="" image="">
+		<description>Mr. TNT</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Techstar (Telko license)</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mspacmat" index="" image="">
+		<description>Ms. Pac Attack</description>
+		<cloneof>mspacman</cloneof>
+		<crc></crc>
+		<manufacturer>hack</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mspacman" index="" image="">
+		<description>Ms. Pac-Man</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway / General Computer Corporation</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mspacmab" index="" image="">
+		<description>Ms. Pac-Man (bootleg)</description>
+		<cloneof>mspacman</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mspacmbe" index="" image="">
+		<description>Ms. Pac-Man (bootleg, (encrypted))</description>
+		<cloneof>mspacman</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mspacmnf" index="" image="">
+		<description>Ms. Pac-Man (with speedup hack)</description>
+		<cloneof>mspacman</cloneof>
+		<crc></crc>
+		<manufacturer>Midway / General Computer Corporation</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mspacii" index="" image="">
+		<description>Ms. Pac-Man II (Orca bootleg set 1)</description>
+		<cloneof>mspacman</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (Orca)</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mspacii2" index="" image="">
+		<description>Ms. Pac-Man II (Orca bootleg set 2)</description>
+		<cloneof>mspacman</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (Orca)</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mspacpls" index="" image="">
+		<description>Ms. Pac-Man Plus</description>
+		<cloneof>mspacman</cloneof>
+		<crc></crc>
+		<manufacturer>hack</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="20pacgalr0" index="" image="">
+		<description>Ms. Pac-Man/Galaga - 20th Anniversary Class of 1981 Reunion (V1.00)</description>
+		<cloneof>20pacgal</cloneof>
+		<crc></crc>
+		<manufacturer>Namco / Cosmodog</manufacturer>
+		<year>2000</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="20pacgalr1" index="" image="">
+		<description>Ms. Pac-Man/Galaga - 20th Anniversary Class of 1981 Reunion (V1.01)</description>
+		<cloneof>20pacgal</cloneof>
+		<crc></crc>
+		<manufacturer>Namco / Cosmodog</manufacturer>
+		<year>2000</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="20pacgalr2" index="" image="">
+		<description>Ms. Pac-Man/Galaga - 20th Anniversary Class of 1981 Reunion (V1.02)</description>
+		<cloneof>20pacgal</cloneof>
+		<crc></crc>
+		<manufacturer>Namco / Cosmodog</manufacturer>
+		<year>2000</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="20pacgalr3" index="" image="">
+		<description>Ms. Pac-Man/Galaga - 20th Anniversary Class of 1981 Reunion (V1.03)</description>
+		<cloneof>20pacgal</cloneof>
+		<crc></crc>
+		<manufacturer>Namco / Cosmodog</manufacturer>
+		<year>2000</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="20pacgalr4" index="" image="">
+		<description>Ms. Pac-Man/Galaga - 20th Anniversary Class of 1981 Reunion (V1.04)</description>
+		<cloneof>20pacgal</cloneof>
+		<crc></crc>
+		<manufacturer>Namco / Cosmodog</manufacturer>
+		<year>2000</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="20pacgal" index="" image="">
+		<description>Ms. Pac-Man/Galaga - 20th Anniversary Class of 1981 Reunion (V1.08)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco / Cosmodog</manufacturer>
+		<year>2000</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mschamps" index="" image="">
+		<description>Ms. Pacman Champion Edition / Super Zola-Puc Gal</description>
+		<cloneof>mspacman</cloneof>
+		<crc></crc>
+		<manufacturer>hack</manufacturer>
+		<year>1995</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mschamp" index="" image="">
+		<description>Ms. Pacman Champion Edition / Zola-Puc Gal</description>
+		<cloneof>mspacman</cloneof>
+		<crc></crc>
+		<manufacturer>hack</manufacturer>
+		<year>1992</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mustache" index="" image="">
+		<description>Mustache Boy</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Seibu Kaihatsu (March license)</manufacturer>
+		<year>1987</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="alibabab" index="" image="">
+		<description>Mustafa and 40 Thieves (bootleg)</description>
+		<cloneof>alibaba</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mystston" index="" image="">
+		<description>Mysterious Stones - Dr. John&apos;s Adventure</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Technos Japan</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="myststono" index="" image="">
+		<description>Mysterious Stones - Dr. Kick in Adventure</description>
+		<cloneof>mystston</cloneof>
+		<crc></crc>
+		<manufacturer>Technos Japan</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="natodef" index="true" image="n">
+		<description>NATO Defense</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Pacific Novelty</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="natodefa" index="" image="">
+		<description>NATO Defense (alternate mazes)</description>
+		<cloneof>natodef</cloneof>
+		<crc></crc>
+		<manufacturer>Pacific Novelty</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="naughtyb" index="" image="">
+		<description>Naughty Boy</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="naughtyba" index="" image="">
+		<description>Naughty Boy (bootleg)</description>
+		<cloneof>naughtyb</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="naughtybc" index="" image="">
+		<description>Naughty Boy (Cinematronics)</description>
+		<cloneof>naughtyb</cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco (Cinematronics license)</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="neobombe" index="" image="">
+		<description>Neo Bomberman</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Hudson</manufacturer>
+		<year>1997</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="neomrdo" index="" image="">
+		<description>Neo Mr. Do!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Visco</manufacturer>
+		<year>1996</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="netwars" index="" image="">
+		<description>Net Wars</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Orca (Esco Trading Co license)</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="newapunk" index="" image="">
+		<description>New Atomic Punk - Global Quest (US)</description>
+		<cloneof>bbmanw</cloneof>
+		<crc></crc>
+		<manufacturer>Irem America</manufacturer>
+		<year>1992</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="newpuckx" index="" image="">
+		<description>New Puck-X</description>
+		<cloneof>puckman</cloneof>
+		<crc></crc>
+		<manufacturer>hack</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nrallyx" index="" image="">
+		<description>New Rally X</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nrallyxb" index="" image="">
+		<description>New Rally X (bootleg?) </description>
+		<cloneof>nrallyx</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="newsin7" index="" image="">
+		<description>New Sinbad 7</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ATW USA, Inc.</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="newpuc2" index="" image="">
+		<description>Newpuc2 (set 1)</description>
+		<cloneof>puckman</cloneof>
+		<crc></crc>
+		<manufacturer>hack</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="newpuc2b" index="" image="">
+		<description>Newpuc2 (set 2)</description>
+		<cloneof>puckman</cloneof>
+		<crc></crc>
+		<manufacturer>hack</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nibblero" index="" image="">
+		<description>Nibbler (Olympia - rev 8)</description>
+		<cloneof>nibbler</cloneof>
+		<crc></crc>
+		<manufacturer>Rock-Ola (Olympia license)</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nibblerp" index="" image="">
+		<description>Nibbler (Pioneer Balloon conversion)</description>
+		<cloneof>nibbler</cloneof>
+		<crc></crc>
+		<manufacturer>Rock-Ola</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nibbler6" index="" image="">
+		<description>Nibbler (rev 6)</description>
+		<cloneof>nibbler</cloneof>
+		<crc></crc>
+		<manufacturer>Rock-Ola</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nibbler8" index="" image="">
+		<description>Nibbler (rev 8)</description>
+		<cloneof>nibbler</cloneof>
+		<crc></crc>
+		<manufacturer>Rock-Ola</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nibbler" index="" image="">
+		<description>Nibbler (rev 9)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Rock-Ola</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="olibochu" index="true" image="o">
+		<description>Oli-Boo-Chu</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Irem / GDI</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="outline" index="" image="">
+		<description>Outline</description>
+		<cloneof>radarzon</cloneof>
+		<crc></crc>
+		<manufacturer>Century Electronics</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pacnpal" index="true" image="p">
+		<description>Pac &amp; Pal</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pacnpal2" index="" image="">
+		<description>Pac &amp; Pal (older)</description>
+		<cloneof>pacnpal</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pacgal" index="" image="">
+		<description>Pac-Gal</description>
+		<cloneof>mspacman</cloneof>
+		<crc></crc>
+		<manufacturer>hack</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pacnchmp" index="" image="">
+		<description>Pac-Man &amp; Chomp Chomp</description>
+		<cloneof>pacnpal</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pacmanbl" index="" image="">
+		<description>Pac-Man (Galaxian hardware, set 1)</description>
+		<cloneof>puckman</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pacmanbla" index="" image="">
+		<description>Pac-Man (Galaxian hardware, set 2)</description>
+		<cloneof>puckman</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pacheart" index="" image="">
+		<description>Pac-Man (Hearts)</description>
+		<cloneof>puckman</cloneof>
+		<crc></crc>
+		<manufacturer>hack</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pacman" index="" image="">
+		<description>Pac-Man (Midway)</description>
+		<cloneof>puckman</cloneof>
+		<crc></crc>
+		<manufacturer>Namco (Midway license)</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pacmod" index="" image="">
+		<description>Pac-Man (Midway, harder)</description>
+		<cloneof>puckman</cloneof>
+		<crc></crc>
+		<manufacturer>Namco (Midway license)</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pacmanf" index="" image="">
+		<description>Pac-Man (Midway, with speedup hack)</description>
+		<cloneof>puckman</cloneof>
+		<crc></crc>
+		<manufacturer>Namco (Midway license)</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="25pacman" index="" image="">
+		<description>Pac-Man - 25th Anniversary Edition (Rev 2.00)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>2005</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pacplus" index="" image="">
+		<description>Pac-Man Plus</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco (Midway license)</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pacmania" index="" image="">
+		<description>Pac-Mania</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1987</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pacmaniaj" index="" image="">
+		<description>Pac-Mania (Japan)</description>
+		<cloneof>pacmania</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1987</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="paintrlr" index="" image="">
+		<description>Paint Roller</description>
+		<cloneof>crush</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ppcar" index="" image="">
+		<description>Pang Pang Car</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Icarus</manufacturer>
+		<year>1999</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="panzer" index="" image="">
+		<description>Panzer (bootleg of Spectar)</description>
+		<cloneof>spectar</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (Proel)</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pass" index="" image="">
+		<description>Pass</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Oksan</manufacturer>
+		<year>1992</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pengob" index="" image="">
+		<description>Pengo (bootleg)</description>
+		<cloneof>pengo</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pengo" index="" image="">
+		<description>Pengo (set 1 rev c)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pengo2u" index="" image="">
+		<description>Pengo (set 2 not encrypted)</description>
+		<cloneof>pengo</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pengo2" index="" image="">
+		<description>Pengo (set 2)</description>
+		<cloneof>pengo</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pengo3u" index="" image="">
+		<description>Pengo (set 3 not encrypted)</description>
+		<cloneof>pengo</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pengo4" index="" image="">
+		<description>Pengo (set 4)</description>
+		<cloneof>pengo</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="penky" index="" image="">
+		<description>Penky</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Yun Sung</manufacturer>
+		<year>1996</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="penta" index="" image="">
+		<description>Penta</description>
+		<cloneof>pengo</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pepper27" index="" image="">
+		<description>Pepper II (version 7)</description>
+		<cloneof>pepper2</cloneof>
+		<crc></crc>
+		<manufacturer>Exidy</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pepper2" index="" image="">
+		<description>Pepper II (version 8)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Exidy</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="perfrman" index="" image="">
+		<description>Performan (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Toaplan / Data East Corporation</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="perfrmanu" index="" image="">
+		<description>Performan (US)</description>
+		<cloneof>perfrman</cloneof>
+		<crc></crc>
+		<manufacturer>Toaplan / Data East USA</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pettanp" index="" image="">
+		<description>Pettan Pyuu (Japan)</description>
+		<cloneof>banbam</cloneof>
+		<crc></crc>
+		<manufacturer>Sun Electronics</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="phantom" index="" image="">
+		<description>Phantom (bootleg of Spectar)</description>
+		<cloneof>spectar</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (Proel)</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="phantoma" index="" image="">
+		<description>Phantomas (bootleg of Spectar)</description>
+		<cloneof>spectar</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (Jeutel)</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="piranha" index="" image="">
+		<description>Piranha</description>
+		<cloneof>puckman</cloneof>
+		<crc></crc>
+		<manufacturer>GL (US Billiards license)</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="piranhah" index="" image="">
+		<description>Piranha (hack)</description>
+		<cloneof>puckman</cloneof>
+		<crc></crc>
+		<manufacturer>hack</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="piranhao" index="" image="">
+		<description>Piranha (older)</description>
+		<cloneof>puckman</cloneof>
+		<crc></crc>
+		<manufacturer>GL (US Billiards license)</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="higemaru" index="" image="">
+		<description>Pirate Ship Higemaru</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="poizone" index="" image="">
+		<description>Poizone</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Eterna</manufacturer>
+		<year>1991</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="popflamen" index="" image="">
+		<description>Pop Flamer (bootleg on Naughty Boy PCB)</description>
+		<cloneof>popflame</cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="popflameb" index="" image="">
+		<description>Pop Flamer (hack?)</description>
+		<cloneof>popflame</cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="popflamea" index="" image="">
+		<description>Pop Flamer (not protected)</description>
+		<cloneof>popflame</cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="popflame" index="" image="">
+		<description>Pop Flamer (protected)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="popeyeman" index="" image="">
+		<description>Popeye-Man</description>
+		<cloneof>puckman</cloneof>
+		<crc></crc>
+		<manufacturer>hack</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="psurge" index="" image="">
+		<description>Power Surge</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>unknown</manufacturer>
+		<year>1988</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="prikura" index="" image="">
+		<description>Princess Clara Daisakusen (J 960910 V1.000)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atlus</manufacturer>
+		<year>1996</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="puckmanh" index="" image="">
+		<description>Puckman (Falcom?)</description>
+		<cloneof>puckman</cloneof>
+		<crc></crc>
+		<manufacturer>hack</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="puckmanf" index="" image="">
+		<description>PuckMan (Japan set 1 with speedup hack)</description>
+		<cloneof>puckman</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="puckman" index="" image="">
+		<description>PuckMan (Japan set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="puckmana" index="" image="">
+		<description>PuckMan (Japan set 2)</description>
+		<cloneof>puckman</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="puckmod" index="" image="">
+		<description>PuckMan (Japan set 3)</description>
+		<cloneof>puckman</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="puckpkmn" index="" image="">
+		<description>Puckman Pockimon (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Genie</manufacturer>
+		<year>2000</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="puckpkmna" index="" image="">
+		<description>Puckman Pockimon (set 2)</description>
+		<cloneof>puckpkmn</cloneof>
+		<crc></crc>
+		<manufacturer>IBS</manufacturer>
+		<year>2000</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pulsar" index="" image="">
+		<description>Pulsar</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="phpython" index="" image="">
+		<description>Python (Photon System)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>unknown</manufacturer>
+		<year>1989?</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="quarteta" index="true" image="q">
+		<description>Quartet (8751 315-5194)</description>
+		<cloneof>quartet</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="quartet" index="" image="">
+		<description>Quartet (Rev A, 8751 315-5194)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="quartet2" index="" image="">
+		<description>Quartet 2 (8751 317-0010)</description>
+		<cloneof>quartet</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="quartet2a" index="" image="">
+		<description>Quartet 2 (unprotected)</description>
+		<cloneof>quartet</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1986</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="radarzon" index="true" image="r">
+		<description>Radar Zone</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Century Electronics</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="radarzon1" index="" image="">
+		<description>Radar Zone (Rev.1)</description>
+		<cloneof>radarzon</cloneof>
+		<crc></crc>
+		<manufacturer>Century Electronics</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="radarzont" index="" image="">
+		<description>Radar Zone (Tuni)</description>
+		<cloneof>radarzon</cloneof>
+		<crc></crc>
+		<manufacturer>Century Electronics (Tuni Electro Service Inc)</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="raiders5" index="" image="">
+		<description>Raiders5</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>UPL</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="raiders5t" index="" image="">
+		<description>Raiders5 (Japan)</description>
+		<cloneof>raiders5</cloneof>
+		<crc></crc>
+		<manufacturer>UPL (Taito license)</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="raimaisj" index="" image="">
+		<description>Raimais (Japan)</description>
+		<cloneof>raimais</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1988</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="raimaisjo" index="" image="">
+		<description>Raimais (Japan, first revision)</description>
+		<cloneof>raimais</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1988</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="raimais" index="" image="">
+		<description>Raimais (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1988</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rallyxa" index="" image="">
+		<description>Rally X</description>
+		<cloneof>rallyx</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rallyx" index="" image="">
+		<description>Rally X (32k Ver.?)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rallyxm" index="" image="">
+		<description>Rally X (Midway)</description>
+		<cloneof>rallyx</cloneof>
+		<crc></crc>
+		<manufacturer>Namco (Midway license)</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rallys" index="" image="">
+		<description>Rallys (bootleg of Spectar)</description>
+		<cloneof>spectar</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (Novar)</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ribbit" index="" image="">
+		<description>Ribbit!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="robby" index="" image="">
+		<description>Robby Roto</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rockduck" index="" image="">
+		<description>Rock Duck (prototype?)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Datel SAS</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rockragea" index="" image="">
+		<description>Rock&apos;n Rage (prototype?)</description>
+		<cloneof>rockrage</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1986</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rockrage" index="" image="">
+		<description>Rock&apos;n Rage (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1986</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="romperso" index="" image="">
+		<description>Rompers (Japan old version)</description>
+		<cloneof>rompers</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1989</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rompers" index="" image="">
+		<description>Rompers (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1989</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="clapapa2" index="" image="">
+		<description>Rootin&apos; Tootin&apos; (DECO Cassette)</description>
+		<cloneof>clapapa</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="clapapa" index="" image="">
+		<description>Rootin&apos; Tootin&apos; / La-Pa-Pa (DECO Cassette)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="roundup" index="" image="">
+		<description>Round-Up</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation (Amenip/Centuri license)</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="route16b" index="" image="">
+		<description>Route 16 (bootleg)</description>
+		<cloneof>route16</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="route16" index="" image="">
+		<description>Route 16 (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tehkan / Sun Electronics (Centuri license)</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="route16a" index="" image="">
+		<description>Route 16 (set 2)</description>
+		<cloneof>route16</cloneof>
+		<crc></crc>
+		<manufacturer>Tehkan / Sun Electronics (Centuri license)</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="routex" index="" image="">
+		<description>Route X (bootleg)</description>
+		<cloneof>route16</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rugrats" index="" image="">
+		<description>Rug Rats</description>
+		<cloneof>wiping</cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rumba" index="" image="">
+		<description>Rumba Lumber</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="runaway" index="" image="">
+		<description>Runaway (prototype)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="safarir" index="true" image="s">
+		<description>Safari Rally (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1979</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ssanchan" index="" image="">
+		<description>Sanrin San Chan (Japan)</description>
+		<cloneof>spatter</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="savanna" index="" image="">
+		<description>Savanna (Jungler bootleg)</description>
+		<cloneof>jungler</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (Olympia)</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="scregg" index="" image="">
+		<description>Scrambled Egg</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Technos Japan</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="selfeena" index="" image="">
+		<description>Sel Feena</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>East Technology</manufacturer>
+		<year>1991</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="shackled" index="" image="">
+		<description>Shackled (US)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East USA</manufacturer>
+		<year>1986</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="shocking" index="" image="">
+		<description>Shocking</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Yun Sung</manufacturer>
+		<year>1997</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="shockingk" index="" image="">
+		<description>Shocking (Korea)</description>
+		<cloneof>shocking</cloneof>
+		<crc></crc>
+		<manufacturer>Yun Sung</manufacturer>
+		<year>1997</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sidetrac" index="" image="">
+		<description>Side Track</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Exidy</manufacturer>
+		<year>1979</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="smash" index="" image="">
+		<description>Smash (Crash bootleg)</description>
+		<cloneof>crash</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1979</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="snapper" index="" image="">
+		<description>Snapper (Korea)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Philko</manufacturer>
+		<year>1990</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="solarfox" index="" image="">
+		<description>Solar Fox (upright)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pc_sjetm" index="" image="">
+		<description>Solar Jetman (PlayChoice-10)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Rare</manufacturer>
+		<year>1990</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="schaser" index="" image="">
+		<description>Space Chaser</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1979</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="schasercv" index="" image="">
+		<description>Space Chaser (CV version)</description>
+		<cloneof>schaser</cloneof>
+		<crc></crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1979</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="spacelnc" index="" image="">
+		<description>Space Launcher</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1979</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="spatter" index="" image="">
+		<description>Spatter</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="spectar1" index="" image="">
+		<description>Spectar (revision 1?)</description>
+		<cloneof>spectar</cloneof>
+		<crc></crc>
+		<manufacturer>Exidy</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="spectar" index="" image="">
+		<description>Spectar (revision 3)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Exidy</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="stlforce" index="" image="">
+		<description>Steel Force</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Electronic Devices Italy / Ecogames S.L. Spain</manufacturer>
+		<year>1994</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="streakng" index="" image="">
+		<description>Streaking (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Shoei</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="streaknga" index="" image="">
+		<description>Streaking (set 2)</description>
+		<cloneof>streakng</cloneof>
+		<crc></crc>
+		<manufacturer>Shoei</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="supcrash" index="" image="">
+		<description>Super Crash (bootleg of Head On)</description>
+		<cloneof>headon</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1979</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="superpac" index="" image="">
+		<description>Super Pac-Man</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="superpacm" index="" image="">
+		<description>Super Pac-Man (Midway)</description>
+		<cloneof>superpac</cloneof>
+		<crc></crc>
+		<manufacturer>Namco (Bally Midway license)</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="spiero" index="" image="">
+		<description>Super Pierrot (Japan)</description>
+		<cloneof>dorunrun</cloneof>
+		<crc></crc>
+		<manufacturer>Universal</manufacturer>
+		<year>1987</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="stoffy" index="" image="">
+		<description>Super Toffy</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midas (Unico license)</manufacturer>
+		<year>1994</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gogomilej" index="" image="">
+		<description>Susume! Mile Smile (Japan)</description>
+		<cloneof>gogomile</cloneof>
+		<crc></crc>
+		<manufacturer>Fuuki</manufacturer>
+		<year>1995</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="csweetht" index="" image="">
+		<description>Sweet Heart (DECO Cassette)</description>
+		<cloneof>cdiscon1</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ssingles" index="" image="">
+		<description>Swinging Singles</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Entertainment Enterprises, Ltd.</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="talbot" index="true" image="t">
+		<description>Talbot</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Alpha Denshi Co. (Volt Electronics license)</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tank8" index="" image="">
+		<description>Tank 8 (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari (Kee Games)</manufacturer>
+		<year>1976</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tankbatt" index="" image="">
+		<description>Tank Battalion</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tankbust" index="" image="">
+		<description>Tank Busters</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Valadon Automation</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tankfrcej" index="" image="">
+		<description>Tank Force (Japan)</description>
+		<cloneof>tankfrce</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1991</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tankfrce" index="" image="">
+		<description>Tank Force (US, 2 Player)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1991</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tankfrce4" index="" image="">
+		<description>Tank Force (US, 4 Player)</description>
+		<cloneof>tankfrce</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1991</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="targ" index="" image="">
+		<description>Targ</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Exidy</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="targc" index="" image="">
+		<description>Targ (cocktail?)</description>
+		<cloneof>targ</cloneof>
+		<crc></crc>
+		<manufacturer>Exidy</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="taxidriv" index="" image="">
+		<description>Taxi Driver</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Graphic Techno</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="anteateruk" index="" image="">
+		<description>The Anteater (UK)</description>
+		<cloneof>anteater</cloneof>
+		<crc></crc>
+		<manufacturer>Tago Electronics (Free Enterprise Games license</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="berenstn" index="" image="">
+		<description>The Berenstain Bears in Big Paw&apos;s Cave</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Enter-Tech, Ltd.</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="elecyoyo" index="" image="">
+		<description>The Electric Yo-Yo (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="elecyoyo2" index="" image="">
+		<description>The Electric Yo-Yo (set 2)</description>
+		<cloneof>elecyoyo</cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="thehand" index="" image="">
+		<description>The Hand</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>T.I.C.</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="irrmaze" index="" image="">
+		<description>The Irritating Maze / Ultra Denryu Iraira Bou</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK / Saurus</manufacturer>
+		<year>1997</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="thepit" index="" image="">
+		<description>The Pit</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Zilec Electronics</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="thepitm" index="" image="">
+		<description>The Pit (bootleg on Moon Quasar hardware)</description>
+		<cloneof>thepit</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (KZH)</manufacturer>
+		<year>198?</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="thepitj" index="" image="">
+		<description>The Pit (Japan)</description>
+		<cloneof>thepit</cloneof>
+		<crc></crc>
+		<manufacturer>Zilec Electronics (Taito license)</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="thepitu1" index="" image="">
+		<description>The Pit (US, set 1)</description>
+		<cloneof>thepit</cloneof>
+		<crc></crc>
+		<manufacturer>Zilec Electronics (Centuri license)</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="thepitu2" index="" image="">
+		<description>The Pit (US, set 2)</description>
+		<cloneof>thepit</cloneof>
+		<crc></crc>
+		<manufacturer>Zilec Electronics (Centuri license)</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="roishtar" index="" image="">
+		<description>The Return of Ishtar</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1986</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="todruaga" index="" image="">
+		<description>The Tower of Druaga (New Ver.)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="todruagao" index="" image="">
+		<description>The Tower of Druaga (Old Ver.)</description>
+		<cloneof>todruaga</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="todruagas" index="" image="">
+		<description>The Tower of Druaga (Sidam)</description>
+		<cloneof>todruaga</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg? (Sidam)</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="thief" index="" image="">
+		<description>Thief</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Pacific Novelty</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="timetunl" index="" image="">
+		<description>Time Tunnel</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tinklpit" index="" image="">
+		<description>Tinkle Pit (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1993</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="toffy" index="" image="">
+		<description>Toffy</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midas</manufacturer>
+		<year>1993</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="toggle" index="" image="">
+		<description>Toggle (prototype)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally/Sente</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="toucheme" index="" image="">
+		<description>Touche Me</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>unknown</manufacturer>
+		<year>19??</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="toypop" index="" image="">
+		<description>Toypop</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1986</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tranqgun" index="" image="">
+		<description>Tranquillizer Gun</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ctisland" index="" image="">
+		<description>Treasure Island (DECO Cassette, set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ctisland2" index="" image="">
+		<description>Treasure Island (DECO Cassette, set 2)</description>
+		<cloneof>ctisland</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="triplep" index="" image="">
+		<description>Triple Punch</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>KKI</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trogpa4" index="" image="">
+		<description>Trog (prototype, rev 4.00 07/27/90)</description>
+		<cloneof>trog</cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1990</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trogpa6" index="" image="">
+		<description>Trog (prototype, rev PA6-PAC 09/09/90)</description>
+		<cloneof>trog</cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1990</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trog3" index="" image="">
+		<description>Trog (rev LA3 02/14/91)</description>
+		<cloneof>trog</cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1990</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trog4" index="" image="">
+		<description>Trog (rev LA4 03/11/91)</description>
+		<cloneof>trog</cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1990</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trog" index="" image="">
+		<description>Trog (rev LA5 03/29/91)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1990</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="turpin" index="" image="">
+		<description>Turpin</description>
+		<cloneof>turtles</cloneof>
+		<crc></crc>
+		<manufacturer>Konami (Sega license)</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="turpins" index="" image="">
+		<description>Turpin (bootleg on Scramble hardware)</description>
+		<cloneof>turtles</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="turtles" index="" image="">
+		<description>Turtles</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami (Stern Electronics license)</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tutankhm" index="" image="">
+		<description>Tutankham</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tutankhms" index="" image="">
+		<description>Tutankham (Stern Electronics)</description>
+		<cloneof>tutankhm</cloneof>
+		<crc></crc>
+		<manufacturer>Konami (Stern Electronics license)</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="twinbrat" index="" image="">
+		<description>Twin Brats (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Elettronica Video-Games S.R.L.</manufacturer>
+		<year>1995</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="twinbrata" index="" image="">
+		<description>Twin Brats (set 2)</description>
+		<cloneof>twinbrat</cloneof>
+		<crc></crc>
+		<manufacturer>Elettronica Video-Games S.R.L.</manufacturer>
+		<year>1995</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="twinkle" index="" image="">
+		<description>Twinkle</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SemiCom</manufacturer>
+		<year>1997</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tylz" index="" image="">
+		<description>Tylz (prototype)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Mylstar</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ufosensi" index="true" image="u">
+		<description>Ufo Senshi Yohko Chan (MC-8123, 317-0064)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1988</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ufosensib" index="" image="">
+		<description>Ufo Senshi Yohko Chan (not encrypted)</description>
+		<cloneof>ufosensi</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1988</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pc_ftqst" index="" image="">
+		<description>Uncle Fester&apos;s Quest: The Addams Family (PlayChoice-10)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sunsoft (Nintendo of America license)</manufacturer>
+		<year>1989</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="unclepoo" index="" image="">
+		<description>Uncle Poo</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Diatec</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="unkpacg" index="" image="">
+		<description>unknown Pac-Man gambling game</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>unknown</manufacturer>
+		<year>199?</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="upndown" index="" image="">
+		<description>Up&apos;n Down (315-5030)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="upndownu" index="" image="">
+		<description>Up&apos;n Down (not encrypted)</description>
+		<cloneof>upndown</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vanvan" index="true" image="v">
+		<description>Van-Van Car</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sanritsu</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vanvank" index="" image="">
+		<description>Van-Van Car (Karateco set 1)</description>
+		<cloneof>vanvan</cloneof>
+		<crc></crc>
+		<manufacturer>Sanritsu (Karateco license?)</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vanvanb" index="" image="">
+		<description>Van-Van Car (Karateco set 2)</description>
+		<cloneof>vanvan</cloneof>
+		<crc></crc>
+		<manufacturer>Sanritsu (Karateco license?)</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="venture4" index="" image="">
+		<description>Venture (version 4)</description>
+		<cloneof>venture</cloneof>
+		<crc></crc>
+		<manufacturer>Exidy</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="venture" index="" image="">
+		<description>Venture (version 5 set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Exidy</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="venture2" index="" image="">
+		<description>Venture (version 5 set 2)</description>
+		<cloneof>venture</cloneof>
+		<crc></crc>
+		<manufacturer>Exidy</manufacturer>
+		<year>1981</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="btlecity" index="" image="">
+		<description>Vs. Battle City</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1985</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wiping" index="true" image="w">
+		<description>Wiping</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wits" index="" image="">
+		<description>Wit&apos;s (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Athena (Visco license)</manufacturer>
+		<year>1989</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wow" index="" image="">
+		<description>Wizard of Wor</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wowg" index="" image="">
+		<description>Wizard of Wor (with German Language ROM)</description>
+		<cloneof>wow</cloneof>
+		<crc></crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1980</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="xybotsf" index="true" image="x">
+		<description>Xybots (French, rev 3)</description>
+		<cloneof>xybots</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="xybotsg" index="" image="">
+		<description>Xybots (German, rev 3)</description>
+		<cloneof>xybots</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="xybots0" index="" image="">
+		<description>Xybots (rev 0)</description>
+		<cloneof>xybots</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="xybots1" index="" image="">
+		<description>Xybots (rev 1)</description>
+		<cloneof>xybots</cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="xybots" index="" image="">
+		<description>Xybots (rev 2)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1987</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="yankeedo" index="true" image="y">
+		<description>Yankee DO!</description>
+		<cloneof>mrdo</cloneof>
+		<crc></crc>
+		<manufacturer>hack</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="yellowcbb" index="" image="">
+		<description>Yellow Cab (bootleg)</description>
+		<cloneof>kamikcab</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="yellowcbj" index="" image="">
+		<description>Yellow Cab (Japan)</description>
+		<cloneof>kamikcab</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1984</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="czeroize" index="true" image="z">
+		<description>Zeroize (DECO Cassette)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1983</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dzigzag" index="" image="">
+		<description>Zig Zag (Dig Dug hardware)</description>
+		<cloneof>digdug</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="zigzag" index="" image="">
+		<description>Zig Zag (Galaxian hardware, set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (LAX)</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="zigzag2" index="" image="">
+		<description>Zig Zag (Galaxian hardware, set 2)</description>
+		<cloneof>zigzag</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (LAX)</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="zzyzzyxx" index="" image="">
+		<description>Zzyzzyxx (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Cinematronics / Advanced Microcomputer Systems</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="zzyzzyxx2" index="" image="">
+		<description>Zzyzzyxx (set 2)</description>
+		<cloneof>zzyzzyxx</cloneof>
+		<crc></crc>
+		<manufacturer>Cinematronics / Advanced Microcomputer Systems</manufacturer>
+		<year>1982</year>
+		<genre>Maze</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

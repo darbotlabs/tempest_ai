@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>MAME</listname>
+		<lastlistupdate>06/03/2012</lastlistupdate>
+		<listversion>.146 Ongoing</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="clshroad" index="true" image="c">
+		<description>Clash-Road</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Wood Place Inc.</manufacturer>
+		<year>1986</year>
+		<genre>Sports/Biking</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="clshroadd" index="" image="">
+		<description>Clash-Road (Data East license)</description>
+		<cloneof>clshroad</cloneof>
+		<crc></crc>
+		<manufacturer>Wood Place Inc. (Data East license)</manufacturer>
+		<year>1986</year>
+		<genre>Sports/Biking</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="clshroads" index="" image="">
+		<description>Clash-Road (Status license)</description>
+		<cloneof>clshroad</cloneof>
+		<crc></crc>
+		<manufacturer>Wood Place Inc. (Status Game Corp. license)</manufacturer>
+		<year>1986</year>
+		<genre>Sports/Biking</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

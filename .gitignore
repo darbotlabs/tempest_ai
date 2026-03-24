@@ -15,6 +15,7 @@ roms/
 *.cue
 *.iso
 *.rom
+MAME_ROMS/
 *.bak
 models/game_settings.json
 models/*_replay/

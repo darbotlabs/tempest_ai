@@ -1,0 +1,1209 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>MAME</listname>
+		<lastlistupdate>06/03/2012</lastlistupdate>
+		<listversion>.146 Ongoing</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="39in1" index="true" image="3">
+		<description>39 in 1 MAME bootleg</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>2004</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="4in1" index="true" image="4">
+		<description>4 Fun in 1</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Armenia / Food and Fun</manufacturer>
+		<year>1981</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="alphaho" index="true" image="a">
+		<description>Alpha Fighter / Head On</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>19??</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="arcadecl" index="" image="">
+		<description>Arcade Classics (prototype)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari Games</manufacturer>
+		<year>1992</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bestri" index="true" image="b">
+		<description>Bestri (Korea)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>F2 System</manufacturer>
+		<year>1998</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mt_calga" index="true" image="c">
+		<description>California Games (Mega-Tech)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cscluba" index="" image="">
+		<description>Capcom Sports Club (Asia 970722)</description>
+		<cloneof>csclub</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="csclub1d" index="" image="">
+		<description>Capcom Sports Club (Euro 970722 Phoenix Edition) (bootleg)</description>
+		<cloneof>csclub</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="csclub1" index="" image="">
+		<description>Capcom Sports Club (Euro 970722)</description>
+		<cloneof>csclub</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="csclub" index="" image="">
+		<description>Capcom Sports Club (Euro 971017)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="csclubh" index="" image="">
+		<description>Capcom Sports Club (Hispanic 970722)</description>
+		<cloneof>csclub</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="csclubj" index="" image="">
+		<description>Capcom Sports Club (Japan 970722)</description>
+		<cloneof>csclub</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="famibox" index="true" image="f">
+		<description>FamicomBox</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1986</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="funcube2" index="" image="">
+		<description>Funcube 2 (v1.1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>2001</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="funcube3" index="" image="">
+		<description>Funcube 3 (v1.1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>2001</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="funcube4" index="" image="">
+		<description>Funcube 4 (v1.0)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>2001</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="funcube5" index="" image="">
+		<description>Funcube 5 (v1.0)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>2002</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="galgame2" index="true" image="g">
+		<description>Galaxy Games StarPak 2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Creative Electronics &amp; Software / Namco</manufacturer>
+		<year>1998</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="usg185" index="" image="">
+		<description>Games V18.7C</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>U.S. Games</manufacturer>
+		<year>1991</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="usg252" index="" image="">
+		<description>Games V25.4X</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>U.S. Games</manufacturer>
+		<year>1992</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gmgalax" index="" image="">
+		<description>Ghostmuncher Galaxian (bootleg)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1981</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="invds" index="true" image="i">
+		<description>Invinco / Deep Scan</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1979</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="invho2" index="" image="">
+		<description>Invinco / Head On 2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1979</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="janptr96" index="true" image="j">
+		<description>Janputer &apos;96 (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1996</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kingpin" index="true" image="k">
+		<description>King Pin</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>American Communication Laboratories Inc.</manufacturer>
+		<year>1983</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="konam80a" index="" image="">
+		<description>Konami 80&apos;s AC Special (GC826 VER. AAA)</description>
+		<cloneof>konam80s</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1998</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="konam80s" index="" image="">
+		<description>Konami 80&apos;s AC Special (GC826 VER. EAA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1998</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="konam80k" index="" image="">
+		<description>Konami 80&apos;s AC Special (GC826 VER. KAA)</description>
+		<cloneof>konam80s</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1998</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="konam80u" index="" image="">
+		<description>Konami 80&apos;s AC Special (GC826 VER. UAA)</description>
+		<cloneof>konam80s</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1998</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="konam80j" index="" image="">
+		<description>Konami 80&apos;s Gallery (GC826 VER. JAA)</description>
+		<cloneof>konam80s</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1998</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat5" index="true" image="m">
+		<description>Megatouch 5 (9255-60-01 ROI, Standard version)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1997</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Yellow (Sexual Content Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat5nj" index="" image="">
+		<description>Megatouch 5 (9255-60-07 RON, New Jersey version)</description>
+		<cloneof>megat5</cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1998</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Yellow (Sexual Content Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat5tg" index="" image="">
+		<description>Megatouch 5 Turnier Version (9255-70-50 ROD, Bi-Lingual GER/ENG version)</description>
+		<cloneof>megat5</cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1998</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Yellow (Sexual Content Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat6" index="" image="">
+		<description>Megatouch 6 (9255-80-01 ROA, Standard version)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1998</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat3a" index="" image="">
+		<description>Megatouch III (9255-20-01 ROF, Standard version)</description>
+		<cloneof>megat3</cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1995</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat3" index="" image="">
+		<description>Megatouch III (9255-20-01 RON, Standard version)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1996</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat3cb" index="" image="">
+		<description>Megatouch III (9255-20-06 ROD, California version)</description>
+		<cloneof>megat3</cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1995</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat3ca" index="" image="">
+		<description>Megatouch III (9255-20-06 RON, California version)</description>
+		<cloneof>megat3</cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1996</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat3nj" index="" image="">
+		<description>Megatouch III (9255-20-07 ROG, New Jersey version)</description>
+		<cloneof>megat3</cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1995</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat3te" index="" image="">
+		<description>Megatouch III Tournament Edition (9255-30-01 ROE, Standard version)</description>
+		<cloneof>megat3</cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1996</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat4c" index="" image="">
+		<description>Megatouch IV (9255-40-01 RO, Standard version)</description>
+		<cloneof>megat4</cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1996</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat4a" index="" image="">
+		<description>Megatouch IV (9255-40-01 ROD, Standard version)</description>
+		<cloneof>megat4</cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1996</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat4" index="" image="">
+		<description>Megatouch IV (9255-40-01 ROE, Standard version)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1996</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat4tea" index="" image="">
+		<description>Megatouch IV Tournament Edition (9255-50-01 ROA, Standard version)</description>
+		<cloneof>megat4</cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1996</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat4te" index="" image="">
+		<description>Megatouch IV Tournament Edition (9255-50-01 ROD, Standard version)</description>
+		<cloneof>megat4</cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1996</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nmg5" index="" image="">
+		<description>Multi 5 / New Multi Game 5</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Yun Sung</manufacturer>
+		<year>1998</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nmg5e" index="" image="">
+		<description>Multi 5 / New Multi Game 5 (earlier)</description>
+		<cloneof>nmg5</cloneof>
+		<crc></crc>
+		<manufacturer>Yun Sung</manufacturer>
+		<year>1997</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mchampdx" index="" image="">
+		<description>Multi Champ Deluxe (ver. 0106, 06/01/2000)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ESD</manufacturer>
+		<year>2000</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mchampdxb" index="" image="">
+		<description>Multi Champ Deluxe (ver. 1114, 14/11/1999)</description>
+		<cloneof>mchampdx</cloneof>
+		<crc></crc>
+		<manufacturer>ESD</manufacturer>
+		<year>1999</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mchampdxa" index="" image="">
+		<description>Multi Champ Deluxe (ver. 1126, 26/11/1999)</description>
+		<cloneof>mchampdx</cloneof>
+		<crc></crc>
+		<manufacturer>ESD</manufacturer>
+		<year>1999</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="multigam" index="" image="">
+		<description>Multi Game (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>unknown</manufacturer>
+		<year>1992</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="multigmb" index="" image="">
+		<description>Multi Game (set 2)</description>
+		<cloneof>multigam</cloneof>
+		<crc></crc>
+		<manufacturer>unknown</manufacturer>
+		<year>1992</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="multigmt" index="" image="">
+		<description>Multi Game (Tung Sheng Electronics)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tung Sheng Electronics</manufacturer>
+		<year>1992</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="multigm2" index="" image="">
+		<description>Multi Game 2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Seo Jin</manufacturer>
+		<year>1992</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="multigm3" index="" image="">
+		<description>Multi Game III</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Seo Jin</manufacturer>
+		<year>1992</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ncv1" index="true" image="n">
+		<description>Namco Classic Collection Vol.1</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1995</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ncv1j" index="" image="">
+		<description>Namco Classic Collection Vol.1 (Japan, v1.00)</description>
+		<cloneof>ncv1</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1995</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ncv1j2" index="" image="">
+		<description>Namco Classic Collection Vol.1 (Japan, v1.03)</description>
+		<cloneof>ncv1</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1995</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ncv2" index="" image="">
+		<description>Namco Classic Collection Vol.2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1996</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ncv2j" index="" image="">
+		<description>Namco Classic Collection Vol.2 (Japan)</description>
+		<cloneof>ncv2</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1996</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="otenamhf" index="true" image="o">
+		<description>Otenami Haiken Final (V2.07JC)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Success / Warashi</manufacturer>
+		<year>2005</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mt_parlg" index="true" image="p">
+		<description>Parlour Games (Mega-Tech, SMS based)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pitboss2" index="" image="">
+		<description>Pit Boss II</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1988</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pitbossma" index="" image="">
+		<description>Pit Boss Megastar (9243-00-01)</description>
+		<cloneof>pitbossm</cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1994</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pitbossm" index="" image="">
+		<description>Pit Boss Megastar (9244-00-01)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1994</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pitbosssa" index="" image="">
+		<description>Pit Boss Superstar (9221-10-00A)</description>
+		<cloneof>pitbosss</cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1990</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pitbosss" index="" image="">
+		<description>Pit Boss Superstar (9221-10-00B)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1990</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pbst30b" index="" image="">
+		<description>Pit Boss Supertouch 30 (9234-00-01)</description>
+		<cloneof>pbst30</cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1993</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pbst30" index="" image="">
+		<description>Pit Boss Supertouch 30 (9234-10-01)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1994</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="polyplay" index="" image="">
+		<description>Poly-Play</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>VEB Polytechnik Karl-Marx-Stadt</manufacturer>
+		<year>1985</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="prosport" index="" image="">
+		<description>Pro Sports - Bowling, Tennis, and Golf (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="prosporta" index="" image="">
+		<description>Pro Sports - Bowling, Tennis, and Golf (set 2)</description>
+		<cloneof>prosport</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pclubys" index="" image="">
+		<description>Puzzle Club (Yun Sung, set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Yun Sung</manufacturer>
+		<year>2000</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pclubysa" index="" image="">
+		<description>Puzzle Club (Yun Sung, set 2)</description>
+		<cloneof>pclubys</cloneof>
+		<crc></crc>
+		<manufacturer>Yun Sung</manufacturer>
+		<year>2000</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="4in1boot" index="" image="">
+		<description>Puzzle King (includes bootleg of Snow Bros.)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>K1 Soft</manufacturer>
+		<year>2002</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="rollingc" index="true" image="r">
+		<description>Rolling Crash / Moon Base</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1979</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sspacaho" index="true" image="s">
+		<description>Space Attack / Head On</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1979</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="streetg2r5" index="" image="">
+		<description>Street Games II (Revision 5)</description>
+		<cloneof>streetg2</cloneof>
+		<crc></crc>
+		<manufacturer>New Image Technologies</manufacturer>
+		<year>1993</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="streetg2" index="" image="">
+		<description>Street Games II (Revision 7C)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>New Image Technologies</manufacturer>
+		<year>1993</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="usg32" index="" image="">
+		<description>Super Duper Casino (California V3.2)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>U.S. Games</manufacturer>
+		<year>1987</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="supergm3" index="" image="">
+		<description>Super Game III</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>unknown</manufacturer>
+		<year>1996</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat4s" index="" image="">
+		<description>Super Megatouch IV (9255-41-01 ROG, Standard version)</description>
+		<cloneof>megat4</cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1996</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat4sn" index="" image="">
+		<description>Super Megatouch IV (9255-41-07 ROG, New Jersey version)</description>
+		<cloneof>megat4</cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1996</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat4st" index="" image="">
+		<description>Super Megatouch IV Tournament Edition (9255-51-01 ROB, Standard version)</description>
+		<cloneof>megat4</cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1996</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="megat4stg" index="" image="">
+		<description>Super Megatouch IV Turnier Version (9255-51-50 ROA, Bi-Lingual GER/ENG version)</description>
+		<cloneof>megat4</cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1996</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="spitboss" index="" image="">
+		<description>Super Pit Boss</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Merit</manufacturer>
+		<year>1988</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="usg82" index="" image="">
+		<description>Super Ten V8.2</description>
+		<cloneof>usg83</cloneof>
+		<crc></crc>
+		<manufacturer>U.S. Games</manufacturer>
+		<year>1988</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="usg83" index="" image="">
+		<description>Super Ten V8.3</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>U.S. Games</manufacturer>
+		<year>1988</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="usg83x" index="" image="">
+		<description>Super Ten V8.3X</description>
+		<cloneof>usg83</cloneof>
+		<crc></crc>
+		<manufacturer>U.S. Games</manufacturer>
+		<year>1988</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="3wondersh" index="true" image="t">
+		<description>Three Wonders (hack)</description>
+		<cloneof>3wonders</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1991</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="3wondersu" index="" image="">
+		<description>Three Wonders (USA 910520)</description>
+		<cloneof>3wonders</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1991</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="3wonders" index="" image="">
+		<description>Three Wonders (World 910520)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1991</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tmdo" index="" image="">
+		<description>Touchmaster (v2.2-01 Standard)</description>
+		<cloneof>tm</cloneof>
+		<crc></crc>
+		<manufacturer>Midway Games Inc. / CES Inc.</manufacturer>
+		<year>1996</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tm" index="" image="">
+		<description>Touchmaster (v3.00 Euro)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway Games Inc. / CES Inc.</manufacturer>
+		<year>1996</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tm2kb" index="" image="">
+		<description>Touchmaster 2000 (v4.00 Standard)</description>
+		<cloneof>tm2k</cloneof>
+		<crc></crc>
+		<manufacturer>Midway Games Inc.</manufacturer>
+		<year>1996</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tm2ka" index="" image="">
+		<description>Touchmaster 2000 (v4.02 Standard)</description>
+		<cloneof>tm2k</cloneof>
+		<crc></crc>
+		<manufacturer>Midway Games Inc.</manufacturer>
+		<year>1996</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tm2k" index="" image="">
+		<description>Touchmaster 2000 Plus (v4.63 Standard)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway Games Inc.</manufacturer>
+		<year>1996</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tm3ka" index="" image="">
+		<description>Touchmaster 3000 (v5.01 Standard)</description>
+		<cloneof>tm3k</cloneof>
+		<crc></crc>
+		<manufacturer>Midway Games Inc.</manufacturer>
+		<year>1997</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tm3k" index="" image="">
+		<description>Touchmaster 3000 (v5.02 Standard)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway Games Inc.</manufacturer>
+		<year>1997</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tm4kb" index="" image="">
+		<description>Touchmaster 4000 (v6.01 Standard)</description>
+		<cloneof>tm4k</cloneof>
+		<crc></crc>
+		<manufacturer>Midway Games Inc.</manufacturer>
+		<year>1998</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tm4ka" index="" image="">
+		<description>Touchmaster 4000 (v6.02 Standard)</description>
+		<cloneof>tm4k</cloneof>
+		<crc></crc>
+		<manufacturer>Midway Games Inc.</manufacturer>
+		<year>1998</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tm4k" index="" image="">
+		<description>Touchmaster 4000 (v6.03 Standard)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway Games Inc.</manufacturer>
+		<year>1998</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tm5ka" index="" image="">
+		<description>Touchmaster 5000 (v7.01 Standard)</description>
+		<cloneof>tm5k</cloneof>
+		<crc></crc>
+		<manufacturer>Midway Games Inc.</manufacturer>
+		<year>1998</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tm5kca" index="" image="">
+		<description>Touchmaster 5000 (v7.10 California)</description>
+		<cloneof>tm5k</cloneof>
+		<crc></crc>
+		<manufacturer>Midway Games Inc.</manufacturer>
+		<year>1998</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tm5k" index="" image="">
+		<description>Touchmaster 5000 (v7.10 Standard)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway Games Inc.</manufacturer>
+		<year>1998</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tm7ka" index="" image="">
+		<description>Touchmaster 7000 (v8.00 Standard)</description>
+		<cloneof>tm7k</cloneof>
+		<crc></crc>
+		<manufacturer>Midway Games Inc.</manufacturer>
+		<year>1999</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tm7k" index="" image="">
+		<description>Touchmaster 7000 (v8.04 Standard)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway Games Inc.</manufacturer>
+		<year>1999</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tm7keval" index="" image="">
+		<description>Touchmaster 7000 (v8.1X Evaluation)</description>
+		<cloneof>tm7k</cloneof>
+		<crc></crc>
+		<manufacturer>Midway Games Inc.</manufacturer>
+		<year>1999</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tm8k902" index="" image="">
+		<description>Touchmaster 8000 (v9.02 Standard)</description>
+		<cloneof>tm8k</cloneof>
+		<crc></crc>
+		<manufacturer>Midway Games Inc.</manufacturer>
+		<year>2000</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tm8k" index="" image="">
+		<description>Touchmaster 8000 (v9.04 Standard)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Midway Games Inc.</manufacturer>
+		<year>2000</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tourtabl" index="" image="">
+		<description>Tournament Table (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1978</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tourtab2" index="" image="">
+		<description>Tournament Table (set 2)</description>
+		<cloneof>tourtabl</cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1978</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trisport" index="" image="">
+		<description>Tri-Sports</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1989</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tron4" index="" image="">
+		<description>Tron (6/15)</description>
+		<cloneof>tron</cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1982</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tron3" index="" image="">
+		<description>Tron (6/17)</description>
+		<cloneof>tron</cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1982</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tron2" index="" image="">
+		<description>Tron (6/25)</description>
+		<cloneof>tron</cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1982</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tron" index="" image="">
+		<description>Tron (8/9)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bally Midway</manufacturer>
+		<year>1982</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wonder3" index="true" image="w">
+		<description>Wonder 3 (Japan 910520)</description>
+		<cloneof>3wonders</cloneof>
+		<crc></crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1991</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="3in1semi" index="true" image="x">
+		<description>XESS - The New Revolution (SemiCom 3-in-1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SemiCom</manufacturer>
+		<year>1997</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="zokuoten" index="true" image="z">
+		<description>Zoku Otenamihaiken (V2.03J)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Success</manufacturer>
+		<year>2000</year>
+		<genre>Compilation</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

@@ -1,0 +1,509 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>MAME</listname>
+		<lastlistupdate>06/03/2012</lastlistupdate>
+		<listversion>.146 Ongoing</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="bcstry" index="true" image="b">
+		<description>B.C. Story (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SemiCom</manufacturer>
+		<year>1997</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bcstrya" index="" image="">
+		<description>B.C. Story (set 2)</description>
+		<cloneof>bcstry</cloneof>
+		<crc></crc>
+		<manufacturer>SemiCom</manufacturer>
+		<year>1997</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bishi" index="" image="">
+		<description>Bishi Bashi Championship Mini Game Senshuken (ver JAA, 3 Players)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1996</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="coolmini" index="true" image="c">
+		<description>Cool Minigame Collection</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SemiCom</manufacturer>
+		<year>1999</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="qcrayon2" index="" image="">
+		<description>Crayon Shinchan Orato Asobo (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1993</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sanjeon" index="true" image="d">
+		<description>DaeJeon! SanJeon SuJeon (AJTUE 990412 V1.000)</description>
+		<cloneof>sasissu</cloneof>
+		<crc></crc>
+		<manufacturer>Sega / Deniam</manufacturer>
+		<year>1999</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="daiskiss" index="" image="">
+		<description>Daisu-Kiss (ver JAA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1996</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ginkun" index="true" image="g">
+		<description>Ganbare Ginkun</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1995</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gotcha" index="" image="">
+		<description>Got-cha Mini Game Festival</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dongsung / Para</manufacturer>
+		<year>1997</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hndlchmp" index="true" image="h">
+		<description>Handle Champ (GQ710 VER. JAB)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1997</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hidctch3" index="" image="">
+		<description>Hidden Catch 3 (ver 1.00 / pcb ver 3.05)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Eolith</manufacturer>
+		<year>2000</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hyperbbca" index="" image="">
+		<description>Hyper Bishi Bashi Champ (GQ876 VER. AAA)</description>
+		<cloneof>hyperbbc</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1998</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hyperbbc" index="" image="">
+		<description>Hyper Bishi Bashi Champ (GQ876 VER. EAA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1998</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hypbbc2p" index="" image="">
+		<description>Hyper Bishi Bashi Champ - 2 Player (GX908 1999/08/24 VER. JAA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1999</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hypbbc2pk" index="" image="">
+		<description>Hyper Bishi Bashi Champ - 2 Player (GX908 1999/08/24 VER. KAA)</description>
+		<cloneof>hypbbc2p</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1999</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mgcldate" index="true" image="m">
+		<description>Magical Date / Magical Date - dokidoki kokuhaku daisakusen (Ver 2.02J)</description>
+		<cloneof>mgcldtex</cloneof>
+		<crc></crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1996</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mgcldtex" index="" image="">
+		<description>Magical Date EX / Magical Date - sotsugyou kokuhaku daisakusen (Ver 2.01J)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1997</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="maruchan" index="" image="">
+		<description>Maru-Chan de Goo! (J 971216 V1.000)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega / Toyosuisan</manufacturer>
+		<year>1997</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="moremore" index="" image="">
+		<description>More More</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SemiCom / Exit</manufacturer>
+		<year>1999</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="moremorp" index="" image="">
+		<description>More More Plus</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SemiCom / Exit</manufacturer>
+		<year>1999</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="multchmpk" index="" image="">
+		<description>Multi Champ (Korea)</description>
+		<cloneof>multchmp</cloneof>
+		<crc></crc>
+		<manufacturer>ESD</manufacturer>
+		<year>1998</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="multchmp" index="" image="">
+		<description>Multi Champ (World, ver. 2.5)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ESD</manufacturer>
+		<year>1999</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="oisipuzl" index="true" image="o">
+		<description>Oishii Puzzle Ha Irimasenka</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sunsoft / Atlus</manufacturer>
+		<year>1993</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="otenamih" index="" image="">
+		<description>Otenami Haiken (V2.04J)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Success</manufacturer>
+		<year>1999</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pasha2" index="true" image="p">
+		<description>Pasha Pasha 2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dong Sung</manufacturer>
+		<year>1998</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ppchamp" index="" image="">
+		<description>Pasha Pasha Champ Mini Game Festival (Korea)</description>
+		<cloneof>gotcha</cloneof>
+		<crc></crc>
+		<manufacturer>Dongsung / Para</manufacturer>
+		<year>1997</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="thuntk" index="" image="">
+		<description>Puzzle &amp; Action: BoMulEul Chajara (JUET 970125 V2.00K)</description>
+		<cloneof>sandor</cloneof>
+		<crc></crc>
+		<manufacturer>Sega / Deniam</manufacturer>
+		<year>1997</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ichirj" index="" image="">
+		<description>Puzzle &amp; Action: Ichidant-R (Japan)</description>
+		<cloneof>ichir</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ichirjbl" index="" image="">
+		<description>Puzzle &amp; Action: Ichidant-R (Japan) (bootleg)</description>
+		<cloneof>ichir</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1994</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ichirk" index="" image="">
+		<description>Puzzle &amp; Action: Ichidant-R (Korea)</description>
+		<cloneof>ichir</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ichir" index="" image="">
+		<description>Puzzle &amp; Action: Ichidant-R (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sandor" index="" image="">
+		<description>Puzzle &amp; Action: Sando-R (J 951114 V1.000)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1995</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tantr" index="" image="">
+		<description>Puzzle &amp; Action: Tant-R (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tantrbl" index="" image="">
+		<description>Puzzle &amp; Action: Tant-R (Japan) (bootleg set 1)</description>
+		<cloneof>tantr</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1992</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tantrbl2" index="" image="">
+		<description>Puzzle &amp; Action: Tant-R (Japan) (bootleg set 2)</description>
+		<cloneof>tantr</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1994</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tantrbl3" index="" image="">
+		<description>Puzzle &amp; Action: Tant-R (Japan) (bootleg set 3)</description>
+		<cloneof>tantr</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1994</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tantrkor" index="" image="">
+		<description>Puzzle &amp; Action: Tant-R (Korea)</description>
+		<cloneof>tantr</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="thunt" index="" image="">
+		<description>Puzzle &amp; Action: Treasure Hunt (JUET 970901 V2.00E)</description>
+		<cloneof>sandor</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1997</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="salarymc" index="true" image="s">
+		<description>Salary Man Champ (GCA18 VER. JAA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>2000</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="koroleva" index="" image="">
+		<description>Snezhnaja Koroleva</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Terminal</manufacturer>
+		<year>1988</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sotsugyo" index="" image="">
+		<description>Sotsugyo Shousho</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Mitchell (Atlus license)</manufacturer>
+		<year>1995</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sbishi" index="" image="">
+		<description>Super Bishi Bashi Championship (ver JAA, 2 Players)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1998</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sbishik" index="" image="">
+		<description>Super Bishi Bashi Championship (ver KAA, 3 Players)</description>
+		<cloneof>sbishi</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1998</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sasissu" index="true" image="t">
+		<description>Taisen Tanto-R Sashissu!! (J 980216 V1.000)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1998</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tenkomor" index="" image="">
+		<description>Tenkomori Shooting (Asia, TKM2/VER.A1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1998</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tenkomorja" index="" image="">
+		<description>Tenkomori Shooting (Japan, TKM1/VER.A1)</description>
+		<cloneof>tenkomor</cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1998</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tondemo" index="" image="">
+		<description>Tondemo Crisis (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1999</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="triplfun" index="" image="">
+		<description>Triple Fun</description>
+		<cloneof>oisipuzl</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1993</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wwallyja" index="true" image="w">
+		<description>Wally wo Sagase! (rev A, Japan, FD1094 317-0197A)</description>
+		<cloneof>wwallyj</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wwallyj" index="" image="">
+		<description>Wally wo Sagase! (rev B, Japan, FD1094 317-0197B)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Mini-Games</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

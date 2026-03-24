@@ -1,0 +1,609 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>MAME</listname>
+		<lastlistupdate>06/03/2012</lastlistupdate>
+		<listversion>.146 Ongoing</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="4enraya" index="true" image="4">
+		<description>4 En Raya</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>IDSA</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="abunai" index="true" image="a">
+		<description>Abunai Houkago - Mou Matenai (Japan 890325)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Green Soft</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ataxxe" index="" image="">
+		<description>Ataxx (Europe)</description>
+		<cloneof>ataxx</cloneof>
+		<crc></crc>
+		<manufacturer>Leland Corp.</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ataxxj" index="" image="">
+		<description>Ataxx (Japan)</description>
+		<cloneof>ataxx</cloneof>
+		<crc></crc>
+		<manufacturer>Leland Corp.</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ataxx" index="" image="">
+		<description>Ataxx (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Leland Corp.</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ataxxa" index="" image="">
+		<description>Ataxx (set 2)</description>
+		<cloneof>ataxx</cloneof>
+		<crc></crc>
+		<manufacturer>Leland Corp.</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dai2kaku" index="true" image="d">
+		<description>Dai-Dai-Kakumei (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SystemBit</manufacturer>
+		<year>2004</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="danchih" index="" image="">
+		<description>Danchi de Hanafuda (J 990607 V1.400)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Altron (Tecmo license)</manufacturer>
+		<year>1999</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Yellow (Sexual Content Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddenlovr" index="" image="">
+		<description>Don Den Lover Vol. 1 (Hong Kong)</description>
+		<cloneof>ddenlovj</cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1996</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddenlovrk" index="" image="">
+		<description>Don Den Lover Vol. 1 - Heukbaeg-euro Jeonghaja (Korea)</description>
+		<cloneof>ddenlovj</cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1995</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddenlovrb" index="" image="">
+		<description>Don Den Lover Vol. 1 - Heukbaeg-euro Jeonghaja (Korea, bootleg)</description>
+		<cloneof>ddenlovj</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1995</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ddenlovj" index="" image="">
+		<description>Don Den Lover Vol. 1 - Shiro Kuro Tsukeyo! (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1995</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="finalgdr" index="true" image="f">
+		<description>Final Godori (Korea, version 2.20.5915)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SemiCom</manufacturer>
+		<year>2001</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gionbana" index="true" image="g">
+		<description>Gionbana (Japan 890120)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mgion" index="" image="">
+		<description>Gionbana [BET] (Japan 890207)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="go2000" index="" image="">
+		<description>Go 2000</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SA</manufacturer>
+		<year>2000</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gfire2" index="" image="">
+		<description>Golden Fire II</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Topis Corp</manufacturer>
+		<year>1992</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gomoku" index="" image="">
+		<description>Gomoku Narabe Renju</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1981</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hanaawas" index="true" image="h">
+		<description>Hana Awase</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Seta Kikaku, Ltd.</manufacturer>
+		<year>1982</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hnfubuki" index="" image="">
+		<description>Hana Fubuki [BET] (Japan)</description>
+		<cloneof>hnayayoi</cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1987</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hjingi" index="" image="">
+		<description>Hana Jingi (Japan, Bet)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hkagerou" index="" image="">
+		<description>Hana Kagerou [BET] (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nakanihon / Dynax</manufacturer>
+		<year>1997</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hanakanz" index="" image="">
+		<description>Hana Kanzashi (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1996</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hnkochou" index="" image="">
+		<description>Hana Kochou (Japan, Bet)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hanamai" index="" image="">
+		<description>Hana no Mai (Japan)</description>
+		<cloneof>hnkochou</cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hnoridur" index="" image="">
+		<description>Hana Oriduru (Japan)</description>
+		<cloneof>hjingi</cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hanaoji" index="" image="">
+		<description>Hana to Ojisan [BET] (Japan 911209)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1991</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hanayara" index="" image="">
+		<description>Hana wo Yaraneba! (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1991</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hnayayoi" index="" image="">
+		<description>Hana Yayoi (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dyna Electronics</manufacturer>
+		<year>1987</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hginga" index="" image="">
+		<description>Hanafuda Hana Ginga</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1994</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hgokou" index="" image="">
+		<description>Hanafuda Hana Gokou (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax (Alba license)</manufacturer>
+		<year>1995</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hgokbang" index="" image="">
+		<description>Hanafuda Hana Gokou Bangaihen (Japan)</description>
+		<cloneof>hgokou</cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1995</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="htengoku" index="" image="">
+		<description>Hanafuda Hana Tengoku (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1992</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hanaroku" index="" image="">
+		<description>Hanaroku</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Alba</manufacturer>
+		<year>1988</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="heuksun" index="" image="">
+		<description>Heuk Sun Baek Sa (Korea)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Oksan / F2 System</manufacturer>
+		<year>199?</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="himesiki" index="" image="">
+		<description>Himeshikibu (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Hi-Soft</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jsk" index="true" image="j">
+		<description>Joryuu Syougi Kyoushitsu (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Visco</manufacturer>
+		<year>1997</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="koikoi" index="true" image="k">
+		<description>Koi Koi Part 2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Kiwako</manufacturer>
+		<year>1982</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="koikois" index="" image="">
+		<description>Koi Koi Shimasho</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Visco</manufacturer>
+		<year>1995</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="koikois2" index="" image="">
+		<description>Koi Koi Shimasho 2 - Super Real Hanafuda (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Visco</manufacturer>
+		<year>1997</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kothello" index="" image="">
+		<description>Kyuukyoku no Othello</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Success</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tjsb" index="true" image="m">
+		<description>Mahjong Tian Jiang Shen Bing (V137C)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>IGS</manufacturer>
+		<year>1997</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="maiko" index="" image="">
+		<description>Maikobana (Japan 900802)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mmaiko" index="" image="">
+		<description>Maikobana [BET] (Japan 900911)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mayjisn2" index="" image="">
+		<description>Mayjinsen 2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Seta</manufacturer>
+		<year>1994</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="meijinsn" index="" image="">
+		<description>Meijinsen</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1986</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="musobana" index="" image="">
+		<description>Musoubana (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nichibutsu / Yubis</manufacturer>
+		<year>1995</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="omotesnd" index="true" image="o">
+		<description>Omotesandou (Japan 890215)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Anime Tec</manufacturer>
+		<year>1989</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="othello" index="" image="">
+		<description>Othello (version 3.0)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Success</manufacturer>
+		<year>1984</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="othldrby" index="" image="">
+		<description>Othello Derby (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sunwise</manufacturer>
+		<year>1995</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="othellos" index="" image="">
+		<description>Othello Shiyouyo (J 980423 V1.002)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Success</manufacturer>
+		<year>1998</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="renju" index="true" image="r">
+		<description>Renju Kizoku</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Visco</manufacturer>
+		<year>1994</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="shougi" index="true" image="s">
+		<description>Shougi</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Alpha Denshi Co.</manufacturer>
+		<year>1982</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="shougi2" index="" image="">
+		<description>Shougi 2</description>
+		<cloneof>shougi</cloneof>
+		<crc></crc>
+		<manufacturer>Alpha Denshi Co.</manufacturer>
+		<year>1982</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ar_spot" index="" image="">
+		<description>Spot (Arcadia)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Arcadia Systems</manufacturer>
+		<year>1990</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hparadis" index="" image="">
+		<description>Super Hana Paradise (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Dynax</manufacturer>
+		<year>1994</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Red (Sexual Content Strong)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sothello" index="" image="">
+		<description>Super Othello</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Success / Fujiwara</manufacturer>
+		<year>1986</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mosyougi" index="" image="">
+		<description>Syougi No Tatsujin - Master of Syougi</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>ADK / SNK</manufacturer>
+		<year>1995</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="yuka" index="true" image="y">
+		<description>Yu-Ka</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Yubis / T.System</manufacturer>
+		<year>1999</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="yumefuda" index="" image="">
+		<description>Yumefuda [BET]</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Alba</manufacturer>
+		<year>1991</year>
+		<genre>Tabletop</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

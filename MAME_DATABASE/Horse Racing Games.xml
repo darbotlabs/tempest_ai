@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>MAME</listname>
+		<lastlistupdate>06/03/2012</lastlistupdate>
+		<listversion>.146 Ongoing</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="arlingtn" index="true" image="a">
+		<description>Arlington Horse Racing (v1.21-D)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Strata/Incredible Technologies</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Horse Racing</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="darkhleg" index="true" image="d">
+		<description>Dark Horse Legend (GX706 VER. JAA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Horse Racing</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="glpracr" index="true" image="g">
+		<description>Gallop Racer (Japan Ver 9.01.12)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Horse Racing</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="glpracr3" index="" image="">
+		<description>Gallop Racer 3 (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1999</year>
+		<genre>Sports/Horse Racing</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="neckneck" index="true" image="n">
+		<description>Neck-n-Neck (v1.2)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Bundra Games/Incredible Technologies</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Horse Racing</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="photof" index="true" image="p">
+		<description>Photo Finish</description>
+		<cloneof>wwjgtin</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg?</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Horse Racing</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="stakwin" index="true" image="s">
+		<description>Stakes Winner / Stakes Winner - GI kinzen seihae no michi</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Saurus</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Horse Racing</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="stakwin2" index="" image="">
+		<description>Stakes Winner 2</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Saurus</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Horse Racing</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wwjgtin" index="true" image="w">
+		<description>Wai Wai Jockey Gate-In!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco / Casio</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Horse Racing</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

@@ -1,0 +1,399 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>MAME</listname>
+		<lastlistupdate>06/03/2012</lastlistupdate>
+		<listversion>.146 Ongoing</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="ashnojoe" index="true" image="a">
+		<description>Ashita no Joe (Japan)</description>
+		<cloneof>scessjoe</cloneof>
+		<crc></crc>
+		<manufacturer>Wave / Taito Corporation</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bbbxing" index="true" image="b">
+		<description>Best Bout Boxing</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="chboxing" index="true" image="c">
+		<description>Champion Boxing</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="finalbj" index="true" image="f">
+		<description>Final Blow (Japan)</description>
+		<cloneof>finalb</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="finalbu" index="" image="">
+		<description>Final Blow (US)</description>
+		<cloneof>finalb</cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="finalb" index="" image="">
+		<description>Final Blow (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="fhboxers" index="" image="">
+		<description>Funky Head Boxers (JUETBKAL 951218 V1.000)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hpuncher" index="true" image="h">
+		<description>Hard Puncher (Japan)</description>
+		<cloneof>fround</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hwchamp" index="" image="">
+		<description>Heavyweight Champ</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hwchampj" index="" image="">
+		<description>Heavyweight Champ (Japan, FD1094 317-0046)</description>
+		<cloneof>hwchamp</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kingofb" index="true" image="k">
+		<description>King of Boxer (English)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Wood Place Inc.</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mainsnk" index="true" image="m">
+		<description>Main Event (1984)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pc_miket" index="" image="">
+		<description>Mike Tyson&apos;s Punch-Out!! (PlayChoice-10)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="poundforj" index="true" image="p">
+		<description>Pound for Pound (Japan)</description>
+		<cloneof>poundfor</cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="poundforu" index="" image="">
+		<description>Pound for Pound (US)</description>
+		<cloneof>poundfor</cloneof>
+		<crc></crc>
+		<manufacturer>Irem America</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="poundfor" index="" image="">
+		<description>Pound for Pound (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="prmtmfgt" index="" image="">
+		<description>Prime Time Fighter (Ver 2.1A 1993/05/21) (New Version)</description>
+		<cloneof>trstar</cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="prmtmfgto" index="" image="">
+		<description>Prime Time Fighter (Ver 2.1A 1993/05/21) (Old Version)</description>
+		<cloneof>trstar</cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="punchout" index="" image="">
+		<description>Punch-Out!!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="punchita" index="" image="">
+		<description>Punch-Out!! (Italian bootleg)</description>
+		<cloneof>punchout</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ringfgt" index="true" image="r">
+		<description>Ring Fighter (set 1)</description>
+		<cloneof>vsgongf</cloneof>
+		<crc></crc>
+		<manufacturer>Kaneko (Taito license)</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ringfgt2" index="" image="">
+		<description>Ring Fighter (set 2)</description>
+		<cloneof>vsgongf</cloneof>
+		<crc></crc>
+		<manufacturer>Kaneko (Taito license)</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ringking" index="" image="">
+		<description>Ring King (US set 1)</description>
+		<cloneof>kingofb</cloneof>
+		<crc></crc>
+		<manufacturer>Wood Place Inc. (Data East USA license)</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ringking2" index="" image="">
+		<description>Ring King (US set 2)</description>
+		<cloneof>kingofb</cloneof>
+		<crc></crc>
+		<manufacturer>Wood Place Inc. (Data East USA license)</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ringking3" index="" image="">
+		<description>Ring King (US set 3)</description>
+		<cloneof>kingofb</cloneof>
+		<crc></crc>
+		<manufacturer>Wood Place Inc. (Data East USA license)</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ringkingw" index="" image="">
+		<description>Ring King (US, Wood Place Inc.)</description>
+		<cloneof>kingofb</cloneof>
+		<crc></crc>
+		<manufacturer>Wood Place Inc.</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="scessjoe" index="true" image="s">
+		<description>Success Joe (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Wave / Taito Corporation</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="spnchout" index="" image="">
+		<description>Super Punch-Out!!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="spnchoutj" index="" image="">
+		<description>Super Punch-Out!! (Japan)</description>
+		<cloneof>spnchout</cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="froundl" index="true" image="t">
+		<description>The Final Round (version L)</description>
+		<cloneof>fround</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="fround" index="" image="">
+		<description>The Final Round (version M)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="titlefu" index="" image="">
+		<description>Title Fight (US)</description>
+		<cloneof>titlef</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="titlef" index="" image="">
+		<description>Title Fight (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trstarj" index="" image="">
+		<description>Top Ranking Stars (Ver 2.1J 1993/05/21) (New Version)</description>
+		<cloneof>trstar</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trstaroj" index="" image="">
+		<description>Top Ranking Stars (Ver 2.1J 1993/05/21) (Old Version)</description>
+		<cloneof>trstar</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trstar" index="" image="">
+		<description>Top Ranking Stars (Ver 2.1O 1993/05/21) (New Version)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="trstaro" index="" image="">
+		<description>Top Ranking Stars (Ver 2.1O 1993/05/21) (Old Version)</description>
+		<cloneof>trstar</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Life Like Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vsgongf" index="true" image="v">
+		<description>VS Gong Fight</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Kaneko</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tkoboxng" index="" image="">
+		<description>Vs. T.K.O. Boxing</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco / Data East USA</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Boxing</genre>
+		<rating>AAMA - Yellow (Animated Violence Mild)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>

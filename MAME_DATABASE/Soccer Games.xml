@@ -1,0 +1,1039 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>MAME</listname>
+		<lastlistupdate>06/03/2012</lastlistupdate>
+		<listversion>.146 Ongoing</listversion>
+		<exporterversion>HyperList XML Exporter Version 1.3 Copywrite (c) 2009-2011 William Strong</exporterversion>
+	</header>
+	<game name="asoccer" index="true" image="a">
+		<description>American Soccer</description>
+		<cloneof>idsoccer</cloneof>
+		<crc></crc>
+		<manufacturer>Universal</manufacturer>
+		<year>1987</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="soccer" index="" image="">
+		<description>Atari Soccer</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Atari</manufacturer>
+		<year>1980</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bssoccer" index="true" image="b">
+		<description>Back Street Soccer</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SunA</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bestleag" index="" image="">
+		<description>Best League (bootleg of Big Striker, Italian Serie A)</description>
+		<cloneof>bigstrik</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bestleaw" index="" image="">
+		<description>Best League (bootleg of Big Striker, World Cup)</description>
+		<cloneof>bigstrik</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bigstrik" index="" image="">
+		<description>Big Striker</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bigstrkba" index="" image="">
+		<description>Big Striker (bootleg w/Italian teams)</description>
+		<cloneof>bigstrik</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="bigstrkb" index="" image="">
+		<description>Big Striker (bootleg)</description>
+		<cloneof>bigstrik</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dsoccr94j" index="true" image="d">
+		<description>Dream Soccer &apos;94 (Japan, M92 hardware)</description>
+		<cloneof>dsoccr94</cloneof>
+		<crc></crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dsoccr94" index="" image="">
+		<description>Dream Soccer &apos;94 (World, M107 hardware)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Irem (Data East Corporation license)</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dribling" index="" image="">
+		<description>Dribbling</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Model Racing</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="driblingbr" index="" image="">
+		<description>Dribbling (bootleg, Brazil)</description>
+		<cloneof>dribling</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg (Videomac)</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="driblingo" index="" image="">
+		<description>Dribbling (Olympia)</description>
+		<cloneof>dribling</cloneof>
+		<crc></crc>
+		<manufacturer>Model Racing (Olympia license)</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="dynashot" index="" image="">
+		<description>Dynamic Shooting</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="euroch92" index="true" image="e">
+		<description>Euro Champ &apos;92 (World)</description>
+		<cloneof>footchmp</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wc90b1" index="" image="">
+		<description>Euro League (Italian hack of Tecmo World Cup &apos;90)</description>
+		<cloneof>wc90</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="evosocc" index="" image="">
+		<description>Evolution Soccer</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Evoga</manufacturer>
+		<year>2001</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="exctsccr" index="" image="">
+		<description>Exciting Soccer</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Alpha Denshi Co.</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="exctsccra" index="" image="">
+		<description>Exciting Soccer (alternate music)</description>
+		<cloneof>exctsccr</cloneof>
+		<crc></crc>
+		<manufacturer>Alpha Denshi Co.</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="exctsccrb" index="" image="">
+		<description>Exciting Soccer (bootleg)</description>
+		<cloneof>exctsccr</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="exctsccrj" index="" image="">
+		<description>Exciting Soccer (Japan set 1)</description>
+		<cloneof>exctsccr</cloneof>
+		<crc></crc>
+		<manufacturer>Alpha Denshi Co.</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="exctsccrj2" index="" image="">
+		<description>Exciting Soccer (Japan set 2)</description>
+		<cloneof>exctsccr</cloneof>
+		<crc></crc>
+		<manufacturer>Alpha Denshi Co.</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="exctscc2" index="" image="">
+		<description>Exciting Soccer II</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Alpha Denshi Co.</manufacturer>
+		<year>1984</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="fsoccerj" index="true" image="f">
+		<description>Fighting Soccer (Japan)</description>
+		<cloneof>fsoccer</cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="fsoccerb" index="" image="">
+		<description>Fighting Soccer (Joystick hack bootleg)</description>
+		<cloneof>fsoccer</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="fsoccerba" index="" image="">
+		<description>Fighting Soccer (Joystick hack bootleg, alt)</description>
+		<cloneof>fsoccer</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="fsoccer" index="" image="">
+		<description>Fighting Soccer (version 4)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="fiveside" index="" image="">
+		<description>Five a Side Soccer (ver UAA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="footchmp" index="" image="">
+		<description>Football Champ (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="goal92" index="true" image="g">
+		<description>Goal! &apos;92</description>
+		<cloneof>cupsoc</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="goalx3" index="" image="">
+		<description>Goal! Goal! Goal!</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Visco</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gstriker" index="" image="">
+		<description>Grand Striker</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Human</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gstrikera" index="" image="">
+		<description>Grand Striker (Americas)</description>
+		<cloneof>gstriker</cloneof>
+		<crc></crc>
+		<manufacturer>Human</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gstrik2" index="" image="">
+		<description>Grand Striker 2 (Europe and Oceania)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Human Amusement</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="gstrik2j" index="" image="">
+		<description>Grand Striker 2 (Japan)</description>
+		<cloneof>gstrik2</cloneof>
+		<crc></crc>
+		<manufacturer>Human Amusement</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mt_gsocr" index="" image="">
+		<description>Great Soccer (Mega-Tech, SMS based)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>198?</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hthero93" index="true" image="h">
+		<description>Hat Trick Hero &apos;93 (Ver 1.0J 1993/02/28)</description>
+		<cloneof>cupfinal</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hthero94" index="" image="">
+		<description>Hat Trick Hero &apos;94 (Ver 2.2A 1994/05/26)</description>
+		<cloneof>intcup94</cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hthero95u" index="" image="">
+		<description>Hat Trick Hero &apos;95 (Ver 2.5A 1994/11/03)</description>
+		<cloneof>pwrgoal</cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corporation</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hthero95" index="" image="">
+		<description>Hat Trick Hero &apos;95 (Ver 2.5J 1994/11/03)</description>
+		<cloneof>pwrgoal</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="hthero" index="" image="">
+		<description>Hat Trick Hero (Japan)</description>
+		<cloneof>footchmp</cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="idsoccer" index="true" image="i">
+		<description>Indoor Soccer (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Universal</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="idsoccera" index="" image="">
+		<description>Indoor Soccer (set 2)</description>
+		<cloneof>idsoccer</cloneof>
+		<crc></crc>
+		<manufacturer>Universal</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="intcup94" index="" image="">
+		<description>International Cup &apos;94 (Ver 2.2O 1994/05/26)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vshoot" index="true" image="j">
+		<description>J-League Soccer V-Shoot (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kicknrunu" index="true" image="k">
+		<description>Kick and Run (US)</description>
+		<cloneof>kicknrun</cloneof>
+		<crc></crc>
+		<manufacturer>Taito America Corp</manufacturer>
+		<year>1986</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kicknrun" index="" image="">
+		<description>Kick and Run (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation</manufacturer>
+		<year>1986</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kickgoal" index="" image="">
+		<description>Kick Goal</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>TCH</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kickoff" index="" image="">
+		<description>Kick Off (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1988</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="kyustrkr" index="true" image="l">
+		<description>Last Striker / Kyuukyoku no Striker</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>East Technology</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="lbgrande" index="" image="">
+		<description>Libero Grande (Asia, LG2/VER.A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mexico86" index="true" image="m">
+		<description>Mexico 86 (bootleg of Kick and Run)</description>
+		<cloneof>kicknrun</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1986</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="neocup98" index="true" image="n">
+		<description>Neo-Geo Cup &apos;98 - The Road to the Victory</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pc_wcup" index="" image="">
+		<description>Nintendo World Cup (PlayChoice-10)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Technos Japan (Nintendo license)</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pgoal" index="true" image="p">
+		<description>Pleasure Goal / Futsal - 5 on 5 Mini Soccer (NGM-219)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Saurus</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="powrplay" index="" image="">
+		<description>Power Play</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Cinematronics</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="prmrsocr" index="" image="">
+		<description>Premier Soccer (ver EAB)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="prmrsocrj" index="" image="">
+		<description>Premier Soccer (ver JAB)</description>
+		<cloneof>prmrsocr</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="primglex" index="" image="">
+		<description>Prime Goal EX (Japan, PG1/VER.A)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="prosoccr" index="" image="">
+		<description>Pro Soccer</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cpsoccer" index="" image="">
+		<description>Pro Soccer (DECO Cassette)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cpsoccerj" index="" image="">
+		<description>Pro Soccer (DECO Cassette, Japan)</description>
+		<cloneof>cpsoccer</cloneof>
+		<crc></crc>
+		<manufacturer>Data East Corporation</manufacturer>
+		<year>1983</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="socbrawlh" index="true" image="s">
+		<description>Soccer Brawl (NGH-031)</description>
+		<cloneof>socbrawl</cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="socbrawl" index="" image="">
+		<description>Soccer Brawl (NGM-031)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1991</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="soccerssa" index="" image="">
+		<description>Soccer Superstars (ver AAA)</description>
+		<cloneof>soccerss</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="soccerss" index="" image="">
+		<description>Soccer Superstars (ver EAA)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="soccerssja" index="" image="">
+		<description>Soccer Superstars (ver JAA)</description>
+		<cloneof>soccerss</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="soccerssj" index="" image="">
+		<description>Soccer Superstars (ver JAC)</description>
+		<cloneof>soccerss</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="scfinals" index="" image="">
+		<description>Super Cup Finals (Ver 2.1O 1993/11/19)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sfchampj" index="" image="">
+		<description>Super Football Champ (Ver 2.4J)</description>
+		<cloneof>sfchamp</cloneof>
+		<crc></crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sfchamp24o" index="" image="">
+		<description>Super Football Champ (Ver 2.4O)</description>
+		<cloneof>sfchamp</cloneof>
+		<crc></crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="sfchamp" index="" image="">
+		<description>Super Football Champ (Ver 2.5O)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ssideki" index="" image="">
+		<description>Super Sidekicks / Tokuten Ou</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ssideki2" index="" image="">
+		<description>Super Sidekicks 2 - The World Championship / Tokuten Ou 2 - real fight football (NGM-061)(NGH-061)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ssideki3" index="" image="">
+		<description>Super Sidekicks 3 - The Next Glory / Tokuten Ou 3 - eikoue no michi</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="nss_ssoc" index="" image="">
+		<description>Super Soccer (Nintendo Super System)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Human Inc.</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="svf" index="" image="">
+		<description>Super Visual Football: European Sega Cup</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="svs" index="" image="">
+		<description>Super Visual Soccer: Sega Cup (US)</description>
+		<cloneof>svf</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="cupfinal" index="true" image="t">
+		<description>Taito Cup Finals (Ver 1.0O 1993/02/28)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="pwrgoal" index="" image="">
+		<description>Taito Power Goal (Ver 2.5O 1994/11/03)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Taito Corporation Japan</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wc90a" index="" image="">
+		<description>Tecmo World Cup &apos;90 (Euro set 1)</description>
+		<cloneof>wc90</cloneof>
+		<crc></crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wc90b" index="" image="">
+		<description>Tecmo World Cup &apos;90 (Euro set 2)</description>
+		<cloneof>wc90</cloneof>
+		<crc></crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wc90t" index="" image="">
+		<description>Tecmo World Cup &apos;90 (trackball set 1)</description>
+		<cloneof>wc90</cloneof>
+		<crc></crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wc90" index="" image="">
+		<description>Tecmo World Cup &apos;90 (World)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mp_twc" index="" image="">
+		<description>Tecmo World Cup (Mega Play)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1993</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tecmowcm" index="" image="">
+		<description>Tecmo World Cup Millennium (Japan)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>2000</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tws96" index="" image="">
+		<description>Tecmo World Soccer &apos;96</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tehkanwc" index="" image="">
+		<description>Tehkan World Cup (set 1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Tehkan</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="tehkanwcb" index="" image="">
+		<description>Tehkan World Cup (set 2, bootleg?)</description>
+		<cloneof>tehkanwc</cloneof>
+		<crc></crc>
+		<manufacturer>Tehkan</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="jleague" index="" image="">
+		<description>The J.League 1994 (Japan)</description>
+		<cloneof>svf</cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ssideki4" index="" image="">
+		<description>The Ultimate 11 - The SNK Football Championship / Tokuten Ou - Honoo no Libero</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vsnetscra" index="true" image="v">
+		<description>Versus Net Soccer (ver AAA)</description>
+		<cloneof>vsnetscr</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vsnetscreb" index="" image="">
+		<description>Versus Net Soccer (ver EAB)</description>
+		<cloneof>vsnetscr</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vsnetscr" index="" image="">
+		<description>Versus Net Soccer (ver EAD)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vsnetscrj" index="" image="">
+		<description>Versus Net Soccer (ver JAB)</description>
+		<cloneof>vsnetscr</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vsnetscru" index="" image="">
+		<description>Versus Net Soccer (ver UAB)</description>
+		<cloneof>vsnetscr</cloneof>
+		<crc></crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vssoccer" index="" image="">
+		<description>Vs. Soccer</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="vssoccerj" index="" image="">
+		<description>Vs. Soccer (Japan)</description>
+		<cloneof>vssoccer</cloneof>
+		<crc></crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1985</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="mt_wcsoc" index="true" image="w">
+		<description>World Championship Soccer (Mega-Tech)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Sega</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wpksocv2" index="" image="">
+		<description>World PK Soccer V2 (ver 1.1)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Jaleco</manufacturer>
+		<year>1996</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wsf" index="" image="">
+		<description>World Soccer Finals</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Leland Corp.</manufacturer>
+		<year>1990</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="ar_socc" index="" image="">
+		<description>World Trophy Soccer (Arcadia, V 3.0)</description>
+		<cloneof></cloneof>
+		<crc></crc>
+		<manufacturer>Arcadia Systems</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+	<game name="wc90b2" index="" image="">
+		<description>Worldcup &apos;90</description>
+		<cloneof>wc90</cloneof>
+		<crc></crc>
+		<manufacturer>bootleg</manufacturer>
+		<year>1989</year>
+		<genre>Sports/Soccer</genre>
+		<rating>AAMA - Green (Suitable For All Ages)</rating>
+		<enabled>Yes</enabled>
+	</game>
+</menu>
