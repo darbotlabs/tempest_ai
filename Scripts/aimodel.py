@@ -994,7 +994,7 @@ class RainbowAgent:
         except Exception as e:
             print(f"  Replay buffer save failed: {e}")
 
-    def load(self, filepath, show_status=True) -> bool:
+    def load(self, filepath, show_status=True, load_replay=True) -> bool:
         if not os.path.exists(filepath):
             return False
         try:
@@ -1053,13 +1053,16 @@ class RainbowAgent:
 
             print(f"Loaded v2 model from {filepath}")
 
-            # Load replay buffer if present alongside the model
-            buf_path = filepath.rsplit(".", 1)[0] + "_replay"
-            try:
-                if not self.memory.load(buf_path, verbose=bool(show_status)):
-                    print("  No replay buffer found — starting with empty buffer.")
-            except Exception as e:
-                print(f"  Replay buffer load failed: {e}")
+            if load_replay:
+                # Load replay buffer if present alongside the model
+                buf_path = filepath.rsplit(".", 1)[0] + "_replay"
+                try:
+                    if not self.memory.load(buf_path, verbose=bool(show_status)):
+                        print("  No replay buffer found — starting with empty buffer.")
+                except Exception as e:
+                    print(f"  Replay buffer load failed: {e}")
+            elif show_status:
+                print("  Replay buffer load skipped by configuration.")
 
             return True
         except Exception as e:

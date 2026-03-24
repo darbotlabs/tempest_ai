@@ -707,6 +707,8 @@ def _render_dashboard_html() -> str:
       opacity: 0.55;
       cursor: default;
     }
+    .watch-game-btn { display:inline-block; border:1px solid rgba(255,100,0,.5); background:rgba(2,6,23,.8); color:#ffcc88; border-radius:999px; padding:8px 14px; font-size:12px; letter-spacing:.4px; text-transform:uppercase; cursor:pointer; text-decoration:none; box-shadow:inset 0 0 14px rgba(255,100,0,.12),0 0 14px rgba(255,100,0,.18); }
+    .watch-game-btn:hover { border-color:rgba(255,140,0,.8); color:#ffd9a0; }
     /* Status LED dot (connection indicator) */
     .dot {
       width: 10px;
@@ -937,6 +939,7 @@ def _render_dashboard_html() -> str:
       display: flex;
       align-items: center;
       justify-content: space-between;
+      flex-wrap: wrap;
       gap: 8px;
       margin-top: 4px;
     }
@@ -1184,6 +1187,12 @@ def _render_dashboard_html() -> str:
       <article class="card" style="--card-border:rgba(0,200,255,0.66);--card-glow:rgba(0,180,255,0.26)">
         <div class="label" style="display:flex;justify-content:space-between;align-items:center;">GAME SETTINGS<label style="font-size:10px;color:#b0c8e8;display:flex;align-items:center;gap:5px;font-weight:normal;cursor:pointer;">Automatic <span class="toggle-switch"><input type="checkbox" id="gsAutoCurriculum"><span class="slider"></span></span></label></div>
         <div class="game-settings-row">
+          <label>Game:
+            <select id="gsGame">
+              <option value="tempest1" selected>Tempest</option>
+              <option value="tetris">Tetris</option>
+            </select>
+          </label>
           <label>Level:
             <select id="gsLevel">
               <option value="1">1</option><option value="3">3</option><option value="5">5</option>
@@ -1259,6 +1268,7 @@ def _render_dashboard_html() -> str:
         <div class="status"><span class="dot" id="statusDot"></span><span id="statusText">Connected</span></div>
         <div class="display-fps-box"><span class="display-fps-label">Display FPS</span><span class="display-fps-value" id="displayFps">0</span></div>
         <button id="audioToggle" class="audio-toggle" type="button">Audio Off</button>
+        <a href="http://10.1.0.4:8766/" target="_blank" class="watch-game-btn">&#9654; Watch Live View</a>
       </div>
     </section>
   </main>
@@ -1361,10 +1371,11 @@ def _render_dashboard_html() -> str:
     };
     /* Game-settings controls */
     const gsAdvancedEl = document.getElementById("gsAdvanced");
+    const gsGameEl = document.getElementById("gsGame");
     const gsLevelEl = document.getElementById("gsLevel");
     const gsAutoCurrEl = document.getElementById("gsAutoCurriculum");
     const _gsAdmin = new URLSearchParams(window.location.search).get("admin") === "yes";
-    if (!_gsAdmin) { gsAdvancedEl.disabled = true; gsLevelEl.disabled = true; gsAutoCurrEl.disabled = true; }
+    if (!_gsAdmin) { gsAdvancedEl.disabled = true; gsGameEl.disabled = true; gsLevelEl.disabled = true; gsAutoCurrEl.disabled = true; }
     /* Epsilon / Expert up-down buttons — admin gate */
     document.querySelectorAll('#epsUD .ud-btn, #xprtUD .ud-btn').forEach(btn => {
       if (!_gsAdmin) { btn.disabled = true; return; }
@@ -1395,6 +1406,9 @@ def _render_dashboard_html() -> str:
       finally { setTimeout(() => { _gsIgnoreSync = false; }, 1500); }
     }
     if (_gsAdmin) {
+      gsGameEl.addEventListener("change", () => {
+        _postGameSettings({ selected_game: gsGameEl.value });
+      });
       gsAdvancedEl.addEventListener("change", () => {
         _postGameSettings({ start_advanced: gsAdvancedEl.checked });
       });
@@ -3424,6 +3438,7 @@ def _render_dashboard_html() -> str:
           gsAutoCurrEl.checked = gs.auto_curriculum;
           _applyAutoCurriculum(gs.auto_curriculum);
         }
+        if (gs.selected_game && gsGameEl.value !== gs.selected_game) gsGameEl.value = gs.selected_game;
         if (gsAdvancedEl.checked !== gs.start_advanced) gsAdvancedEl.checked = gs.start_advanced;
         if (parseInt(gsLevelEl.value, 10) !== gs.start_level_min) gsLevelEl.value = String(gs.start_level_min);
       }
@@ -3732,6 +3747,19 @@ def _make_handler(state: _DashboardState):
                 body = json.dumps(game_settings.snapshot()).encode("utf-8")
                 self._send(body, "application/json")
                 return
+            if path == "/watch":
+                wh = b"""<!doctype html><html><head><title>Arcade AI Live</title>
+<style>*{margin:0;padding:0}body{background:#000;display:flex;flex-direction:column;align-items:center;min-height:100vh}
+h1{color:#0ff;font-family:monospace;font-size:13px;letter-spacing:3px;padding:10px;text-transform:uppercase}
+.wrap{width:100%;max-width:960px;border:1px solid rgba(0,255,255,.25);box-shadow:0 0 30px rgba(0,255,255,.1)}
+img{width:100%;display:block;image-rendering:pixelated}
+a{color:#888;font-family:monospace;font-size:11px;margin:8px;text-decoration:none}</style></head>
+<body><h1>&#9654; Arcade AI &mdash; Live Game</h1>
+<div class="wrap"><img src="http://10.1.0.4:8766/stream" /></div>
+<a href="http://10.1.0.4:8765">&larr; Back to Dashboard</a>
+</body></html>"""
+                self._send(wh, "text/html; charset=utf-8")
+                return
             self._send(b"Not Found", "text/plain; charset=utf-8", status=404)
 
         def do_POST(self):
@@ -3752,6 +3780,8 @@ def _make_handler(state: _DashboardState):
                         game_settings.expert_pct = int(data["expert_pct"])
                     if "auto_curriculum" in data:
                         game_settings.auto_curriculum = bool(data["auto_curriculum"])
+                    if "selected_game" in data:
+                        game_settings.selected_game = data["selected_game"]
                     game_settings.save()
                     body = json.dumps(game_settings.snapshot()).encode("utf-8")
                     self._send(body, "application/json")

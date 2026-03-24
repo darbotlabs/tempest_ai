@@ -184,6 +184,20 @@ TEMPEST_SELECTABLE_LEVELS = [
     36, 40, 44, 47, 49, 52, 56, 60, 63, 65, 73, 81,
 ]
 
+VIEWPORT_GAME_OPTIONS = (
+    ("tempest1", "Tempest"),
+    ("tetris", "Tetris"),
+)
+VIEWPORT_GAME_IDS = {game_id for game_id, _label in VIEWPORT_GAME_OPTIONS}
+DEFAULT_VIEWPORT_GAME = "tempest1"
+
+
+def normalize_viewport_game(value: object) -> str:
+    game_id = str(value or DEFAULT_VIEWPORT_GAME).strip().lower()
+    if game_id not in VIEWPORT_GAME_IDS:
+        return DEFAULT_VIEWPORT_GAME
+    return game_id
+
 class GameSettings:
     """Thread-safe container for operator-adjustable game settings."""
     def __init__(self):
@@ -193,6 +207,7 @@ class GameSettings:
         self._epsilon_pct: int = -1   # -1 = auto (follow decay), 0-100 = manual override %
         self._expert_pct: int = -1    # -1 = auto (follow decay), 0-100 = manual override %
         self._auto_curriculum: bool = False
+        self._selected_game: str = DEFAULT_VIEWPORT_GAME
 
     @property
     def start_advanced(self) -> bool:
@@ -244,6 +259,16 @@ class GameSettings:
         with self._lock:
             self._auto_curriculum = bool(value)
 
+    @property
+    def selected_game(self) -> str:
+        with self._lock:
+            return self._selected_game
+
+    @selected_game.setter
+    def selected_game(self, value: object):
+        with self._lock:
+            self._selected_game = normalize_viewport_game(value)
+
     def snapshot(self) -> dict:
         with self._lock:
             return {
@@ -252,6 +277,7 @@ class GameSettings:
                 "epsilon_pct": self._epsilon_pct,
                 "expert_pct": self._expert_pct,
                 "auto_curriculum": self._auto_curriculum,
+                "selected_game": self._selected_game,
             }
 
     def reset(self) -> None:
@@ -262,6 +288,7 @@ class GameSettings:
             self._epsilon_pct = -1
             self._expert_pct = -1
             self._auto_curriculum = False
+            self._selected_game = DEFAULT_VIEWPORT_GAME
 
     # ── Persistence ───────────────────────────────────────────────
 
@@ -293,6 +320,8 @@ class GameSettings:
                     self._expert_pct = max(-1, min(100, int(data["expert_pct"])))
                 if "auto_curriculum" in data:
                     self._auto_curriculum = bool(data["auto_curriculum"])
+                if "selected_game" in data:
+                    self._selected_game = normalize_viewport_game(data["selected_game"])
         except FileNotFoundError:
             pass  # first run — use defaults
         except Exception:

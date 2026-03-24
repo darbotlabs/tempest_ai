@@ -5,7 +5,7 @@
 # ==================================================================================================================
 """Tempest AI main entry point — Rainbow-Attention engine."""
 
-import os, sys, time, threading, traceback
+import os, sys, time, threading, traceback, subprocess
 import socket
 import torch
 
@@ -80,6 +80,47 @@ def _resolve_dashboard_url_host(bind_host: str) -> str:
     if bind_host in {"0.0.0.0", "::", "[::]"}:
         return _best_lan_ip()
     return bind_host
+
+
+def _start_viewport_server(dashboard_enabled: bool) -> tuple[subprocess.Popen | None, object | None]:
+    if not dashboard_enabled or not _env_enabled("TEMPEST_VIEWPORT", True):
+        return None, None
+    script_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "stream_server.py")
+    project_root = os.path.dirname(os.path.dirname(script_path))
+    if not os.path.exists(script_path):
+        print(f"⚠ Viewport server script missing: {script_path}")
+        return None, None
+    log_path = os.getenv("TEMPEST_VIEWPORT_LOG", "/tmp/tempest_viewport.log")
+    try:
+        log_handle = open(log_path, "ab")
+    except Exception as e:
+        print(f"⚠ Viewport log open failed: {e}")
+        return None, None
+    try:
+        proc = subprocess.Popen(
+            [sys.executable, script_path],
+            cwd=project_root,
+            stdout=log_handle,
+            stderr=subprocess.STDOUT,
+        )
+        return proc, log_handle
+    except Exception as e:
+        log_handle.close()
+        print(f"⚠ Viewport startup failed: {e}")
+        return None, None
+
+
+def _stop_managed_process(proc: subprocess.Popen | None, name: str) -> None:
+    if proc is None or proc.poll() is not None:
+        return
+    try:
+        proc.terminate()
+        proc.wait(timeout=5)
+    except subprocess.TimeoutExpired:
+        print(f"⚠ {name} did not exit cleanly; killing it")
+        proc.kill()
+    except Exception as e:
+        print(f"⚠ Failed to stop {name}: {e}")
 
 
 # ── Buffer stats ────────────────────────────────────────────────────────────
@@ -295,20 +336,8 @@ def main():
     print_network_info(agent)
 
     dashboard = None
-
-    if os.path.exists(LATEST_MODEL_PATH):
-        loaded = agent.load(LATEST_MODEL_PATH)
-        if loaded:
-            print(f"✓ Loaded model from: {LATEST_MODEL_PATH}\n")
-        else:
-            print("⚠ Model load failed/incompatible, starting fresh\n")
-            game_settings.reset()
-            game_settings.save()
-    else:
-        print("⚠ No model found, starting fresh\n")
-        game_settings.reset()
-        game_settings.save()
-
+    viewport_proc = None
+    viewport_log = None
     dashboard_enabled = _env_enabled("TEMPEST_DASHBOARD", True)
     dashboard_host = _resolve_dashboard_host()
     desktop_session = _has_desktop_session()
@@ -320,6 +349,7 @@ def main():
         dashboard_port = int(os.getenv("TEMPEST_DASHBOARD_PORT", "8765"))
     except Exception:
         dashboard_port = 8765
+
     if dashboard_enabled:
         try:
             dashboard = MetricsDashboard(
@@ -335,9 +365,31 @@ def main():
             print(f"📊 Metrics dashboard: {dashboard_url}")
             if dashboard.host != dashboard_url_host:
                 print(f"   Bound on {dashboard.host}:{dashboard.port}")
+            viewport_proc, viewport_log = _start_viewport_server(dashboard_enabled=True)
+            if viewport_proc is not None:
+                viewport_port = int(os.getenv("TEMPEST_VIEWPORT_PORT", "8766"))
+                print(f"🎮 Live viewport: http://{dashboard_url_host}:{viewport_port}")
         except Exception as e:
             dashboard = None
             print(f"⚠ Dashboard startup failed: {e}")
+
+    load_replay = _env_enabled("TEMPEST_LOAD_REPLAY", True)
+    if os.path.exists(LATEST_MODEL_PATH):
+        loaded = agent.load(LATEST_MODEL_PATH, load_replay=load_replay)
+        if loaded:
+            print(f"✓ Loaded model from: {LATEST_MODEL_PATH}\n")
+        else:
+            print("⚠ Model load failed/incompatible, starting fresh\n")
+            selected_game = game_settings.selected_game
+            game_settings.reset()
+            game_settings.selected_game = selected_game
+            game_settings.save()
+    else:
+        print("⚠ No model found, starting fresh\n")
+        selected_game = game_settings.selected_game
+        game_settings.reset()
+        game_settings.selected_game = selected_game
+        game_settings.save()
 
     server = SocketServer(SERVER_CONFIG.host, SERVER_CONFIG.port, agent, metrics)
     metrics.global_server = server
@@ -374,6 +426,12 @@ def main():
             server.stop()
         except Exception:
             pass
+        _stop_managed_process(viewport_proc, "viewport server")
+        if viewport_log is not None:
+            try:
+                viewport_log.close()
+            except Exception:
+                pass
         try:
             agent.stop()
         except Exception:
