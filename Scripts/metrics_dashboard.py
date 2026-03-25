@@ -966,6 +966,39 @@ def _render_dashboard_html() -> str:
       border-color: rgba(100, 180, 255, 0.7);
       box-shadow: 0 0 6px rgba(100, 180, 255, 0.3);
     }
+    .game-selector-wrap {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      max-width: 320px;
+    }
+    .game-selector-wrap input {
+      padding: 5px 8px;
+      background: rgba(0,20,40,.85);
+      border: 1px solid rgba(100,180,255,.25);
+      color: #e0f0ff;
+      font-family: inherit;
+      font-size: 12px;
+      border-radius: 3px;
+      outline: none;
+    }
+    .game-selector-wrap input:focus {
+      border-color: rgba(100,180,255,.5);
+    }
+    .game-selector-wrap select {
+      max-height: 200px;
+      overflow-y: auto;
+    }
+    .game-selector-wrap select optgroup {
+      color: #6af;
+      font-style: normal;
+      font-weight: bold;
+    }
+    .game-selector-info {
+      font-size: 10px;
+      color: rgba(180,200,230,.7);
+      min-height: 14px;
+    }
     /* Dark toggle switch */
     .toggle-switch { position: relative; display: inline-block; width: 28px; height: 14px; flex-shrink: 0; }
     .toggle-switch input { opacity: 0; width: 0; height: 0; position: absolute; }
@@ -1187,12 +1220,14 @@ def _render_dashboard_html() -> str:
       <article class="card" style="--card-border:rgba(0,200,255,0.66);--card-glow:rgba(0,180,255,0.26)">
         <div class="label" style="display:flex;justify-content:space-between;align-items:center;">GAME SETTINGS<label style="font-size:10px;color:#b0c8e8;display:flex;align-items:center;gap:5px;font-weight:normal;cursor:pointer;">Automatic <span class="toggle-switch"><input type="checkbox" id="gsAutoCurriculum"><span class="slider"></span></span></label></div>
         <div class="game-settings-row">
-          <label>Game:
-            <select id="gsGame">
+          <label>Game:</label>
+          <div class="game-selector-wrap">
+            <input type="text" id="gsGameSearch" placeholder="Search games..." autocomplete="off" />
+            <select id="gsGame" size="8">
               <option value="tempest1" selected>Tempest</option>
-              <option value="tetris">Tetris</option>
             </select>
-          </label>
+            <div class="game-selector-info" id="gsGameInfo"></div>
+          </div>
           <label>Level:
             <select id="gsLevel">
               <option value="1">1</option><option value="3">3</option><option value="5">5</option>
@@ -1372,10 +1407,11 @@ def _render_dashboard_html() -> str:
     /* Game-settings controls */
     const gsAdvancedEl = document.getElementById("gsAdvanced");
     const gsGameEl = document.getElementById("gsGame");
+    const gsSearchEl = document.getElementById("gsGameSearch");
     const gsLevelEl = document.getElementById("gsLevel");
     const gsAutoCurrEl = document.getElementById("gsAutoCurriculum");
     const _gsAdmin = new URLSearchParams(window.location.search).get("admin") === "yes";
-    if (!_gsAdmin) { gsAdvancedEl.disabled = true; gsGameEl.disabled = true; gsLevelEl.disabled = true; gsAutoCurrEl.disabled = true; }
+    if (!_gsAdmin) { gsAdvancedEl.disabled = true; gsGameEl.disabled = true; gsLevelEl.disabled = true; gsAutoCurrEl.disabled = true; if (gsSearchEl) gsSearchEl.disabled = true; }
     /* Epsilon / Expert up-down buttons — admin gate */
     document.querySelectorAll('#epsUD .ud-btn, #xprtUD .ud-btn').forEach(btn => {
       if (!_gsAdmin) { btn.disabled = true; return; }
@@ -1420,6 +1456,91 @@ def _render_dashboard_html() -> str:
         _applyAutoCurriculum(gsAutoCurrEl.checked);
       });
     }
+
+    // ── Game catalog integration ──
+    let _catalogGames = [];
+    let _catalogByGenre = {};
+    let _catalogGenres = [];
+
+    async function _loadGameCatalog() {
+      try {
+        const viewportPort = 8766;
+        const r = await fetch(`http://${location.hostname}:${viewportPort}/api/catalog?parents_only=1&launchable_only=1`);
+        const data = await r.json();
+        _catalogGames = data.games || [];
+        _catalogByGenre = {};
+        _catalogGames.forEach(g => {
+          const genre = g.genre || 'Miscellaneous';
+          if (!_catalogByGenre[genre]) _catalogByGenre[genre] = [];
+          _catalogByGenre[genre].push(g);
+        });
+        _catalogGenres = Object.keys(_catalogByGenre).sort();
+        _populateGameDropdown(_catalogGames);
+      } catch(e) {
+        console.warn('Catalog load failed, using fallback', e);
+      }
+    }
+
+    function _populateGameDropdown(games, searchQuery) {
+      const sel = document.getElementById('gsGame');
+      const currentVal = sel.value;
+      const info = document.getElementById('gsGameInfo');
+      sel.innerHTML = '';
+
+      let filtered = games;
+      if (searchQuery) {
+        const q = searchQuery.toLowerCase();
+        filtered = games.filter(g =>
+          (g.description || '').toLowerCase().includes(q) ||
+          (g.game_id || '').toLowerCase().includes(q) ||
+          (g.manufacturer || '').toLowerCase().includes(q)
+        );
+      }
+
+      const byGenre = {};
+      filtered.forEach(g => {
+        const genre = g.genre || 'Miscellaneous';
+        if (!byGenre[genre]) byGenre[genre] = [];
+        byGenre[genre].push(g);
+      });
+
+      const genres = Object.keys(byGenre).sort();
+      genres.forEach(genre => {
+        const optgroup = document.createElement('optgroup');
+        optgroup.label = `${genre} (${byGenre[genre].length})`;
+        byGenre[genre]
+          .sort((a, b) => (a.description || '').localeCompare(b.description || ''))
+          .forEach(g => {
+            const opt = document.createElement('option');
+            opt.value = g.game_id;
+            opt.textContent = `${g.description} (${g.year})`;
+            if (g.game_id === currentVal) opt.selected = true;
+            optgroup.appendChild(opt);
+          });
+        sel.appendChild(optgroup);
+      });
+
+      if (info) {
+        info.textContent = `${filtered.length} games` + (searchQuery ? ` matching "${searchQuery}"` : ` across ${genres.length} genres`);
+      }
+
+      if (currentVal && sel.querySelector(`option[value="${currentVal}"]`)) {
+        sel.value = currentVal;
+      }
+    }
+
+    if (gsSearchEl) {
+      let _searchTimeout;
+      gsSearchEl.addEventListener('input', () => {
+        clearTimeout(_searchTimeout);
+        _searchTimeout = setTimeout(() => {
+          _populateGameDropdown(_catalogGames, gsSearchEl.value.trim());
+        }, 300);
+      });
+    }
+
+    _loadGameCatalog();
+
     const _selectableLevels = [1,3,5,7,9,11,13,15,17,20,22,24,26,28,31,33,36,40,44,47,49,52,56,60,63,65,73,81];
     function _computeAutoLevel(avgLevel) {
       const target = Math.floor(avgLevel) - 2;

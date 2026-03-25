@@ -184,17 +184,35 @@ TEMPEST_SELECTABLE_LEVELS = [
     36, 40, 44, 47, 49, 52, 56, 60, 63, 65, 73, 81,
 ]
 
-VIEWPORT_GAME_OPTIONS = (
-    ("tempest1", "Tempest"),
-    ("tetris", "Tetris"),
-)
-VIEWPORT_GAME_IDS = {game_id for game_id, _label in VIEWPORT_GAME_OPTIONS}
 DEFAULT_VIEWPORT_GAME = "tempest1"
+
+# Lazily cached set of launchable game IDs
+_launchable_cache: set[str] | None = None
+_launchable_lock = threading.Lock()
+
+
+def get_launchable_game_ids() -> set[str]:
+    """Return the set of launchable game IDs from the catalog (thread-safe, cached)."""
+    global _launchable_cache
+    if _launchable_cache is not None:
+        return _launchable_cache
+    with _launchable_lock:
+        if _launchable_cache is not None:
+            return _launchable_cache
+        try:
+            from game_catalog import get_catalog
+            ids = {g.game_id for g in get_catalog().get_launchable(parents_only=False)}
+            if ids:
+                _launchable_cache = ids
+                return ids
+        except Exception:
+            pass
+        return {"tempest1", "tetris"}
 
 
 def normalize_viewport_game(value: object) -> str:
     game_id = str(value or DEFAULT_VIEWPORT_GAME).strip().lower()
-    if game_id not in VIEWPORT_GAME_IDS:
+    if game_id not in get_launchable_game_ids():
         return DEFAULT_VIEWPORT_GAME
     return game_id
 
