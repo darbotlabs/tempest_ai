@@ -8,13 +8,13 @@ import socket
 import subprocess
 import threading
 import time
+import urllib.parse
 import urllib.request
 
 try:
     from config import (
         DEFAULT_VIEWPORT_GAME,
         SETTINGS_PATH,
-        VIEWPORT_GAME_OPTIONS,
         game_settings,
         normalize_viewport_game,
     )
@@ -22,10 +22,14 @@ except ImportError:
     from Scripts.config import (
         DEFAULT_VIEWPORT_GAME,
         SETTINGS_PATH,
-        VIEWPORT_GAME_OPTIONS,
         game_settings,
         normalize_viewport_game,
     )
+
+try:
+    from game_catalog import get_catalog
+except ImportError:
+    from Scripts.game_catalog import get_catalog
 
 
 BOUNDARY = b"--frame"
@@ -41,13 +45,13 @@ ROMPATH = os.getenv("TEMPEST_VIEWPORT_ROMPATH", os.path.join(PROJECT_ROOT, "MAME
 LUA_SCRIPT = os.path.join(SCRIPT_DIR, "main.lua")
 MAME_LOG = os.getenv("TEMPEST_VIEWPORT_MAME_LOG", "/tmp/mame_vis.log")
 SETTINGS_FILE = SETTINGS_PATH if os.path.isabs(SETTINGS_PATH) else os.path.join(PROJECT_ROOT, SETTINGS_PATH)
-SUPPORTED_GAMES = {
-    game_id: {
-        "label": label,
-        "use_lua": game_id == "tempest1",
-    }
-    for game_id, label in VIEWPORT_GAME_OPTIONS
-}
+MAME_FRONTEND = os.path.join(PROJECT_ROOT, "MAME_FRONTEND", "MAME")
+
+_LUA_GAMES = frozenset(("tempest1", "tempest", "tempest1r", "tempest2", "tempest3"))
+
+
+def _game_uses_lua(game_id: str) -> bool:
+    return game_id in _LUA_GAMES
 
 clients = []
 clients_lock = threading.Lock()
@@ -78,16 +82,6 @@ def dashboard_url() -> str:
 
 def render_watch_html() -> bytes:
     dashboard_href = dashboard_url()
-    tiles = "\n".join(
-        (
-            f'      <button class="game-tile{" active" if game_id == DEFAULT_VIEWPORT_GAME else ""}" '
-            f'data-game="{game_id}"><span class="lbl">Game Tile</span>'
-            f'<span class="val">{meta["label"]}</span>'
-            f'<span class="sub">{"AI-controlled live viewport" if meta["use_lua"] else "Launch from MAME_ROMS"}</span>'
-            f"</button>"
-        )
-        for game_id, meta in SUPPORTED_GAMES.items()
-    )
     html = f"""<!doctype html>
 <html lang="en">
 <head>
@@ -97,23 +91,51 @@ def render_watch_html() -> bytes:
 <style>
 *{{margin:0;padding:0;box-sizing:border-box}}
 body{{background:#050510;color:#0ff;font-family:'Courier New',monospace;min-height:100vh;display:flex;flex-direction:column}}
-.layout{{display:flex;flex:1;align-items:stretch}}
-.panel{{width:220px;flex-shrink:0;display:flex;flex-direction:column;gap:7px;padding:10px;background:rgba(0,0,0,.55);border:1px solid rgba(0,255,255,.12)}}
-.panel.left{{border-right:none}}.panel.right{{border-left:none}}
+.layout{{display:flex;flex:1;align-items:stretch;overflow:hidden}}
+
+/* --- Left library panel --- */
+.panel.left{{width:260px;flex-shrink:0;display:flex;flex-direction:column;background:rgba(0,0,0,.55);border-right:1px solid rgba(0,255,255,.12);overflow:hidden}}
+.lib-header{{padding:8px 10px 6px;border-bottom:1px solid rgba(0,255,255,.1)}}
+.lib-header h2{{font-size:11px;letter-spacing:2px;text-transform:uppercase;color:rgba(0,255,255,.7);margin-bottom:6px}}
+#searchInput{{width:100%;background:rgba(0,20,40,.9);border:1px solid rgba(0,255,255,.25);border-radius:4px;padding:6px 8px;color:#0ff;font-family:inherit;font-size:12px;outline:none}}
+#searchInput::placeholder{{color:rgba(0,255,255,.35)}}
+#searchInput:focus{{border-color:rgba(0,255,255,.6);box-shadow:0 0 8px rgba(0,255,255,.15)}}
+.lib-scroll{{flex:1;overflow-y:auto;padding:4px 0}}
+.lib-scroll::-webkit-scrollbar{{width:6px}}
+.lib-scroll::-webkit-scrollbar-track{{background:transparent}}
+.lib-scroll::-webkit-scrollbar-thumb{{background:rgba(0,255,255,.2);border-radius:3px}}
+.genre-section{{margin-bottom:2px}}
+.genre-header{{display:flex;align-items:center;gap:6px;padding:6px 10px;cursor:pointer;font-size:11px;letter-spacing:1px;text-transform:uppercase;color:rgba(0,255,255,.75);background:rgba(0,30,60,.5);border-bottom:1px solid rgba(0,255,255,.06);user-select:none;transition:background .15s}}
+.genre-header:hover{{background:rgba(0,40,80,.6)}}
+.genre-header .arrow{{font-size:8px;transition:transform .2s}}
+.genre-header.open .arrow{{transform:rotate(90deg)}}
+.genre-header .cnt{{margin-left:auto;font-size:10px;color:rgba(0,255,255,.4)}}
+.genre-games{{display:none;padding:2px 0}}
+.genre-header.open+.genre-games{{display:block}}
+.game-tile{{display:flex;align-items:center;gap:8px;padding:5px 10px 5px 18px;cursor:pointer;border-left:3px solid transparent;transition:background .12s,border-color .12s;font-size:12px;color:rgba(255,255,255,.8)}}
+.game-tile:hover{{background:rgba(0,255,255,.06);border-left-color:rgba(0,255,255,.3)}}
+.game-tile.active{{border-left-color:rgba(57,255,20,.75);background:rgba(57,255,20,.06);box-shadow:inset 0 0 12px rgba(57,255,20,.05)}}
+.game-tile.active .gt-name::after{{content:' \\2605';color:rgba(57,255,20,.8)}}
+.game-tile img.wheel-thumb{{width:32px;height:32px;object-fit:contain;border-radius:2px;flex-shrink:0;image-rendering:auto}}
+.game-tile .gt-info{{flex:1;min-width:0}}
+.game-tile .gt-name{{display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-size:12px;color:#e0f0ff}}
+.game-tile .gt-year{{font-size:9px;color:rgba(0,255,255,.4)}}
+.wheel-placeholder{{width:32px;height:32px;background:rgba(0,255,255,.08);border-radius:2px;flex-shrink:0;display:flex;align-items:center;justify-content:center;font-size:14px;color:rgba(0,255,255,.25)}}
+#libStatus{{padding:6px 10px;font-size:10px;color:rgba(0,255,255,.4);border-top:1px solid rgba(0,255,255,.06)}}
+
+/* --- Center viewport --- */
 .game-wrap{{flex:1;display:flex;align-items:center;justify-content:center;padding:6px;background:#000}}
 .game-wrap img{{width:100%;max-height:82vh;object-fit:contain;image-rendering:pixelated;border:1px solid rgba(0,255,255,.2);box-shadow:0 0 40px rgba(0,255,255,.08)}}
+
+/* --- Right metrics panel --- */
+.panel.right{{width:200px;flex-shrink:0;display:flex;flex-direction:column;gap:7px;padding:10px;background:rgba(0,0,0,.55);border-left:1px solid rgba(0,255,255,.12)}}
 .card{{background:rgba(0,20,40,.75);border:1px solid rgba(0,255,255,.16);border-radius:4px;padding:7px 9px}}
 .card .lbl{{font-size:9px;letter-spacing:1.5px;text-transform:uppercase;color:rgba(0,255,255,.6);margin-bottom:3px}}
 .card .val{{font-size:22px;color:#0ff;text-shadow:0 0 10px rgba(0,255,255,.5);line-height:1.1}}
 .card .sub{{font-size:10px;color:rgba(0,255,255,.5);margin-top:2px}}
-.tile-grid{{display:grid;grid-template-columns:1fr;gap:7px}}
-.game-tile{{width:100%;text-align:left;background:rgba(0,20,40,.82);border:1px solid rgba(0,255,255,.18);border-radius:4px;padding:9px;cursor:pointer;color:inherit;font-family:inherit;transition:border-color .15s, box-shadow .15s}}
-.game-tile:hover{{border-color:rgba(0,255,255,.45);box-shadow:0 0 12px rgba(0,255,255,.15)}}
-.game-tile.active{{border-color:rgba(57,255,20,.75);box-shadow:0 0 18px rgba(57,255,20,.18), inset 0 0 14px rgba(57,255,20,.10)}}
-.game-tile:disabled{{opacity:.65;cursor:wait}}
-.game-tile .lbl{{font-size:9px;letter-spacing:1.5px;text-transform:uppercase;color:rgba(0,255,255,.6);margin-bottom:3px;display:block}}
-.game-tile .val{{font-size:20px;color:#f3fbff;text-shadow:0 0 10px rgba(0,255,255,.4);line-height:1.1;display:block}}
-.game-tile .sub{{font-size:10px;color:rgba(0,255,255,.5);margin-top:3px;display:block}}
+#gameSwitchStatus{{min-height:1.2em}}
+
+/* --- Header / audio / status --- */
 header{{display:flex;align-items:center;justify-content:space-between;padding:6px 14px;background:rgba(0,0,0,.85);border-bottom:1px solid rgba(0,255,255,.12)}}
 header h1{{font-size:12px;letter-spacing:3px;text-transform:uppercase}}
 header a{{color:#555;font-size:11px;text-decoration:none}}header a:hover{{color:#0ff}}
@@ -123,13 +145,12 @@ header a{{color:#555;font-size:11px;text-decoration:none}}header a:hover{{color:
 #trackName{{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}}
 .ab{{background:none;border:1px solid rgba(0,255,255,.3);color:#0ff;border-radius:999px;padding:3px 10px;font-size:11px;cursor:pointer;font-family:inherit}}
 .ab:hover{{border-color:#0ff;box-shadow:0 0 8px rgba(0,255,255,.25)}}
-#gameSwitchStatus{{min-height:1.2em}}
-@media(max-width:860px){{
+
+@media(max-width:900px){{
   .layout{{flex-direction:column}}
-  .panel{{width:100%;flex-direction:row;flex-wrap:wrap;gap:6px;border:none;border-bottom:1px solid rgba(0,255,255,.1)}}
-  .panel.right{{border-bottom:none;border-top:1px solid rgba(0,255,255,.1)}}
-  .panel .card,.panel .game-tile{{flex:1;min-width:120px}}
-  .tile-grid{{grid-template-columns:repeat(2,minmax(120px,1fr));width:100%}}
+  .panel.left{{width:100%;max-height:40vh;border-right:none;border-bottom:1px solid rgba(0,255,255,.1)}}
+  .panel.right{{width:100%;flex-direction:row;flex-wrap:wrap;gap:6px;border-left:none;border-top:1px solid rgba(0,255,255,.1)}}
+  .panel.right .card{{flex:1;min-width:120px}}
   .game-wrap img{{max-height:55vw}}
 }}
 </style>
@@ -142,18 +163,21 @@ header a{{color:#555;font-size:11px;text-decoration:none}}header a:hover{{color:
 </header>
 <div class="layout">
   <div class="panel left">
-    <div class="card"><div class="lbl">Current Viewport Game</div><div class="val" id="currentGame">Arcade</div><div class="sub" id="gameSwitchStatus">Using local MAME_ROMS</div></div>
-    <div class="tile-grid">
-{tiles}
+    <div class="lib-header">
+      <h2>Library</h2>
+      <input type="text" id="searchInput" placeholder="Search games..." autocomplete="off" />
     </div>
+    <div class="lib-scroll" id="libScroll"></div>
+    <div id="libStatus">Loading catalog...</div>
+  </div>
+  <div class="game-wrap"><img src="/stream" alt="Live game" /></div>
+  <div class="panel right">
+    <div class="card"><div class="lbl">Current Game</div><div class="val" id="currentGame">Arcade</div><div class="sub" id="gameSwitchStatus">Using local MAME_ROMS</div></div>
     <div class="card"><div class="lbl">FPS</div><div class="val" id="fps">-</div></div>
     <div class="card"><div class="lbl">Avg Level</div><div class="val" id="level">-</div><div class="sub" id="peakLvl"></div></div>
     <div class="card"><div class="lbl">Clients</div><div class="val" id="clnts">-</div></div>
     <div class="card"><div class="lbl">Reward 1M</div><div class="val" id="rew">-</div></div>
     <div class="card"><div class="lbl">High Score</div><div class="val" id="hi">-</div></div>
-  </div>
-  <div class="game-wrap"><img src="/stream" alt="Live game" /></div>
-  <div class="panel right">
     <div class="card"><div class="lbl">Loss</div><div class="val" id="loss">-</div></div>
     <div class="card"><div class="lbl">Grad Norm</div><div class="val" id="gnorm">-</div></div>
     <div class="card"><div class="lbl">Inference</div><div class="val" id="inf">-</div><div class="sub">ms avg</div></div>
@@ -172,36 +196,137 @@ const METRICS='/api/now';
 const PLAYLIST='/api/audio_playlist';
 const GAME_SETTINGS='/api/game_settings';
 const SELECT_GAME='/api/select_game';
-const GAME_LABELS={json.dumps({game_id: meta["label"] for game_id, meta in SUPPORTED_GAMES.items()})};
-let tracks=[],idx=0,enabled=false,currentGame={json.dumps(DEFAULT_VIEWPORT_GAME)};
+const CATALOG_URL='/api/catalog?parents_only=1&launchable_only=1';
+let tracks=[],idx=0,enabled=false;
+let currentGame={json.dumps(DEFAULT_VIEWPORT_GAME)};
+let catalogGames=[];
+let genreMap={{}};
 const audio=document.getElementById('bgAudio');
 const statusEl=document.getElementById('gameSwitchStatus');
 const currentGameEl=document.getElementById('currentGame');
 const titleGameEl=document.getElementById('liveTitleGame');
-const tileEls=[...document.querySelectorAll('.game-tile')];
+const libScroll=document.getElementById('libScroll');
+const libStatus=document.getElementById('libStatus');
+const searchInput=document.getElementById('searchInput');
+
+/* --- Audio --- */
 async function loadPL(){{try{{const r=await fetch(PLAYLIST);const d=await r.json();tracks=d.tracks||[];if(tracks.length)setTrack(0);}}catch(e){{}}}}
 function setTrack(i){{if(!tracks.length)return;idx=(i+tracks.length)%tracks.length;audio.src=tracks[idx].url;document.getElementById('trackName').textContent=tracks[idx].name;if(enabled)audio.play().catch(()=>{{}});}}
 function toggleAudio(){{enabled=!enabled;document.getElementById('playBtn').textContent=enabled?'\\u23f8 Audio':'\\u25b6 Audio';if(enabled)audio.play().catch(()=>{{}});else audio.pause();}}
 function nextTrack(){{setTrack(idx+1);}}
 audio.addEventListener('ended',()=>setTrack(idx+1));
+
+/* --- Formatting --- */
 function fmt(v,d=0){{if(v===null||v===undefined)return'-';const n=Number(v);if(isNaN(n))return'-';if(Math.abs(n)>=1e6)return(n/1e6).toFixed(1)+'M';if(Math.abs(n)>=1e3)return(n/1e3).toFixed(1)+'K';return n.toFixed(d);}}
-function syncSelectedGame(game){{currentGame=GAME_LABELS[game]?game:{json.dumps(DEFAULT_VIEWPORT_GAME)};const label=GAME_LABELS[currentGame];currentGameEl.textContent=label;titleGameEl.textContent=label;document.title=label+' AI — Live';tileEls.forEach(el=>el.classList.toggle('active',el.dataset.game===currentGame));}}
-async function refreshGameSettings(){{try{{const r=await fetch(GAME_SETTINGS+'?t='+Date.now(),{{cache:'no-store'}});const d=await r.json();if(d.selected_game)syncSelectedGame(d.selected_game);}}catch(e){{}}}}
+
+/* --- Game state --- */
+function syncSelectedGame(game){{
+  currentGame=game;
+  const desc=gameDescMap[game]||game;
+  currentGameEl.textContent=desc;
+  titleGameEl.textContent=desc;
+  document.title=desc+' AI \\u2014 Live';
+  document.querySelectorAll('.game-tile').forEach(el=>el.classList.toggle('active',el.dataset.game===game));
+}}
+let gameDescMap={{}};
+
+/* --- Library catalog --- */
+function savedAccordion(){{try{{return JSON.parse(localStorage.getItem('genreAccState')||'{{}}')}}catch(e){{return {{}}}}}}
+function saveAccordion(state){{try{{localStorage.setItem('genreAccState',JSON.stringify(state))}}catch(e){{}}}}
+
+async function loadCatalog(){{
+  try{{
+    const r=await fetch(CATALOG_URL+'&per_page=50000&t='+Date.now(),{{cache:'no-store'}});
+    const d=await r.json();
+    catalogGames=d.games||[];
+    genreMap={{}};
+    gameDescMap={{}};
+    catalogGames.forEach(g=>{{
+      gameDescMap[g.game_id]=g.description||g.game_id;
+      const genre=g.genre||'Uncategorized';
+      if(!genreMap[genre])genreMap[genre]=[];
+      genreMap[genre].push(g);
+    }});
+    renderLibrary(catalogGames);
+    libStatus.textContent=catalogGames.length+' games loaded';
+  }}catch(e){{
+    libStatus.textContent='Catalog unavailable';
+  }}
+}}
+
+function renderLibrary(games){{
+  const byGenre={{}};
+  games.forEach(g=>{{
+    const genre=g.genre||'Uncategorized';
+    if(!byGenre[genre])byGenre[genre]=[];
+    byGenre[genre].push(g);
+  }});
+  const accState=savedAccordion();
+  const genres=Object.keys(byGenre).sort();
+  let html='';
+  genres.forEach(genre=>{{
+    const open=accState[genre]!==false;
+    const list=byGenre[genre];
+    html+='<div class="genre-section">';
+    html+='<div class="genre-header'+(open?' open':'')+'" data-genre="'+genre+'">';
+    html+='<span class="arrow">\\u25B6</span> '+genre;
+    html+='<span class="cnt">('+list.length+')</span></div>';
+    html+='<div class="genre-games">';
+    list.forEach(g=>{{
+      const isActive=g.game_id===currentGame;
+      const wheelSrc='/assets/wheel/'+g.game_id+'.png';
+      html+='<div class="game-tile'+(isActive?' active':'')+'" data-game="'+g.game_id+'" onclick="selectGame(\''+g.game_id+'\')">';
+      html+='<img class="wheel-thumb" src="'+wheelSrc+'" loading="lazy" onerror="this.outerHTML=\'<div class=wheel-placeholder>\\u25CE</div>\'" />';
+      html+='<div class="gt-info"><span class="gt-name">'+((g.description||g.game_id).replace(/</g,'&lt;'))+'</span>';
+      if(g.year||g.manufacturer)html+='<span class="gt-year">'+(g.year||'')+' '+(g.manufacturer||'')+'</span>';
+      html+='</div></div>';
+    }});
+    html+='</div></div>';
+  }});
+  libScroll.innerHTML=html;
+  libScroll.querySelectorAll('.genre-header').forEach(hdr=>{{
+    hdr.addEventListener('click',()=>{{
+      hdr.classList.toggle('open');
+      const st=savedAccordion();
+      st[hdr.dataset.genre]=hdr.classList.contains('open');
+      saveAccordion(st);
+    }});
+  }});
+}}
+
+/* --- Search (debounced) --- */
+let searchTimer=null;
+searchInput.addEventListener('input',()=>{{
+  clearTimeout(searchTimer);
+  searchTimer=setTimeout(()=>{{
+    const q=searchInput.value.trim().toLowerCase();
+    if(!q){{renderLibrary(catalogGames);libStatus.textContent=catalogGames.length+' games';return;}}
+    const filtered=catalogGames.filter(g=>{{
+      return (g.description||'').toLowerCase().includes(q)
+        || (g.game_id||'').toLowerCase().includes(q)
+        || (g.manufacturer||'').toLowerCase().includes(q);
+    }});
+    renderLibrary(filtered);
+    libStatus.textContent=filtered.length+' of '+catalogGames.length+' games';
+  }},300);
+}});
+
+/* --- Game selection --- */
 async function selectGame(game){{
-  tileEls.forEach(el=>el.disabled=true);
-  statusEl.textContent='Switching viewport to '+(GAME_LABELS[game]||game)+'...';
+  statusEl.textContent='Switching viewport to '+(gameDescMap[game]||game)+'...';
   try{{
     const r=await fetch(SELECT_GAME,{{method:'POST',headers:{{'Content-Type':'application/json'}},body:JSON.stringify({{selected_game:game}})}});
     const d=await r.json();
     syncSelectedGame(d.selected_game||game);
-    statusEl.textContent=d.message||('Viewport loaded '+(GAME_LABELS[d.selected_game||game]||game));
+    statusEl.textContent=d.message||('Viewport loaded '+(gameDescMap[d.selected_game||game]||game));
   }}catch(e){{
     statusEl.textContent='Viewport switch failed';
-  }}finally{{
-    tileEls.forEach(el=>el.disabled=false);
   }}
 }}
-tileEls.forEach(el=>el.addEventListener('click',()=>selectGame(el.dataset.game)));
+
+async function refreshGameSettings(){{try{{const r=await fetch(GAME_SETTINGS+'?t='+Date.now(),{{cache:'no-store'}});const d=await r.json();if(d.selected_game)syncSelectedGame(d.selected_game);}}catch(e){{}}}}
+
+/* --- Metrics polling --- */
 async function poll(){{try{{const r=await fetch(METRICS+'?t='+Date.now(),{{cache:'no-store'}});const d=await r.json();
 if(d.game_settings&&d.game_settings.selected_game)syncSelectedGame(d.game_settings.selected_game);
 document.getElementById('fps').textContent=fmt(d.fps);
@@ -217,7 +342,9 @@ document.getElementById('buf').textContent=fmt(d.memory_buffer_size);
 document.getElementById('agr').textContent=fmt((d.agreement_1m||0)*100,1)+'%';
 document.getElementById('dot').style.background='#0f0';document.getElementById('stxt').textContent='Live';
 }}catch(e){{document.getElementById('dot').style.background='#f00';document.getElementById('stxt').textContent='Offline';}}}}
-loadPL();refreshGameSettings();poll();setInterval(poll,1500);
+
+/* --- Boot --- */
+loadPL();refreshGameSettings();loadCatalog();poll();setInterval(poll,1500);
 </script>
 </body>
 </html>"""
@@ -271,7 +398,7 @@ def read_request(conn):
             break
         body += chunk
     path = target.split("?", 1)[0]
-    return method, path, body
+    return method, path, body, target
 
 
 def proxy_get(path):
@@ -356,8 +483,13 @@ def stop_visible_mame():
     return pids
 
 
-def launch_viewport_game(game):
-    game_id = normalize_viewport_game(game)
+def launch_viewport_game(game_id_raw):
+    catalog = get_catalog()
+    game_id = str(game_id_raw).strip().lower()
+
+    if not catalog.is_launchable(game_id):
+        return None, f"Game '{game_id}' not found or no ROM available"
+
     stop_visible_mame()
     cmd = [
         MAME_BIN,
@@ -372,7 +504,7 @@ def launch_viewport_game(game):
         "-rompath",
         ROMPATH,
     ]
-    if SUPPORTED_GAMES[game_id]["use_lua"]:
+    if _game_uses_lua(game_id):
         cmd.extend(["-autoboot_script", LUA_SCRIPT])
     env = os.environ.copy()
     env["DISPLAY"] = DISPLAY
@@ -386,13 +518,15 @@ def launch_viewport_game(game):
             stderr=subprocess.STDOUT,
             start_new_session=True,
         )
-    return proc.pid
+    return proc.pid, None
 
 
 def ensure_viewport_game_running():
     if list(iter_visible_mame_pids()):
         return
-    launch_viewport_game(load_selected_game())
+    pid, err = launch_viewport_game(load_selected_game())
+    if err:
+        print(f"Warning: could not launch viewport game: {err}", flush=True)
 
 
 def capture_loop():
@@ -463,17 +597,138 @@ def handle_select_game(conn, body):
     except Exception:
         send_response(conn, 400, b'{"error":"bad request"}', b"application/json")
         return
-    game_id = save_selected_game(payload.get("selected_game"))
+    game_id = str(payload.get("selected_game", "")).strip().lower()
+    if not game_id:
+        send_response(conn, 400, b'{"error":"missing selected_game"}', b"application/json")
+        return
+    game_id = save_selected_game(game_id)
     try:
         proxy_post_settings({"selected_game": game_id})
     except Exception:
         pass
-    pid = launch_viewport_game(game_id)
-    response = {
-        "selected_game": game_id,
-        "message": f"Viewport switched to {SUPPORTED_GAMES[game_id]['label']} (PID {pid})",
+    pid, err = launch_viewport_game(game_id)
+    if err:
+        response = {"selected_game": game_id, "error": err}
+        send_response(conn, 400, json.dumps(response).encode("utf-8"), b"application/json")
+    else:
+        catalog = get_catalog()
+        entry = catalog.games.get(game_id)
+        label = entry.description if entry else game_id
+        response = {
+            "selected_game": game_id,
+            "message": f"Viewport switched to {label} (PID {pid})",
+        }
+        send_response(conn, 200, json.dumps(response).encode("utf-8"), b"application/json")
+
+
+def _parse_qs(target):
+    """Parse query string from a request target into a dict."""
+    if "?" not in target:
+        return {}
+    qs = target.split("?", 1)[1]
+    params = {}
+    for part in qs.split("&"):
+        if "=" in part:
+            k, v = part.split("=", 1)
+            params[urllib.parse.unquote_plus(k)] = urllib.parse.unquote_plus(v)
+    return params
+
+
+def _serve_file(conn, file_path, content_type, cache_control=b"public, max-age=86400"):
+    """Serve a file from disk with caching headers."""
+    if not os.path.isfile(file_path):
+        send_response(conn, 404, b'{"error":"not found"}', b"application/json")
+        return
+    with open(file_path, "rb") as fh:
+        data = fh.read()
+    reasons = {200: b"OK"}
+    headers = [
+        b"HTTP/1.1 200 OK",
+        b"Content-Type: " + content_type,
+        b"Content-Length: " + str(len(data)).encode(),
+        b"Cache-Control: " + cache_control,
+        b"Access-Control-Allow-Origin: *",
+    ]
+    conn.sendall(b"\r\n".join(headers) + b"\r\n\r\n" + data)
+
+
+def handle_catalog_api(conn, target):
+    """Handle /api/catalog with filtering, search, and pagination."""
+    params = _parse_qs(target)
+    catalog = get_catalog()
+    parents_only = params.get("parents_only", "") == "1"
+    launchable_only = params.get("launchable_only", "") == "1"
+    genre = params.get("genre", "").strip()
+    query = params.get("q", "").strip()
+
+    if query:
+        games = catalog.search(query, parents_only=parents_only, launchable_only=launchable_only)
+    elif genre:
+        games = catalog.get_genre(genre, parents_only=parents_only, launchable_only=launchable_only)
+    elif launchable_only:
+        games = catalog.get_launchable(parents_only=parents_only)
+    else:
+        games = list(catalog.games.values())
+        if parents_only:
+            games = [g for g in games if g.is_parent]
+
+    total = len(games)
+    page = max(1, int(params.get("page", "1")))
+    per_page = min(50000, max(1, int(params.get("per_page", "50000"))))
+    start = (page - 1) * per_page
+    page_games = games[start:start + per_page]
+
+    result = {
+        "games": catalog.to_json_list(page_games),
+        "total": total,
+        "page": page,
+        "per_page": per_page,
     }
-    send_response(conn, 200, json.dumps(response).encode("utf-8"), b"application/json")
+    send_response(conn, 200, json.dumps(result).encode("utf-8"), b"application/json")
+
+
+def handle_genres_api(conn):
+    """Handle /api/genres."""
+    catalog = get_catalog()
+    result = {"genres": catalog.genre_summary()}
+    send_response(conn, 200, json.dumps(result).encode("utf-8"), b"application/json")
+
+
+def handle_asset_wheel(conn, path):
+    """Serve wheel art: /assets/wheel/{game_id}.png"""
+    game_id = path.rsplit("/", 1)[-1]
+    if not game_id.endswith(".png"):
+        send_response(conn, 404, b'{"error":"not found"}', b"application/json")
+        return
+    game_id = game_id[:-4]
+    file_path = os.path.join(MAME_FRONTEND, "Images", "Wheel", f"{game_id}.png")
+    _serve_file(conn, file_path, b"image/png")
+
+
+def handle_asset_video(conn, path):
+    """Serve preview video: /assets/video/{game_id}.flv"""
+    game_id = path.rsplit("/", 1)[-1]
+    if not game_id.endswith(".flv"):
+        send_response(conn, 404, b'{"error":"not found"}', b"application/json")
+        return
+    game_id = game_id[:-4]
+    # Check flat path first, then letter-based subdirectory
+    file_path = os.path.join(MAME_FRONTEND, "Video", f"{game_id}.flv")
+    if not os.path.isfile(file_path) and game_id:
+        letter = game_id[0].upper()
+        file_path = os.path.join(MAME_FRONTEND, "Video", letter, f"{game_id}.flv")
+    _serve_file(conn, file_path, b"video/x-flv")
+
+
+def handle_asset_genre_wheel(conn, path):
+    """Serve genre wheel art: /assets/genre/wheel/{genre_name}.png"""
+    filename = path.rsplit("/", 1)[-1]
+    if not filename.endswith(".png"):
+        send_response(conn, 404, b'{"error":"not found"}', b"application/json")
+        return
+    genre_name = urllib.parse.unquote(filename[:-4])
+    file_path = os.path.join(MAME_FRONTEND, "Images", "Genre", "Wheel", f"{genre_name}.png")
+    _serve_file(conn, file_path, b"image/png")
 
 
 def handle_client(conn):
@@ -482,7 +737,7 @@ def handle_client(conn):
         if not request:
             conn.close()
             return
-        method, path, body = request
+        method, path, body, target = request
         if path == "/stream":
             conn.sendall(
                 b"HTTP/1.1 200 OK\r\nContent-Type: multipart/x-mixed-replace; boundary=frame\r\n"
@@ -497,11 +752,41 @@ def handle_client(conn):
             send_response(conn, 200, frame, b"image/jpeg")
             conn.close()
             return
+
+        # --- Asset serving routes ---
+        if path.startswith("/assets/genre/wheel/"):
+            handle_asset_genre_wheel(conn, path)
+            conn.close()
+            return
+        if path.startswith("/assets/wheel/"):
+            handle_asset_wheel(conn, path)
+            conn.close()
+            return
+        if path.startswith("/assets/video/"):
+            handle_asset_video(conn, path)
+            conn.close()
+            return
+
+        # --- API routes ---
         if path == "/api/select_game":
             if method != "POST":
                 send_response(conn, 405, b'{"error":"method not allowed"}', b"application/json")
             else:
                 handle_select_game(conn, body)
+            conn.close()
+            return
+        if path == "/api/catalog":
+            if method != "GET":
+                send_response(conn, 405, b'{"error":"method not allowed"}', b"application/json")
+            else:
+                handle_catalog_api(conn, target)
+            conn.close()
+            return
+        if path == "/api/genres":
+            if method != "GET":
+                send_response(conn, 405, b'{"error":"method not allowed"}', b"application/json")
+            else:
+                handle_genres_api(conn)
             conn.close()
             return
         if path.startswith("/api/"):
